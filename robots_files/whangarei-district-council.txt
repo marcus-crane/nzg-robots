@@ -53,8 +53,8 @@ Disallow: /Community/Civil-Defence/State-highways
 Disallow: /Community/Civil-Defence/Storm-updates
 Disallow: /Community/Community-Facilities/Bike-parking/*
 Disallow: /Community/Community-Facilities/FN-Entertainment-Centre
-Disallow: /Community/Community-Facilities/New-page
-Disallow: /Community/Community-Facilities/OMB-tenancy-application
+Disallow: /Community/Community-Facilities/New-page/*
+Disallow: /Community/Community-Facilities/OMB-tenancy-application/*
 Disallow: /Community/Community-Facilities/Parks-and-reserves
 Disallow: /Community/Community-Facilities/Rolling-Ball-Clock/Rolling-Ball-Clock
 Disallow: /Community/Community-Facilities/SC-Libraries-enquiries
@@ -701,6 +701,7 @@ Disallow: /library/Home/Featured-Content/Creative-Writing-Competition
 Disallow: /library/Home/Featured-Content/Dementia-friendly-book-club
 Disallow: /library/Home/Featured-Content/Dragons-summer-challenges
 Disallow: /library/Home/Featured-Content/Drop-in-tech-help
+Disallow: /library/Home/Featured-Content/Drop-in-tech-help-feature
 Disallow: /library/Home/Featured-Content/Easter-event
 Disallow: /library/Home/Featured-Content/Easter-hours
 Disallow: /library/Home/Featured-Content/Event
@@ -709,11 +710,13 @@ Disallow: /library/Home/Featured-Content/Flash-fiction-workshop
 Disallow: /library/Home/Featured-Content/Free-DVDs
 Disallow: /library/Home/Featured-Content/Fringe-festival
 Disallow: /library/Home/Featured-Content/He-Kakano
+Disallow: /library/Home/Featured-Content/He-Kakano-feature
 Disallow: /library/Home/Featured-Content/Heritage
 Disallow: /library/Home/Featured-Content/Heritage-talk
 Disallow: /library/Home/Featured-Content/Jigsaw-puzzle-exchange
 Disallow: /library/Home/Featured-Content/JP-services
 Disallow: /library/Home/Featured-Content/LEGO-Club
+Disallow: /library/Home/Featured-Content/LEGO-club-feature
 Disallow: /library/Home/Featured-Content/Library-closure
 Disallow: /library/Home/Featured-Content/Library-services-presentation
 Disallow: /library/Home/Featured-Content/Lions-Club-Toy-Appeal
@@ -726,6 +729,7 @@ Disallow: /library/Home/Featured-Content/Multicultural-day
 Disallow: /library/Home/Featured-Content/New-page
 Disallow: /library/Home/Featured-Content/New-website-feeback
 Disallow: /library/Home/Featured-Content/Northland-heritage-online
+Disallow: /library/Home/Featured-Content/Northland-heritage-online-feature
 Disallow: /library/Home/Featured-Content/NZ-sign-language-week
 Disallow: /library/Home/Featured-Content/Preschool-funtimes
 Disallow: /library/Home/Featured-Content/Raranga-tonu

@@ -508,6 +508,7 @@ Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/Copy-
 Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/Copy-of-LS-Public-Forum-Council-Meeting-Workshop-14-Dec-1
 Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/Copy-of-LS-Risk-and-Assurance-Committee-Meeting-and-Council-Workshop-21-February-2024-1
 Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/Copy-of-LS-Risk-and-Assurance-Committee-Meeting-and-Council-Workshops-15-May-2024-1
+Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/Copy-of-LS-Risk-and-Assurance-Committee-Meeting-and-Council-Workshops-16-October-2024-1
 Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/Copy-of-LS-Risk-and-Assurance-Committee-Meeting-and-Council-Workshops-7-August-2024-1
 Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/Copy-of-LS-Risk-Assurance-Committee-Meeting-June-2023-1
 Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/Copy-of-LS-Risk-Assurance-Committee-Meeting-Workshops-August-2023-1
@@ -585,6 +586,7 @@ Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/LS-Pu
 Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/LS-Public-Forum-Council-Meeting-Workshop-14-Dec
 Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/LS-Public-Forum-Council-Meeting-Workshop-November-2022-1
 Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/LS-Public-Forum-Maori-Wards-28-August-2024
+Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/LS-Risk-and-Assurance-Committee-Meeting-2025
 Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/LS-Risk-and-Assurance-Committee-Meeting-and-Council-Workshop-21-February-2024
 Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/LS-Risk-and-Assurance-Committee-Meeting-and-Council-Workshops-15-May-2024
 Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/LS-Risk-and-Assurance-Committee-Meeting-and-Council-Workshops-15-May-2024-1

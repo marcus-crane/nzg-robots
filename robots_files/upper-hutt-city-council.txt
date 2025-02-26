@@ -77,11 +77,14 @@ Disallow: /Community/Events/Te-Kupenga-o-Rongomai-Unveiled/Te-Kupenga-o-Rongomai
 Disallow: /Community/Events/Upper-Hutt-Dog-Training-Club
 Disallow: /Community/Grants-and-funding/Economic-grants-and-incentives
 Disallow: /Community/Ki-Uta-app
-Disallow: /Community/Parks-Week/Parks-Week-Rotating-Banner/Birchville-Park
-Disallow: /Community/Parks-Week/Parks-Week-Rotating-Banner/Parks-Week-TMP-at-Dawn
-Disallow: /Community/Parks-Week/Parks-Week-Rotating-Banner/Parks-Week-TMP-Playground
-Disallow: /Community/Parks-Week/Parks-Week-Rotating-Banner/TMP-at-Dawn
+Disallow: /Community/New-page
+Disallow: /Community/New-page-1
+Disallow: /Community/Parks-Week/Parks-Week-Rotating-Banner/Child-on-swing
+Disallow: /Community/Parks-Week/Parks-Week-Rotating-Banner/Disc-Golf-at-Harcourt-Park
+Disallow: /Community/Parks-Week/Parks-Week-Rotating-Banner/Heretaunga-Park
+Disallow: /Community/Parks-Week/Parks-Week-Rotating-Banner/Pinehaven-Reserve
 Disallow: /Community/Parks-Week/Parks-Week-Rotating-Banner/TMP-Playground
+Disallow: /Community/Parks-Week/Parks-Week-Rotating-Banner/Walking-Trails
 Disallow: /Community/People-and-programmes/Mesa-Youth-Ambassadors/Mesa-Youth-Ambassadors-Exchange-photos
 Disallow: /Community/People-and-programmes/Mesa-Youth-Ambassadors-Exchange-Programme/Mesa-Youth-Ambassadors-Exchange-photos
 Disallow: /Community/Sustainable-living/httpsvimeo.comthewaygroupreview36470130338d051eafa
@@ -551,6 +554,7 @@ Disallow: /Home/In-Focus/Mana-whenua
 Disallow: /Home/In-Focus/Mana-whenua-heritage
 Disallow: /Home/In-Focus/My-Upper-Hutt
 Disallow: /Home/In-Focus/New-page
+Disallow: /Home/In-Focus/Parks-Week
 Disallow: /Home/In-Focus/Pride-2024
 Disallow: /Home/In-Focus/Pride-2024/Copy-of-Ki-Uta-app-1
 Disallow: /Home/In-Focus/Pride-2024/Ki-Uta-app
@@ -1930,6 +1934,7 @@ Disallow: /Sport-and-recreation/Activation/Bike-Recycling-Project/New-page
 Disallow: /Sport-and-recreation/Activation/Parks-and-Places
 Disallow: /Sport-and-recreation/Activation/Parks-and-Places-1
 Disallow: /Sport-and-recreation/Activation/The-Gas-Hubs-Parks-Places
+Disallow: /testing/*
 Disallow: /Test-page-for-Consult24
 Disallow: /Training-resources/Concept-Council-Meetings/Copy-of-test-attending-1
 Disallow: /Training-resources/Concept-Council-Meetings/Meeting-Schedules
