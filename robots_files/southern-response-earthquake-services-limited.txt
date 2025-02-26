@@ -1,0 +1,6 @@
+# This is the production robots.txt
+# See RobotsTxtMiddleware.cs to configure other environments
+
+User-agent: *
+
+Sitemap: https://www.southernresponse.co.nz/sitemap.xml

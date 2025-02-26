@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /*/allchanges
+Disallow: /*/changes
+Sitemap: https://www.agresearch.co.nz/sitemap.xml

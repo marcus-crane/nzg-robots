@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /digital-screen
+Disallow: /password-protected
+
+Sitemap: https://www.publictrust.co.nz/sitemap.xml

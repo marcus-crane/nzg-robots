@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /img/
+Disallow: /_privatefiles/
+Disallow: /assets/
+Disallow: /includes/
+Disallow: /css/
+Disallow: /font/
+
+Sitemap: http://www.ranzcp2013.co.nz/sitemap.xml

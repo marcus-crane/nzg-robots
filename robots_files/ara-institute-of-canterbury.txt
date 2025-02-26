@@ -1,0 +1,13 @@
+User-agent: *
+
+Disallow: /App_Browsers
+Disallow: /App_Data
+Disallow: /aspnet_client
+Disallow: /bin
+Disallow: /lang
+Disallow: /modules
+Disallow: /modulesbin
+Disallow: /node_modules
+Disallow: /Util
+
+Allow: /public

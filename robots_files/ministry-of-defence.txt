@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin
+Disallow: /Security/
+Sitemap: https://www.defence.govt.nz/sitemap.xml
+
+User-agent: AhrefsBot
+Crawl-delay: 60
+
+User-agent: Swiftbot
+Crawl-delay: 2

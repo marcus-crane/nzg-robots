@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /admin
+Disallow: /Security/
+Disallow: /files/snippet/
+Disallow: /assets/_snippets/
+Disallow: /assets/snippets/
+Disallow: /nzqf/search/*.html$
+Sitemap: https://www.nzqa.govt.nz/sitemap.xml
+
+User-agent: AhrefsBot
+Crawl-delay: 60
+
+User-agent: Swiftbot
+Crawl-delay: 2

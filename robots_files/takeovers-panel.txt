@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /Security/*
+
+Sitemap: https://www.takeovers.govt.nz/sitemap.xml

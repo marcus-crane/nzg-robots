@@ -1,0 +1,34 @@
+User-agent: * # Restrictions to all bots
+Allow: /
+Crawl-delay: 7
+
+User-agent: bingbot # Set crawl delay for important bots. Note Google ignores this
+Allow: /
+Crawl-delay: 20
+
+User-agent: msnbot
+Allow: /
+Crawl-delay: 20
+
+User-agent: Yandex
+Allow: /
+Crawl-delay: 20
+
+User-agent: Wget
+Allow: /
+Crawl-delay: 10
+
+User-agent: BLEXBot # Blacklist, based on logs
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: psbot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: magpie-crawler # Blacklist, based on others
+Disallow: /

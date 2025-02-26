@@ -1,0 +1,17 @@
+User-agent: Funnelback
+Allow: /
+
+User-agent: *
+Allow: /
+Disallow:/*?*
+Disallow:/*__data*
+Disallow:/*__lib*
+Disallow:/*__fudge*
+Disallow:/*_media*
+Disallow:/*_design*
+Disallow:/*T_LAYOUT_NAME*
+Disallow:/*SQ_*
+Disallow:/*SQ_PAINT_LAYOUT_NAME*
+Disallow:/*SQ_CALENDAR_VIEW*
+Disallow:/*SQ_CALENDAR_DATE*
+Disallow: /page-not-found

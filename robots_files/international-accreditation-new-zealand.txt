@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /umbraco/
+Disallow: /umbraco_client/
+Disallow: /App_Plugins/
+Disallow: /bin/
+Disallow: /config/
+Disallow: /css/
+Disallow: /scripts/
+Disallow: /views/
+Disallow: /media/
+
+# Allow indexing of the root and other public pages
+Allow: /
+
+# Sitemap location
+Sitemap: https://ianz.s05.system7.co.nz/sitemap

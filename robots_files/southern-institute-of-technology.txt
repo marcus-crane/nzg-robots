@@ -1,0 +1,246 @@
+#/-----------------------------------------------\
+#| Updated 20130925 - SLW - Disallow /Portals for indexing.
+#\-----------------------------------------------/
+#/-----------------------------------------------\
+#| Updated 20131010 - SLW - Removed /Resources rule and placed new ones
+#| Updated 20230227 - DMZ - Disallow login url for indexing.
+#| Updated 20230227 - DMZ - Disallow /mid/ */LinkClick.aspx url for indexing.
+#\-----------------------------------------------/
+
+
+Sitemap: https://www.sit.ac.nz/SiteMap.aspx
+Sitemap: https://www.sit.ac.nz/Portals/0/sitemap/sitemap.xml
+Sitemap: https://www.sit.ac.nz/sitemap.xml
+
+User-agent: msnbot
+Disallow: /admin/
+Disallow: /App_Browsers/
+Disallow: /App_Code/
+Disallow: /App_Data/
+Disallow: /App_GlobalResources/
+Disallow: /bin/
+Disallow: /Components/
+Disallow: /Config/
+Disallow: /contest/
+Disallow: /controls/
+Disallow: /DesktopModules/
+Allow: /DesktopModules/LiveContent/Handlers/
+Allow: /DesktopModules/*.css
+Allow: /DesktopModules/*.js
+Disallow: /Documentation/
+Disallow: /HttpModules/
+Disallow: /images/
+Disallow: /Install/
+Disallow: /js/
+Disallow: /Portals/
+Disallow: /Providers/
+Disallow: /Resources/ContentRotator/
+Disallow: /Resources/ControlPanel/
+Disallow: /Resources/Dashboard/
+Disallow: /Resources/FeedBrowser/
+Disallow: /Resources/OpenForceAd/
+Disallow: /Resources/Search/
+Disallow: /Resources/Shared/
+Disallow: /Resources/SkinWidgets/
+Disallow: /Resources/TabStrip/
+Disallow: /Resources/Widgets/
+Disallow: /Activity-Feed/userId/	# Do not index user profiles
+
+User-agent: Slurp
+Disallow: /*/ctl/		# Slurp permits *
+Disallow: /admin/
+Disallow: /App_Browsers/
+Disallow: /App_Code/
+Disallow: /App_Data/
+Disallow: /App_GlobalResources/
+Disallow: /bin/
+Disallow: /Components/
+Disallow: /Config/
+Disallow: /contest/
+Disallow: /controls/
+Disallow: /DesktopModules/
+Allow: /DesktopModules/LiveContent/Handlers/
+Disallow: /Documentation/
+Disallow: /HttpModules/
+Disallow: /images/
+Disallow: /Install/
+Disallow: /js/
+Disallow: /Portals/
+Disallow: /Providers/
+Disallow: /Resources/ContentRotator/
+Disallow: /Resources/ControlPanel/
+Disallow: /Resources/Dashboard/
+Disallow: /Resources/FeedBrowser/
+Disallow: /Resources/OpenForceAd/
+Disallow: /Resources/Search/
+Disallow: /Resources/Shared/
+Disallow: /Resources/SkinWidgets/
+Disallow: /Resources/TabStrip/
+Disallow: /Resources/Widgets/
+Disallow: /Activity-Feed/userId/	# Do not index user profiles
+
+User-agent: Googlebot
+Disallow: /*/ctl/		# Googlebot permits *
+Disallow: /Default.aspx?ctl
+Disallow: /Default.aspx?*error
+Disallow: */LinkClick.aspx?fileticket
+Disallow: */mid/
+Disallow: /Login*
+Disallow: /login*
+Disallow: /admin/
+Disallow: /App_Browsers/
+Disallow: /App_Code/
+Disallow: /App_Data/
+Disallow: /App_GlobalResources/
+Disallow: /bin/
+Disallow: /Components/
+Disallow: /Config/
+Disallow: /contest/
+Disallow: /controls/
+# Allow: /DesktopModules/LiveContent/
+# Allow: /DesktopModules/LiveGallery/
+# Allow: /DesktopModules/XModPro/
+Disallow: /DesktopModules/
+Allow: /DesktopModules/LiveContent/Handlers/
+Allow: /DesktopModules/HTML/module.css
+Allow: /DesktopModules/*.css
+Allow:/DesktopModules/*.js
+Disallow: /Documentation/
+Disallow: /HttpModules/
+Disallow: /images/
+Disallow: /Install/
+# Disallow: /js/
+
+User-agent: Google-InspectionTool
+Disallow: /*/ctl/
+Disallow: /Default.aspx?ctl
+Disallow: /Default.aspx?*error
+Disallow: */LinkClick.aspx?fileticket
+Disallow: */mid/
+Disallow: /Login*
+Disallow: /login*
+Disallow: /admin/
+Disallow: /App_Browsers/
+Disallow: /App_Code/
+Disallow: /App_Data/
+Disallow: /App_GlobalResources/
+Disallow: /bin/
+Disallow: /Components/
+Disallow: /Config/
+Disallow: /contest/
+Disallow: /controls/
+# Allow: /DesktopModules/LiveContent/
+# Allow: /DesktopModules/LiveGallery/
+# Allow: /DesktopModules/XModPro/
+Disallow: /DesktopModules/
+Allow: /DesktopModules/LiveContent/Handlers/
+Allow: /DesktopModules/HTML/module.css
+Allow: /DesktopModules/*.css
+Allow:/DesktopModules/*.js
+Disallow: /Documentation/
+Disallow: /HttpModules/
+Disallow: /images/
+Disallow: /Install/
+# Disallow: /js/
+Allow: /Portals/0/Skins/SIT/UtilityMenu/
+Allow: /Portals/0/Skins/SIT/css/
+Allow: /Portals/0/Skins/SIT/images/
+Allow: /Portals/0/Skins/SIT/inc/js/
+Allow: /Portals/0/Upload/Images/
+Allow: /Portals/0/Upload/Videos/
+Allow: /Portals/0/upload/documents/sit2lrn/
+Allow: /Portals/0/upload/documents/sitjar/
+Disallow: /Providers/
+Allow: /Portals/0/Skins/
+Allow: /Resources/Shared/stylesheets/dnndefault/7.0.0/
+Allow: /Portals/0/Containers/SIT/
+Allow: /Portals/0/skins/SIT/css/
+Allow: /Portals/0/2sexy/
+Allow: /Portals/0/adam/Content/
+Allow: /Portals/0/Sitemap/
+# Allow: /Resources/Shared/stylesheets
+Disallow: /Resources/ContentRotator/
+Disallow: /Resources/ControlPanel/
+Disallow: /Resources/Dashboard/
+Disallow: /Resources/FeedBrowser/
+Disallow: /Resources/OpenForceAd/
+Allow: /Resources/Search/
+Disallow: /Resources/Shared/
+Allow: /Resources/Shared/*.js
+Allow: /Resources/Shared/*.css
+Allow: /Resources/libraries/jQuery/
+Allow: /Resources/libraries/jQuery-Migrate/
+Allow: /Resources/libraries/jQuery-UI/
+Disallow: /Resources/SkinWidgets/
+Disallow: /Resources/TabStrip/
+Disallow: /Resources/Widgets/
+Disallow: /Activity-Feed/userId/	# Do not index user profiles
+
+User-agent: Yahoo Pipes 1.0
+Disallow: /admin/
+Disallow: /App_Browsers/
+Disallow: /App_Code/
+Disallow: /App_Data/
+Disallow: /App_GlobalResources/
+Disallow: /bin/
+Disallow: /Components/
+Disallow: /Config/
+Disallow: /contest/
+Disallow: /controls/
+Disallow: /DesktopModules/
+Disallow: /Documentation/
+Disallow: /HttpModules/
+Disallow: /images/
+Disallow: /Install/
+Disallow: /js/
+Disallow: /Portals/
+Disallow: /Providers/
+Disallow: /Resources/ContentRotator/
+Disallow: /Resources/ControlPanel/
+Disallow: /Resources/Dashboard/
+Disallow: /Resources/FeedBrowser/
+Disallow: /Resources/OpenForceAd/
+Disallow: /Resources/Search/
+Disallow: /Resources/Shared/
+Disallow: /Resources/SkinWidgets/
+Disallow: /Resources/TabStrip/
+Disallow: /Resources/Widgets/
+Disallow: /Activity-Feed/userId/	# Do not index user profiles
+
+User-agent: AhrefsBot
+Disallow:/
+
+User-agent: *
+Disallow: /admin/
+Disallow: /App_Browsers/
+Disallow: /App_Code/
+Disallow: /App_Data/
+Disallow: /App_GlobalResources/
+Disallow: /bin/
+Disallow: /Components/
+Disallow: /Config/
+Disallow: /contest/
+Disallow: /controls/
+Disallow: /DesktopModules/
+Allow: /DesktopModules/LiveContent/Handlers/
+Allow: /DesktopModules/HTML/module.css
+Disallow: /Documentation/
+Disallow: /HttpModules/
+Disallow: /images/
+Disallow: /Install/
+Disallow: /js/
+Disallow: /Portals/
+Disallow: /Providers/
+# Allow: /Resources/Shared/stylesheets
+Disallow: /Resources/ContentRotator/
+Disallow: /Resources/ControlPanel/
+Disallow: /Resources/Dashboard/
+Disallow: /Resources/FeedBrowser/
+Disallow: /Resources/OpenForceAd/
+Disallow: /Resources/Search/
+Disallow: /Resources/Shared/
+Disallow: /Resources/SkinWidgets/
+Disallow: /Resources/TabStrip/
+Disallow: /Resources/Widgets/
+Disallow: /Activity-Feed/userId/	# Do not index user profiles
+Disallow: /programme/course/Bachelor+of+Commerce

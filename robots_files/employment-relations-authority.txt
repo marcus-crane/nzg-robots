@@ -1,0 +1,7 @@
+Sitemap: https://www.era.govt.nz/sitemap.xml
+User-agent: *
+Disallow: /admin
+Disallow: /assets/_generated_pdfs/*
+Disallow: */downloadpdf
+Disallow: /server-error/
+Disallow: /page-not-found/

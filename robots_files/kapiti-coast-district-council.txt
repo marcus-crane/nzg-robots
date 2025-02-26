@@ -1,0 +1,3 @@
+User-agent: *
+
+SITEMAP: https://www.kapiticoast.govt.nz/sitemap.txt

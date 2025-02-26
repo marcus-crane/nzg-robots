@@ -1,0 +1,26 @@
+User-agent: *
+
+Disallow: /Site/columright/
+Disallow: /Site/design/
+Disallow: /Site/template/
+Disallow: /Site/template/home/
+Disallow: /Site/template/ezine/
+Disallow: /Site/archive/
+Disallow: /Site/home/
+Disallow: /Site/template-2014/
+Disallow: /Site/template_2015/
+Disallow: /Site/templates/template_2015/two-column-2016/
+Disallow: /Site/templates/template_2015/Home_template_2015/
+Disallow: /Site/emails/
+Disallow: /Site/templates/Template-2017/
+Disallow: /Site/z-archive/
+Disallow: /Site/z-archive/2015-Template-Archive-/
+Disallow: /Site/z-archive/2015-Template-Archive-/home/
+Disallow: /Site/z-archive/2015-Template-Archive-/Child-Abuse-Inquiry/
+Disallow: /Site/z-archive/2015-Template-Archive-/complaints-archived/
+Disallow: /Site/templates/email-2018/
+Disallow: /Site/complaints/template.aspx
+Disallow: /Site/z-archive/
+Disallow: /Site/z-archive/
+Disallow: /Site/z-archive/
+Disallow: /Site/z-archive/

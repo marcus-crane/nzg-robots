@@ -1,0 +1,7 @@
+Sitemap: https://www.orangatamariki.govt.nz/sitemap.xml
+User-agent: *
+Disallow: /assets/generated-pdfs/*
+Disallow: /*/downloadpdf
+Disallow: /admin
+Disallow: /*/allchanges
+Disallow: /*/changes

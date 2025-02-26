@@ -1,0 +1,19 @@
+# Slow down bingbot
+User-agent: msnbot
+Crawl-delay: 10
+##
+User-agent: MJ12bot
+User-agent: BUbiNG
+User-agent: Baiduspider
+User-agent: SemrushBot
+User-agent: AhrefsBot
+Disallow: /
+##
+User-agent: *
+Disallow: /admin
+Disallow: /Security/login
+Disallow: /dmsdocument/727
+Disallow: /dmsdocument/728
+Crawl-Delay: 10
+Sitemap: https://fishandgame.org.nz/sitemap.xml
+

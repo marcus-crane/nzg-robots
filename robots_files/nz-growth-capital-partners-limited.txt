@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /Security/
+Disallow: /portfolio?*
+Sitemap: https://www.nzgcp.co.nz/sitemap.xml

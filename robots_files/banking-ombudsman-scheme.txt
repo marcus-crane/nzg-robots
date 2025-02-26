@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /Security/
+
+Sitemap: https://bankomb.org.nz/sitemap.xml

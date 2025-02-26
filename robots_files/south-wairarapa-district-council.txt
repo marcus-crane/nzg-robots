@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://swdc.govt.nz/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

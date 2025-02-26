@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /temp
+Disallow: /sitecore
+Disallow: /app_data
+
+Sitemap: https://www.ird.govt.nz/sitemap.xml

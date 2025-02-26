@@ -1,0 +1,113 @@
+User-Agent: *
+Disallow: /*?a=*
+Disallow: /responsive-widgets/
+Disallow: /promo-areas/
+Disallow: /banners/
+Disallow: /nestable-content/
+Disallow: /ws/
+Disallow: /mediaguide/
+Disallow: /staff/development/
+Disallow: /training/
+Disallow: /events/calendar-event.ics
+Disallow: /dev/
+Disallow: /assets/modules/
+Disallow: /webstruxure/
+Disallow: /lals/research/usecase/working%20files/
+Disallow: /its/image-services/VUW_image_library/
+Disallow: /accommodation/private/
+Disallow: /explore/assets/img/kis-button*
+Disallow: /wip
+Disallow: /*wip-ii*
+Disallow: /web/news
+Disallow: /testing/
+Disallow: /wip-ii-holding-area/
+Disallow: /search
+Disallow: /topics-sitemap.xml/
+Disallow: /_service/
+Disallow: /about/international-reputation
+Disallow: /st_services
+Disallow: /payment-portal-info
+Disallow: /payment-portal-info/terms-conditions
+Disallow: /payment-portal-info/faqs
+Disallow: /nsp-fhss
+Disallow: /dev-team
+Disallow: /nsp-homesite
+Disallow: /documents/policy/academic/archive/
+Disallow: /documents/policy/finance/archive
+Disallow: /documents/policy/library-and-information-systems/archive/
+Disallow: /documents/policy/facilities-management/archive/
+Disallow: /documents/policy/research-policy/archive/
+Disallow: /documents/policy/governance/archive/
+Disallow: /documents/policy/policy-updates/archive/
+Disallow: /documents/policy/qualifications-policy/archive/
+Disallow: /documents/policy/staff-policy/archive/
+Disallow: /documents/policy/student-policy/archive/
+Disallow: /documents/policy/templates/archive/
+Disallow: /documents/policy/strategies/archive/
+Disallow: /health-and-safety
+Disallow: /about/governance/university-publications/calendar/calendar-updates
+Disallow: /__data/assets/image/0019/1714411/jo-veale.jpg
+Disallow: /__data/assets/image/0020/1714421/nancy-hakaraia.jpg
+Disallow: /study/programmes-courses/user-test
+Allow: /_service/international/
+Allow: /_service/courses/
+Disallow: /llc/llc_resources
+Disallow: /engineering/about/news/news-archive
+Disallow: /endpoints
+Disallow: /elements-training-underconstruction
+Disallow: /test-build
+Disallow: /api/toolbar/students
+Disallow: /api/toolbar/staff
+Disallow: /restorative-justice-underconstruction
+Disallow: /cpf-underconstruction
+Disallow: /egovt-underconstruction
+Disallow: /cagtr-underconstruction
+Disallow: /wellbeing-chair-underconstruction
+Disallow: *homepage-assets.*
+Disallow: /menu-nav-test
+Disallow: /lt-underconstruction
+Disallow: /study/programmes-courses/courses.*
+Disallow: /tools
+Disallow: /utils
+Allow: /utils/content.*
+Disallow: /forms/campaigns/trimester-two-and-three
+Disallow: /international/why-wellington/meet-our-students
+Disallow: /cdsai-underconstruction
+Disallow: /__data/.*
+Disallow: /_design/.*
+Disallow: /dev-courses.*
+Disallow: /new-courses.*
+Disallow: /test-courses.*
+
+Disallow: *?*query=
+Disallow: *?*f.*%7C*=
+
+Disallow: *?*SQ_DESIGN_NAME=v4
+
+User-Agent: trendkite-akashic-crawler
+Disallow: /
+
+User-Agent: BLEXBot
+Disallow: /
+
+User-Agent: AcademicBotRTU
+Disallow: /
+
+User-Agent: DotBot
+Disallow: /
+
+User-agent: AwarioRssBot
+User-agent: AwarioSmartBot
+Crawl-delay: 10
+
+User-agent: HeadlessChrome
+Crawl-delay: 10
+
+User-agent: SeekportBot
+Crawl-delay: 10
+
+User-agent: ClaudeBot
+Crawl-delay: 10
+
+User-agent: Claude-Web
+Crawl-delay: 10

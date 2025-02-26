@@ -1,0 +1,11 @@
+Sitemap: https://www.eeca.govt.nz/sitemap.xml
+User-agent: *
+Disallow: /*/changes
+Disallow: /*/allchanges
+Disallow: /Security/*
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /assets/generated-pdfs/*
+Disallow: /downloadpdf
+Disallow: /search/*
+Disallow: /search-2/*

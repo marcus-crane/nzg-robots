@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin
+Disallow: /Security/
+Disallow: /*/allchanges
+Disallow: /*/changes
+Sitemap: https://www.veteransaffairs.mil.nz/sitemap.xml
+
+User-agent: AhrefsBot
+Crawl-delay: 60
+
+User-agent: Swiftbot
+Crawl-delay: 2

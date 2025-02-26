@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /covid_19_-_information_for_staff
+Disallow: /covid_19_-_information_for_staff/*
+Disallow: /utility
+Disallow: /utility/*
+Disallow: /_designs/
+Disallow: /_test/
+Disallow: /test/
+Disallow: /*?sq_content_src=
+Disallow: /*_recache
+Disallow: /*_edit
+Disallow: /*_admin
+Disallow: /*_login
+Disallow: /*_performance
+Disallow: /*_design
+Disallow: /*_web_services

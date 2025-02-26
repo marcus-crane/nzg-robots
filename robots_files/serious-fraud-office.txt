@@ -1,0 +1,12 @@
+Sitemap: https://www.sfo.govt.nz/sitemap.xml
+User-agent: *
+Disallow: /admin
+Disallow: /dev
+Disallow: /*/changes
+Disallow: /*/allchanges
+Disallow: /Security/
+Disallow: /admin/*
+Disallow: /assets/generated-pdfs/*
+Disallow: */downloadpdf
+Disallow: /page-not-found
+Disallow: /server-error

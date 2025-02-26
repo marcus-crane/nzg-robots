@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /*/allchanges
+Disallow: /*/changes
+Sitemap: https://tasman.govt.nz/sitemap.xml

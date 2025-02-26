@@ -1,0 +1,12 @@
+Sitemap: https://www.tematawai.maori.nz/sitemap.xml
+User-agent: *
+Disallow: /admin
+Disallow: /dev
+Disallow: /assets/generated-pdfs/*
+Disallow: */downloadpdf
+Disallow: /*/allchanges
+Disallow: /*/changes
+Disallow: /activities/?l=mi_NZ
+Disallow: /mi/site-search/
+Disallow: /mi/page-not-found/
+Disallow: /mi/server-error/

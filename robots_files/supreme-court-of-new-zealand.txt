@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /search/
+Disallow: /the-courts/supreme-court/judgments-supreme/?Search
+Disallow: /the-courts/supreme-court/case-summaries/?Search
+Disallow: /admin
+Disallow: /Security/login
+Allow: /

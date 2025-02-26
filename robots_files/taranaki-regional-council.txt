@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /*/allchanges
+Disallow: /*/changes
+Disallow: /environment/maps-and-data/site-details/*?*
+Disallow: /search

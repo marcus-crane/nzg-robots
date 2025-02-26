@@ -1,0 +1,42 @@
+# waikato.ac.nz specific path directives
+User-agent: *
+Disallow: /admin
+Disallow: /Security/
+
+Sitemap: https://www.waikato.ac.nz/sitemap.xml
+
+# waikato.ac.nz crawldelay agents
+User-agent: AhrefsBot
+Crawl-delay: 60
+User-agent: GPTBot
+Crawl-delay: 5
+# User-agent: Screaming Frog SEO Spider
+# Crawl-delay: 5
+User-agent: SemrushBot
+Crawl-delay: 5
+User-agent: SemrushBot-SA
+Crawl-delay: 5
+User-agent: SiteAuditBot
+Crawl-delay: 5
+User-Agent: SnapchatAdsBot
+Crawl-delay: 60
+User-agent: Swiftbot
+Crawl-delay: 10
+
+# waikato.ac.nz disallowed agents
+User-agent: BLEXBot
+Disallow: /
+User-agent: Linespider
+Disallow: /
+User-agent: MegaIndex.ru
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: PetalBot
+Disallow: /
+User-agent: SEOkicks
+Disallow: /
+User-agent: serpstatbot
+Disallow: /
+
+# If you're a Search Engine operator and want to make contact with us - webmaster@waikato.ac.nz

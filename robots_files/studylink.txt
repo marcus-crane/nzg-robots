@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /webadmin/css/
+Allow: /webadmin/scripts/
+Disallow: /about-studylink/contact-us/
+Disallow: /media/
+Disallow: /navigation/
+Disallow: /siteadmin/
+Disallow: /templatedata/
+Disallow: /tools-and-calculators/
+Disallow: /webadmin/
+Disallow: /search/
+Disallow: /s/
+Sitemap: https://www.studylink.govt.nz/studylink-sitemap.xml

@@ -1,0 +1,14 @@
+Sitemap: https://pharmac.govt.nz/sitemap.xml
+User-agent: *
+Disallow: /admin
+Disallow: /dev
+Disallow: /*/changes
+Disallow: /*/allchanges
+Disallow: /Security/
+Disallow: /admin/*
+Disallow: /pharmaceutical-schedule/updates/summaries-of-the-section-h-hml-update/previous-summaries-of-the-hml-updates-2
+Disallow: /pharmaceutical-schedule/updates/schedule-dispatches/previous-dispatches
+Disallow: /page-not-found
+Disallow: /server-error
+Disallow: /maintenance
+Disallow: /news-and-resources/news/test-news-article

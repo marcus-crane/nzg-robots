@@ -1,0 +1,13 @@
+Sitemap: https://www.employment.govt.nz/sitemap.xml
+
+User-agent: *
+
+Disallow: /assets/generated-pdfs/*
+
+Disallow: */downloadpdf
+
+Disallow: /admin
+
+Disallow: /server-error/
+
+Disallow: /page-not-found/

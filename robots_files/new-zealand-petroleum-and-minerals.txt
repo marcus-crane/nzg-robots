@@ -1,0 +1,13 @@
+Sitemap: https://www.nzpam.govt.nz/sitemap.xml
+User-agent: *
+Disallow: /admin
+Disallow: /dev
+Disallow: /*/changes
+Disallow: /*/allchanges
+Disallow: /Security/
+Disallow: /admin/*
+Disallow: /assets/generated-pdfs/*
+Disallow: Disallow: */downloadpdf
+Disallow: /server-error
+Disallow: /page-not-found
+Disallow: /terms-conditions

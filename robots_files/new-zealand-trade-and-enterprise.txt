@@ -1,0 +1,14 @@
+# *
+    User-agent: *
+    Crawl-delay: 10
+    Allow: /
+    Disallow: /livedeals/
+    Allow: /livedeals/about
+  
+    # Host
+    Host: http://www.nzte.govt.nz
+  
+    # Sitemaps
+    Sitemap: http://www.nzte.govt.nz/sitemap
+    Sitemap: http://www.nzte.govt.nz/server-sitemap.xml
+    

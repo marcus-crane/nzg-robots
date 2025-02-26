@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /search/*
+Disallow: /_next/
+Disallow: /api/
+Disallow: /public/
+Disallow: /under-construction
+Sitemap: https://www.tepapa.govt.nz/sitemap.xml

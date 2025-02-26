@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /assets/*.pdf
+Disallow: /admin/
+Disallow: /Security/
+Disallow: /assets/
+Disallow : /*.jpg
+Disallow : /*.jpeg
+Disallow : /*.gif
+Disallow : /*.png
+Disallow : /*.webp
+Disallow : /*.svg

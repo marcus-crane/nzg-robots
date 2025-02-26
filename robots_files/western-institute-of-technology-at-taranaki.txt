@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /Security/
+Disallow: /assets/generated_pdfs/*
+
+Sitemap: https://www.witt.ac.nz/sitemap.xml

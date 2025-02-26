@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /public/u-docs/
+Crawl-delay: 1
+Sitemap: https://www.meridianenergy.co.nz/sitemap.xml

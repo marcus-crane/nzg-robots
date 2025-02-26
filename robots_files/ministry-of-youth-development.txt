@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /images/
+Disallow: /media/
+Disallow: /webadmin/
+Disallow: /search/
+Disallow: /s/

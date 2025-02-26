@@ -1,0 +1,12 @@
+Sitemap: https://www.mfat.govt.nz/sitemap.xml
+User-agent: *
+Disallow: /admin
+Disallow: /dev
+Disallow: /*/changes
+Disallow: /*/allchanges
+Disallow: /Security/
+Disallow: /admin/*
+Disallow: /en/aid-and-development/working-with-the-new-zealand-idc-programme/funding-opportunities/partnerships-for-international-development-fund/partnerships-fund-faqs-unedited-as-subject-to-change
+Disallow: /en/site-search
+Disallow: /en/page-not-found
+Disallow: /en/server-error

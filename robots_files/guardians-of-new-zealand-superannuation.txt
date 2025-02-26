@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /Security/
+Disallow: /admin
+Disallow: /?flush
+Allow: /
+

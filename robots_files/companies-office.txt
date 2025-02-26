@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /*/allchanges
+Disallow: /*/changes
+Disallow: /*?*response=
+Disallow: /*?*app=
+Disallow: /register-assets/*

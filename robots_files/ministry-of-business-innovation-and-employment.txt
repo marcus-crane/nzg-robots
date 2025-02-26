@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /assets/generated-pdfs/*
+Disallow: */downloadpdf
+Disallow: /admin
+Disallow: /*/allchanges
+Disallow: /*/changes
+
+Sitemap: https://www.mbie.govt.nz/sitemap.xmlâ€Œ

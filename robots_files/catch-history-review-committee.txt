@@ -1,0 +1,15 @@
+User-agent: *
+Sitemap: https://www.mpi.govt.nz/sitemap.xml
+Crawl-delay: 5
+Disallow: /*/allchanges
+Disallow: /*/changes
+Disallow: /mpisearch
+Disallow: /preview/*
+Disallow: /*/DocumentRequestForm
+Disallow: /*/DocumentsFilter
+Disallow: /*/Form
+Disallow: /*/SimpleSearchForm
+Disallow: /*/PageSearchForm
+Disallow: /*/docset/*/filter*
+Disallow: /*Keywords=*
+Disallow: /*start=*

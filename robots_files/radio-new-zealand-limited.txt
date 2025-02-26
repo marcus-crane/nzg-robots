@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /admin/
+Sitemap: https://www.rnz.co.nz/sitemap/sitemap.xml.gz
+
+Crawl-delay: 7
+
+# Direct the most annoying crawlers not to index
+
+User-agent: psbot
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: turnitinbot
+Disallow: /
+
+# Slow down the high-download / low-return crawlers
+
+User-agent: bingbot
+
+User-agent: msnbot
+
+User-agent: Yandex
+Crawl-delay: 20
+
+User-agent: Wget
+Crawl-delay: 10

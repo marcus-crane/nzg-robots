@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /bin/
+Disallow: /config/
+Disallow: /install/
+Disallow: /umbraco/
+Disallow: /views/
+Sitemap: bullerdc.govt.nz/sitemap.xml
+Sitemap: www.bullerlibraries.nz/sitemap.xml
+Sitemap: www.westportharbour.co.nz/sitemap.xml
+Sitemap: bullerlibraries.nz/sitemap.xml
+Sitemap: westportharbour.co.nz/sitemap.xml
+Sitemap: www.bullerdc.govt.nz/sitemap.xml

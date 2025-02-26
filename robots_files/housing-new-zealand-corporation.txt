@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin
+Disallow: /Security/
+Disallow: /*?l=*
+# Sitemap: https://www.example.com/sitemap.xml
+
+User-agent: AhrefsBot
+Crawl-delay: 60
+
+User-agent: Swiftbot
+Crawl-delay: 5

@@ -1,0 +1,8 @@
+Sitemap: https://www.business.govt.nz/sitemap.xml
+User-agent: *
+Disallow: /admin
+Disallow: /dev
+Disallow: /assets/generated-pdfs/*
+Disallow: */downloadpdf
+Disallow: /resources/*
+Disallow: /onecheck/result/*

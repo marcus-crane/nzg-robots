@@ -1,0 +1,45 @@
+name: "Scrape robots.txt"
+on:
+  schedule:
+    - cron: "0 20 * * *" # 7pm UTC = 8am NZT
+  workflow_dispatch:
+env:
+  PYTHONUNBUFFERED: 1 # ensure that python scripts live output instead of buffering
+
+jobs:
+  sync:
+    name: Sync
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+      - name: Scrape robots.txt files
+        run: python scrape.py
+        env:
+          BROWSERLESS_API_TOKEN: ${{ secrets.BROWSERLESS_API_TOKEN }}
+          BROWSERLESS_URL: ${{ secrets.BROWSERLESS_URL }}
+      - name: Commit database changes
+        run: |
+          set -eux
+
+          git config --local user.email "helper@utf9k.net"
+          git config --local user.name "Helper Bot"
+
+          if [ -z "$(git status --porcelain)" ]; then
+            # No changes have occurred so there's no point generating a commit"
+            exit 0
+          fi
+          
+          git add .
+          git commit -m "Dataset has been updated"
+          git push

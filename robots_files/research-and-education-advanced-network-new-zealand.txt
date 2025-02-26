@@ -1,0 +1,9 @@
+User-agent: Swiftbot
+Crawl-delay: 5
+
+User-agent: *
+Disallow: /admin/
+Disallow: /Security/
+Disallow: /dev/
+
+Sitemap: https://reannz1-prod.sites.silverstripe.com/sitemap.xml

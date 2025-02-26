@@ -1,0 +1,7 @@
+Sitemap: https://nzgameanimalcouncil.org.nz/sitemap.xml
+Sitemap: https://nzgameanimalcouncil.org.nz/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://nzgameanimalcouncil.org.nz/sitemap.xml

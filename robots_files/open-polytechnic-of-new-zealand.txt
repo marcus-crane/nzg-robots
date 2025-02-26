@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /assets/
+Allow: /
+
+
+User-agent: AdsBot-Google
+User-agent: Googlebot
+User-agent: Googlebot-Image
+Allow: /
+
+Sitemap: http://www.openpolytechnic.ac.nz/sitemap.xml
+Sitemap: http://www.openpolytechnic.ac.nz/assets/video_sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+
+SITEMAP: https://www.nrc.govt.nz/sitemap.txt

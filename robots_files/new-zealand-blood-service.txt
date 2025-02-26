@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /search/*
+Disallow: /admin/
+Disallow: /Security/
+Sitemap: https://www.nzblood.co.nz/sitemap.xml

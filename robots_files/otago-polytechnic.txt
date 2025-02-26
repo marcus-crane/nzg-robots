@@ -1,0 +1,11 @@
+User-agent: Brightbot
+Disallow: /
+
+User-agent: Echoping
+Disallow: /
+
+User-agent: Uptime-Kuma
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /

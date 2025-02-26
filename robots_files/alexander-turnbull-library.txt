@@ -1,0 +1,35 @@
+# See https://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
+
+User-agent: *
+Disallow: /auth
+Disallow: /cart_items
+Disallow: /shop/cart_items
+Disallow: /viewing_cart_items
+Disallow: /items/favourites
+Disallow: /files
+Disallow: /logicrouter
+Disallow: /primo_library
+Disallow: /questions
+Disallow: /items?*page=*
+Disallow: /plug/api/site_notices*
+Disallow: /headings
+Disallow: /records/*/enquiries/new
+Disallow: /schools/rauemi
+
+User-Agent: facebookexternalhit/*
+Disallow: /404
+Disallow: /auth
+
+User-agent: Twitterbot
+Disallow: /404
+Disallow: /auth
+
+User-agent: Cliqzbot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+

@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /*/allchanges
+Disallow: /*/changes
+Disallow: /tools/knowledge-base?*
+Disallow: /tools/knowledge-base/?*
+crawl-delay: 10
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /

@@ -1,0 +1,6 @@
+Sitemap: https://www.consumerprotection.govt.nz/sitemap.xml
+User-agent: *
+Disallow: /*/allchanges
+Disallow: /*/changes
+Disallow: /admin
+Disallow: /search*

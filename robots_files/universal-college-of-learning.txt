@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /_layouts/
+Disallow: /_vti_bin/
+Disallow: /_catalogs/
+Disallow: /SiteAssets/
+Disallow: /WorkflowTasks/
+
+
+
+Sitemap: https://www.ucol.ac.nz:443/sitemap.xml

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /dev/
+Allow: /
+
+Sitemap: https://www.northtec.ac.nz/sitemap.xml

@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Allow: /
+Disallow: /search*
+
+# bing
+User-agent: Bingbot
+Allow: /
+Disallow: /search*
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /search*
+
+# Baidu
+User-agent: Baiduspider
+Allow: /
+Disallow: /search*
+
+# Allow internet archive
+User-agent: ia_archiver
+Allow: /
+Disallow: /search*
+
+User-agent: *
+Disallow: /

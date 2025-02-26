@@ -1,0 +1,8 @@
+
+# Block all crawlers for /preview
+User-agent: *
+Disallow: /preview/
+
+# Allow all crawlers
+User-agent: *
+Allow: /

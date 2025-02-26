@@ -1,0 +1,13 @@
+User-agent: Googlebot
+Allow: .js
+Allow: .css
+User-agent: *
+Disallow: /pages/search.aspx
+Disallow: /_layouts/
+Disallow: /_vti_bin/
+Disallow: /_catalogs/
+Sitemap: https://www.aucklandcouncil.govt.nz:443/sitemap.xml
+
+
+
+Sitemap: https://www.aucklandcouncil.govt.nz:443/sitemap.xml

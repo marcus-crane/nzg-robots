@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /*/allchanges
+Disallow: /*/changes
+Disallow: /assets/
+Disallow: /*/jdo
+Disallow: /jdo_documents/

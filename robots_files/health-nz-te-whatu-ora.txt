@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /*/allchanges
+Disallow: /*/changes
+Sitemap: /sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: claude-web
+Disallow: /

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin
+Disallow: /search
+Disallow: /*/FilterSearchForm
+Disallow: /*/FilterForm
+Disallow: /*/SearchForm
+Disallow: /*/LoginForm
+Disallow: /*/Form
+Disallow: /apple-touch-icon*.png
+
+Sitemap: https://www.worksafe.govt.nz/sitemap.xml
