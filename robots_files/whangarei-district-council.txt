@@ -53,7 +53,7 @@ Disallow: /Community/Civil-Defence/State-highways
 Disallow: /Community/Civil-Defence/Storm-updates
 Disallow: /Community/Community-Facilities/Bike-parking/*
 Disallow: /Community/Community-Facilities/FN-Entertainment-Centre
-Disallow: /Community/Community-Facilities/New-page/*
+Disallow: /Community/Community-Facilities/New-page
 Disallow: /Community/Community-Facilities/OMB-tenancy-application/*
 Disallow: /Community/Community-Facilities/Parks-and-reserves
 Disallow: /Community/Community-Facilities/Rolling-Ball-Clock/Rolling-Ball-Clock
