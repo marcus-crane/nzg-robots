@@ -365,7 +365,11 @@ Disallow: /Site-Footer/Footer-Widgets/Share-and-Connect/Copy-of-Facebook-1
 Disallow: /Site-Footer/Footer-Widgets/Share-and-Connect/newsletters
 Disallow: /Site-Footer/Footer-Widgets/Visit-Our-Other-Sites/Alps-to-Ocean-Cycle-Trail
 Disallow: /Site-Footer/Footer-Widgets/Visit-Our-Other-Sites/Copy-of-Alps-2-Ocean-Cycle-Trail-1
+Disallow: /Site-Footer/Footer-Widgets/Visit-Our-Other-Sites/Copy-of-Libraries-1
+Disallow: /Site-Footer/Footer-Widgets/Visit-Our-Other-Sites/District-Plan-Review
+Disallow: /Site-Footer/Footer-Widgets/Visit-Our-Other-Sites/Libraries
 Disallow: /Site-Footer/Footer-Widgets/Visit-Our-Other-Sites/New-page
+Disallow: /Site-Footer/Footer-Widgets/Visit-Our-Other-Sites/Opera-House
 Disallow: /Site-Footer/Footer-Widgets/Visit-Our-Other-Sites/Waitaki-district-library
 Disallow: /top-tasks/Apply-for-it/Apply-for-a-job
 Disallow: /top-tasks/Report-and-Request/Request-for-information
