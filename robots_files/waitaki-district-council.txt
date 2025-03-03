@@ -226,11 +226,11 @@ Disallow: /Home/Slideshow/Copy-of-Nesting-gulls-1
 Disallow: /Home/Slideshow/Copy-of-soup-sipper-1
 Disallow: /Home/Slideshow/Copy-of-Work-with-us-1
 Disallow: /Home/Slideshow/Council-Christmas-hours-and-deadlines
+Disallow: /Home/Slideshow/Council-services-at-the-library
 Disallow: /Home/Slideshow/Covid-19-information
 Disallow: /Home/Slideshow/EDA-consultation-slide
 Disallow: /Home/Slideshow/Forrester-Heights-consult
 Disallow: /Home/Slideshow/Holiday-hours-for-Council-services-and-facilities
-Disallow: /Home/Slideshow/Interim-Speed-Management-Plan-Consultation
 Disallow: /Home/Slideshow/lets-talk
 Disallow: /Home/Slideshow/liquor-ban
 Disallow: /Home/Slideshow/Long-Term-Plan

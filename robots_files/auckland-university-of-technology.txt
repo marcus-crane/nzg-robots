@@ -54,6 +54,7 @@ Disallow:/student-profiles/te-haua-taua
 Disallow:/aut-ondemand
 Disallow:/about/policy-hub/report
 Disallow:*/pathways/*
+Disallow:/all-news
 User-agent: FunnelBack
 Disallow:/*__lib*
 Disallow:/*__fudge*
@@ -113,4 +114,5 @@ Disallow:/*103077*
 Disallow:/*International-AKCOP-v6.pdf
 Disallow:/about/policy-hub/report
 Disallow:*/pathways/*
+Disallow:/all-news
 Sitemap: https://www.aut.ac.nz/sitemap-aut

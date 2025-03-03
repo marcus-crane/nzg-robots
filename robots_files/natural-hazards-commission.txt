@@ -2,8 +2,6 @@ User-agent: *
 Disallow: /admin
 Disallow: /Security/
 Sitemap: https://www.naturalhazards.govt.nz/sitemap.xml
-Sitemap: https://www.naturalhazards.govt.nz/sitemap.xml/sitemap/SilverStripe-CMS-Model-SiteTree/1/
-Sitemap: https://www.naturalhazards.govt.nz/sitemap.xml/sitemap/SilverStripe-CMS-Model-SiteTree/2/
 
 User-agent: AhrefsBot
 Crawl-delay: 60

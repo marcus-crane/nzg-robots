@@ -1393,6 +1393,7 @@ Disallow: /News-and-events/Have-your-say/Whangarei-Wastewater-Discharge-Consent-
 Disallow: /News-and-events/Motorsport-Festival
 Disallow: /News-and-events/New-page
 Disallow: /News-and-events/News-and-events-featured-background
+Disallow: /OMBtenancy/*
 Disallow: /Page-not-found
 Disallow: /Rotating-banners/*
 Disallow: /Rotating-banners/Walks/*
@@ -1903,6 +1904,7 @@ Disallow: /Temporary-Announcements/Brynderwyns-repairs-delayed
 Disallow: /Temporary-Announcements/Canopy-Walkway-temporary-closure
 Disallow: /Temporary-Announcements/Changes-to-community-funding
 Disallow: /Temporary-Announcements/Civic-Honours
+Disallow: /Temporary-Announcements/Claphams-Clocks-temporary-closure
 Disallow: /Temporary-Announcements/Closure-due-to-power-outage
 Disallow: /Temporary-Announcements/Contractors-on-break
 Disallow: /Temporary-Announcements/Copy-of-AP-Consultation-1
