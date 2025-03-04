@@ -1,4 +1,4 @@
-Sitemap: https://pharmac.govt.nz/sitemap.xml
+Sitemap: https://www.pharmac.govt.nz/sitemap.xml
 User-agent: *
 Disallow: /admin
 Disallow: /dev

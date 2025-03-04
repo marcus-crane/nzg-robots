@@ -683,6 +683,7 @@ Disallow: /Home/Slides/U-play-School-Holiday-Event-Series
 Disallow: /Home/Slides/We’ve-moved
 Disallow: /Home/Slides/We’ve-moved/New-page
 Disallow: /Home/Slides/You’re-invited
+Disallow: /Home/Tabs/Council/*
 Disallow: /Home/Tabs/Council/Let’s-KōreroHave-your-say/Gambling-Venues-Policy-review
 Disallow: /Home/Tabs/Council/Let’s-KōreroHave-your-say/Water-supply-bylaw-review/*
 Disallow: /Home/Tabs/Council/Plan-and-build/Building-Toolkit/Planning-Application-Forms-and-Guidance-Documents
@@ -1410,6 +1411,7 @@ Disallow: /Home/Tabs/Council/Your-Council/Public-Notices/Alcohol-Licenses-Public
 Disallow: /Home/Tabs/Council/Your-Council/Public-Notices/Copy-of-Alcohol-licence-applications-Open-1
 Disallow: /Home/Tabs/Council/Your-Council/Public-Notices/Public-Notices-Alcohol-Licenses/Alcohol-licence-applications-Closed
 Disallow: /Home/Tabs/Council/Your-Council/Public-Notices-Alcohol-Licenses/Alcohol-licence-applications-Closed
+Disallow: /Home/Tabs/New-page/*
 Disallow: /Home/Tabs/New-page/Have-your-say/Gambling-Venues-Policy-review
 Disallow: /Home/Tabs/New-page/Have-your-say/Water-supply-bylaw-review/*
 Disallow: /Home/Tabs/New-page/Plan-and-build/Building-Toolkit/Building-Application-Form-Guides
