@@ -683,7 +683,6 @@ Disallow: /Home/Slides/U-play-School-Holiday-Event-Series
 Disallow: /Home/Slides/We’ve-moved
 Disallow: /Home/Slides/We’ve-moved/New-page
 Disallow: /Home/Slides/You’re-invited
-Disallow: /Home/Tabs/Council/*
 Disallow: /Home/Tabs/Council/Let’s-KōreroHave-your-say/Gambling-Venues-Policy-review
 Disallow: /Home/Tabs/Council/Let’s-KōreroHave-your-say/Water-supply-bylaw-review/*
 Disallow: /Home/Tabs/Council/Plan-and-build/Building-Toolkit/Planning-Application-Forms-and-Guidance-Documents
@@ -708,7 +707,6 @@ Disallow: /Home/Tabs/Council/Your-Council/About-your-Council/Mayor-and-Councillo
 Disallow: /Home/Tabs/Council/Your-Council/About-your-Council/Mayor-and-Councillors/Hellen-Swales
 Disallow: /Home/Tabs/Council/Your-Council/About-your-Council/Mayor-and-Councillors/Tracey-Ultra
 Disallow: /Home/Tabs/Council/Your-Council/About-your-Council/Mayor-and-Councillors/Wayne-Guppy
-Disallow: /Home/Tabs/Council/Your-Council/Copy-of-Alcohol-licence-applications-Open-1
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Chief-Executive-Committee/Chief-Executive-Committee-16-February-2023/Chief-Executive-Committee-Agenda-16-February-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Chief-Executive-Committee/Chief-Executive-Committee-16-February-2023/Chief-Executive-Committee-minutes-16-February-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Chief-Executive-Committee/Chief-Executive-Committee-26-February-2025/Chief-Executive-Committee-Agenda-26-February-2025
@@ -1406,12 +1404,7 @@ Disallow: /Home/Tabs/Council/Your-Council/Plans-policies-bylaws-and-reports/Dist
 Disallow: /Home/Tabs/Council/Your-Council/Plans-policies-bylaws-and-reports/District-Plan/PC41
 Disallow: /Home/Tabs/Council/Your-Council/Plans-policies-bylaws-and-reports/District-Plan/PC43
 Disallow: /Home/Tabs/Council/Your-Council/Plans-policies-bylaws-and-reports/Responses-from-Long-Term-Plan-2024-–-2034-Consultation
-Disallow: /Home/Tabs/Council/Your-Council/Public-Notices/Alcohol-licence-applications-Closed
-Disallow: /Home/Tabs/Council/Your-Council/Public-Notices/Alcohol-Licenses-Public-Notices/Alcohol-licence-applications-Closed
-Disallow: /Home/Tabs/Council/Your-Council/Public-Notices/Copy-of-Alcohol-licence-applications-Open-1
-Disallow: /Home/Tabs/Council/Your-Council/Public-Notices/Public-Notices-Alcohol-Licenses/Alcohol-licence-applications-Closed
-Disallow: /Home/Tabs/Council/Your-Council/Public-Notices-Alcohol-Licenses/Alcohol-licence-applications-Closed
-Disallow: /Home/Tabs/New-page/*
+Disallow: /Home/Tabs/Council/Your-Council/Public-Notices/Alcohol-Licenses-Public-Notices/Alcohol-Application-Closed
 Disallow: /Home/Tabs/New-page/Have-your-say/Gambling-Venues-Policy-review
 Disallow: /Home/Tabs/New-page/Have-your-say/Water-supply-bylaw-review/*
 Disallow: /Home/Tabs/New-page/Plan-and-build/Building-Toolkit/Building-Application-Form-Guides

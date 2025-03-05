@@ -208,7 +208,6 @@ Disallow: /Facilities/Facilities-Top-Tasks/Waitaki-Museum-and-Archive
 Disallow: /Facilities/Forrester-Gallery/Cultural-facilities-development-Forrester-gallery-stage-2/*
 Disallow: /Facilities/Forrester-Gallery/New-page/*
 Disallow: /Facilities/Waitaki-event-centre/event-centre-background
-Disallow: /genesys-test
 Disallow: /Glossary/*
 Disallow: /haveyoursay
 Disallow: /Home/Covid-19-information
@@ -315,7 +314,6 @@ Disallow: /Meetings-Minutes-and-Agendas/2021/12/Additional-Council-Meeting-14-De
 Disallow: /Meetings-Minutes-and-Agendas/Council-Documents-17-12-24
 Disallow: /Meetings-Minutes-and-Agendas/DPRSC-Documents
 Disallow: /Meetings-Minutes-and-Agendas/Meeting-templates-for-Ainslee
-Disallow: /New-page
 Disallow: /News/call-for-spatial-plan-feedback
 Disallow: /News/Mates-Rates
 Disallow: /News/New-rating-valuations-for-Waitaki-District

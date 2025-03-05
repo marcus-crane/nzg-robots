@@ -4,6 +4,7 @@ Disallow: /electedmembers
 Disallow: /Facilities-and-Recreation/Pools/Thames-Centennial-Pool/Thames-Swimming-Club
 Disallow: /festival
 Disallow: /first-aiders
+Disallow: /Home/Do-It-Online/Elections
 Disallow: /Home/Do-It-Online/Library
 Disallow: /Home/Do-It-Online/Pay-a-Parking-Ticket
 Disallow: /Home/List-of-First-Aiders
