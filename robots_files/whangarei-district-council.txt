@@ -1585,6 +1585,11 @@ Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Ro
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250212/Paiawa-Road-NCC-Event
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250212/Ruarangi-Road-NCC-Event
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250212/Sime-Road-Closure-NCC-Event
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Nightworks-20250310/Central-Avenue-roadworks
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Nightworks-20250310/Hospital-Road-roadworks
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Nightworks-20250310/Reyburn-House-Lane-roadworks
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Nightworks-20250310/Reyburn-Street-Service-Lane-roadworks
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Nightworks-20250310/Tarewa-Road-roadworks
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Night-works-various-20240912/Amber-Drive
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Night-works-various-20240912/Cartwright-Road
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Night-works-various-20240912/Hunt-Street
@@ -1959,6 +1964,7 @@ Disallow: /Temporary-Announcements/Recycling-changes-20240201
 Disallow: /Temporary-Announcements/Refund-requests
 Disallow: /Temporary-Announcements/RMA-Building-Act-closedown
 Disallow: /Temporary-Announcements/Rubbish-collection
+Disallow: /Temporary-Announcements/Shared-Path-temporary-closure
 Disallow: /Temporary-Announcements/Te-Matau-a-Pohe-bridge-planned-closure
 Disallow: /Temporary-Announcements/Temporary-road-closure-application-closedown
 Disallow: /Temporary-Announcements/Tip-Road-extension

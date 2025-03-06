@@ -75,4 +75,5 @@ Disallow: /index.php/user/logout
 Disallow: /publications?
 Disallow: /news?
 Disallow: /information-releases?
+Disallow: /search?
 Sitemap: https://www.health.govt.nz/sitemap.xml

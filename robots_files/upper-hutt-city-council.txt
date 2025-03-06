@@ -885,6 +885,7 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Finance-and-Performance/Finance-and-Performance-Committee-26-April-2023/Finance-and-Performance-Committee-Agenda-26-April-2023/Attachment-4-Financial-Management-Report
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Finance-and-Performance/Finance-and-Performance-Committee-26-April-2023/Finance-and-Performance-Minutes-26-April-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Finance-and-Performance/Finance-and-Performance-Committee-26-February-2025/Finance-and-Performance-Committee-Agenda-26-February-2025
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Finance-and-Performance/Finance-and-Performance-Committee-26-February-2025/Finance-and-Performance-Committee-Minutes-26-February-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Finance-and-Performance/Finance-and-Performance-Committee-26-February-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Finance-and-Performance/Finance-and-Performance-Committee-26-July-2023/Finance-and-Performance-Committee-Agenda-26-July-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Finance-and-Performance/Finance-and-Performance-Committee-26-July-2023/Finance-and-Performance-Committee-minutes-26-July-2023
@@ -978,7 +979,9 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-15-February-2023/Risk-and-Assurance-Committee-Agenda-15-February-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-15-February-2023/Risk-and-Assurance-Committee-minutes-15-February-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-15-February-2023/Sensitive-Expenditure-Report-Attachment-4-Sensitive-Expenditure-Policy-February-2023-with-proposed-tracked-changes
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-19-February-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-19-February-2025/Risk-and-Assurance-Committee-Agenda-19-February-2025
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-19-February-2025/Risk-and-Assurance-Committee-Minutes-19-February-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-20-November-2024/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-20-November-2024/Risk-and-Assurance-Committee-20-November-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-20-November-2024/Risk-and-Assurance-Committee-Agenda-20-November-2024

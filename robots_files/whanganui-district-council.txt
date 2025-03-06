@@ -132,6 +132,8 @@ Disallow: /Community-Culture/Funding-Opportunities/Public-Art-Fund/Public-Art-Fu
 Disallow: /Community-Culture/Funding-Opportunities/Public-Art-Fund/Public-Art-Fund-slideshow/Whanganui-Walls
 Disallow: /Community-Culture/Housing/Council-activity-and-relationships
 Disallow: /Community-Culture/Housing/Social-Housing-council-activity-and-relationships
+Disallow: /Do-It-Online.../Holidays-Act-Remediation-Contact-Form
+Disallow: /Do-It-Online.../Whats-my-recycling-collection-day
 Disallow: /Donate-now/*
 Disallow: /Glossary/*
 Disallow: /Home/Featured-Content/Annual-Plan-202324-and-fees-and-charges-consultation
@@ -550,6 +552,8 @@ Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minu
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Projects-and-Grants-Committee-15-October-2024/Unconfirmed-minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Projects-and-Grants-Committee-5-December-2024/Final-Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Projects-and-Grants-Committee-5-December-2024/New-page
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Projects-Grants-Committee-11-March-2025/Final-Agenda
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Projects-Grants-Committee-11-March-2025/New-page
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Property-and-Community-Services-Committee-17-May-2022/Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Property-and-Community-Services-Committee-17-May-2022/Confirmed-Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Property-and-Community-Services-Committee-22-February-2022/Agenda
