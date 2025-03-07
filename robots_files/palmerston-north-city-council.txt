@@ -544,6 +544,7 @@ Disallow: /Participate-Palmy/Have-your-say/Proposed-Plan-Change-I/Timeline/15-Ja
 Disallow: /Participate-Palmy/Have-your-say/Proposed-Plan-Change-I/Timeline/Copy-of-11-December-Drop-in-sessions-1
 Disallow: /Participate-Palmy/Have-your-say/Proposed-Plan-Change-I/Timeline/Copy-of-14-December-Drop-in-sessions-1
 Disallow: /Participate-Palmy/Have-your-say/Proposed-Plan-Change-I/Timeline/New-page
+Disallow: /Participate-Palmy/Have-your-say/Proposed-Plan-Change-I/Timeline/Phase-4
 Disallow: /Participate-Palmy/Have-your-say/Rezoning-Roxburgh-Crescent/Timeline/Decision-released
 Disallow: /Participate-Palmy/Have-your-say/Rezoning-Roxburgh-Crescent/Timeline/Hearings
 Disallow: /Participate-Palmy/Have-your-say/Rezoning-Roxburgh-Crescent/Timeline/New-page
