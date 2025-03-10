@@ -1909,6 +1909,7 @@ Disallow: /Temporary-Announcements/Brynderwyns-repairs-delayed
 Disallow: /Temporary-Announcements/Canopy-Walkway-temporary-closure
 Disallow: /Temporary-Announcements/Changes-to-community-funding
 Disallow: /Temporary-Announcements/Civic-Honours
+Disallow: /Temporary-Announcements/Claphams-Clocks-is-open-again
 Disallow: /Temporary-Announcements/Claphams-Clocks-temporary-closure
 Disallow: /Temporary-Announcements/Closure-due-to-power-outage
 Disallow: /Temporary-Announcements/Contractors-on-break

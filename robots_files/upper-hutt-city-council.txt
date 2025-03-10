@@ -39,7 +39,6 @@ Disallow: /Announcements/Intensification-Planning-Instrument-IPI-hearings-Live-S
 Disallow: /Announcements/Liquor-license-Christmas
 Disallow: /Announcements/Liquor-license-Christmas-processing-dates
 Disallow: /Announcements/Matariki-collections/New-page
-Disallow: /Announcements/New-page
 Disallow: /Announcements/New-page-1/*
 Disallow: /Announcements/New-page-2
 Disallow: /Announcements/OHG
