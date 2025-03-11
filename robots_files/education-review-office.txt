@@ -71,13 +71,22 @@ Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
+
+#
+# [project-root]/assets/scaffold/files/robots-additions.txt
+#
+# Project specific settings appended to
+# [web-root]/core/assets/scaffold/files/robots.txt
+#
 # ERO settings
 Crawl-delay: 10
 Sitemap: https://ero.govt.nz/sitemap.xml
 # ERO search pages
 Allow: /news/
 Disallow: /news
+Allow: /our-research/
 Disallow: /our-research
+Allow: /review-reports/
 Disallow: /review-reports
 Disallow: /review-reports/early-childhood
 Disallow: /review-reports/governing-organisations
