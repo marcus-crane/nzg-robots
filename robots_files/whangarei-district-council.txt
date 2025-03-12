@@ -368,6 +368,7 @@ Disallow: /Events/Whats-On/Hot-Grill-Summer/Beer-and-Loathing-HGS-burger
 Disallow: /Events/Whats-On/Hot-Grill-Summer/BIG-D-BBQ-HGS-burger
 Disallow: /Events/Whats-On/Hot-Grill-Summer/Cafe-Botannix-HGS-burger
 Disallow: /Events/Whats-On/Hot-Grill-Summer/Copy-of-eatery-HGS-burger-1
+Disallow: /Events/Whats-On/Hot-Grill-Summer/Copy-of-HSG-registration-1
 Disallow: /Events/Whats-On/Hot-Grill-Summer/Dickens-Inn-HGS-burger
 Disallow: /Events/Whats-On/Hot-Grill-Summer/eatery-HGS-burger
 Disallow: /Events/Whats-On/Hot-Grill-Summer/Frings-Bar-and-Eatery-HGS-burger
@@ -463,6 +464,7 @@ Disallow: /Events/Whats-On/Puanga-on-a-Plate/Grand-Thai-Restaurant-Puanga-on-a-P
 Disallow: /Events/Whats-On/Puanga-on-a-Plate/Local-Talent-Taverna-Puanga-on-a-Plate-dish
 Disallow: /Events/Whats-On/Puanga-on-a-Plate/Malthouse-Fusion-Puanga-on-a-Plate-dish
 Disallow: /Events/Whats-On/Puanga-on-a-Plate/Puanga-on-a-plate-voting
+Disallow: /Events/Whats-On/Puanga-on-a-Plate/Puanga-plate-dish-registration
 Disallow: /Events/Whats-On/Puanga-on-a-Plate/restaurant-Puanga-on-a-Plate-dish
 Disallow: /Events/Whats-On/Puanga-on-a-Plate/SC-Puanga-Plate-link
 Disallow: /Events/Whats-On/Puanga-on-a-Plate/SC-Puanga-Plate-Vote
@@ -1937,6 +1939,7 @@ Disallow: /Temporary-Announcements/Go-paperless
 Disallow: /Temporary-Announcements/Growers-Market
 Disallow: /Temporary-Announcements/Huitau-Pa-walkway-partial-closure
 Disallow: /Temporary-Announcements/ICT-Payments-Outage
+Disallow: /Temporary-Announcements/isite-temporary-closure
 Disallow: /Temporary-Announcements/Kotuitui-Whitinga-Bridge-detour
 Disallow: /Temporary-Announcements/LGOIMA-closedown
 Disallow: /Temporary-Announcements/LIM-closedown

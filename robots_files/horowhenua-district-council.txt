@@ -468,6 +468,8 @@ Disallow: /Home/Emergency-Announcements/LS-Council-Meeting-Workshops-June-2022
 Disallow: /Home/Emergency-Announcements/LS-Council-Workshop-December-2022
 Disallow: /Home/Emergency-Announcements/LS-Inaugural-Council-Meeting-2022
 Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/*
+Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/Community-Wellbeing-Committee-Meeting-and-Council-Workshops-12-March-2025
+Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/Community-Wellbeing-Committee-Meeting-and-Council-Workshops-16-October-2024-1
 Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/Copy-of-LS-Council-and-Risk-Assurance-Committee-Meeting-April-2023-1
 Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/Copy-of-LS-Council-Hearings-Proposed-Freedom-Camping-Bylaw-Request-for-Remission-of-DCs-1
 Disallow: /Home/Emergency-Announcements/Meetings-Live-stream-announcements/Copy-of-LS-Council-LTPA-Deliberations-Extraordinary-Meeting-June-2023-1
