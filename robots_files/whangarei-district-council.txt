@@ -2390,6 +2390,10 @@ Disallow: /Whats-new/Have-your-say/Current-Consultations/Accessibility-Feedback-
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Accessibility-Feedback-2022/Feedback-closes
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Accessibility-Feedback-2022/Feedback-starts
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Accessibility-Feedback-2022/What-Councils-Do
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Age-Friendly-Survey/Age-Friendly-Survey-Timeline/*
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Age-Friendly-Survey/Age-Friendly-Survey-Timeline/Plan-released
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Age-Friendly-Survey/Age-Friendly-Survey-Timeline/Survey-closes
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Age-Friendly-Survey/Age-Friendly-Survey-Timeline/Survey-opens
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Alcohol-Control-Bylaw/Alcohol-Control-Bylaw-feedback-form
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Alcohol-Control-Bylaw/Alcohol-Control-Bylaw-online-form
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Alcohol-Control-Bylaw/Decision-of-Council
