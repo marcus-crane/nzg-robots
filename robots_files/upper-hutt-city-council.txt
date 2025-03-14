@@ -531,7 +531,6 @@ Disallow: /Home/Feature-Background/Hero-image-Upper-Hutt-River
 Disallow: /Home/Feature-Background/Hero-image-Upper-Hutt-Train-Station
 Disallow: /Home/Feature-Background/Hero-image-Upper-Hutt-view-from-hill
 Disallow: /Home/Feature-Background/New-page
-Disallow: /Home/Featured-Content/*
 Disallow: /Home/Featured-Content/Business-support/Contact-the-business-team
 Disallow: /Home/Featured-Content/Engage-with-us/Stay-connected
 Disallow: /Home/Featured-Content/New-page
@@ -771,6 +770,8 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-June-2024/Council-Agenda-19-June-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-June-2024/Council-Minutes-19-June-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-June-2024/New-page
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-March-2025/Council-Agenda-19-March-2025
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-March-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-1-February-2023/Council-Agenda-1-February-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-1-February-2023/Council-Minutes-1-February-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-1-February-2023/Late-Item-Appointment-of-Pecuniary-Interests-Registrar
@@ -854,7 +855,6 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Extraordinary-Council-Meeting-31-October-2023/Extraordinary-Council-Agenda-31-October-2023/Extraordinary-Council-Minutes-31-October-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Extraordinary-Council-Meeting-31-October-2023/Supplementary-Agenda-Item-4-Attachment-1-and-Attachment-2
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Extraordinary-Council-Meeting-31-October-2023/Supplementary-Agenda-Item-4-Attachment-1-Draft-Annual-Report-2022-2023
-Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Risk-and-Assurance-Committee-19-February-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Risk-and-Assurance-Committee-19-February-2025/Risk-and-Assurance-Committee-Agenda-19-August-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Risk-and-Assurance-Committee-19-February-2025/Risk-and-Assurance-Committee-Agenda-19-February-2025

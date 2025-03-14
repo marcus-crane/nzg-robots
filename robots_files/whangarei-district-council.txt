@@ -688,14 +688,9 @@ Disallow: /library/Home/About-the-Website/Website-Feedback
 Disallow: /library/Home/Background-Home
 Disallow: /library/Home/Branch-libraries
 Disallow: /library/Home/Featured-Content/*
-Disallow: /library/Home/Featured-Content/A-big-day-in-at-the-library
 Disallow: /library/Home/Featured-Content/Arts-and-crafts
 Disallow: /library/Home/Featured-Content/Author-talk
-Disallow: /library/Home/Featured-Content/Author-visit
-Disallow: /library/Home/Featured-Content/Book-launch
 Disallow: /library/Home/Featured-Content/Branch-libraries
-Disallow: /library/Home/Featured-Content/Changes-to-library-access/Heritage-talk
-Disallow: /library/Home/Featured-Content/Character-hunt
 Disallow: /library/Home/Featured-Content/Christmas-and-new-year-hours
 Disallow: /library/Home/Featured-Content/Citizens-advice-bureau
 Disallow: /library/Home/Featured-Content/Competitions
@@ -704,12 +699,9 @@ Disallow: /library/Home/Featured-Content/Dementia-friendly-book-club
 Disallow: /library/Home/Featured-Content/Dragons-summer-challenges
 Disallow: /library/Home/Featured-Content/Drop-in-tech-help
 Disallow: /library/Home/Featured-Content/Drop-in-tech-help-feature
-Disallow: /library/Home/Featured-Content/Easter-event
 Disallow: /library/Home/Featured-Content/Easter-hours
 Disallow: /library/Home/Featured-Content/Event
-Disallow: /library/Home/Featured-Content/Fines-free
 Disallow: /library/Home/Featured-Content/Flash-fiction-workshop
-Disallow: /library/Home/Featured-Content/Free-DVDs
 Disallow: /library/Home/Featured-Content/Fringe-festival
 Disallow: /library/Home/Featured-Content/He-Kakano
 Disallow: /library/Home/Featured-Content/He-Kakano-feature
@@ -722,12 +714,10 @@ Disallow: /library/Home/Featured-Content/LEGO-club-feature
 Disallow: /library/Home/Featured-Content/Library-closure
 Disallow: /library/Home/Featured-Content/Library-services-presentation
 Disallow: /library/Home/Featured-Content/Lions-Club-Toy-Appeal
-Disallow: /library/Home/Featured-Content/Matariki-talk
 Disallow: /library/Home/Featured-Content/memory-tree
 Disallow: /library/Home/Featured-Content/Mobile-library
 Disallow: /library/Home/Featured-Content/Monthly-mindfulness-feature
 Disallow: /library/Home/Featured-Content/Mothers-day
-Disallow: /library/Home/Featured-Content/Multicultural-day
 Disallow: /library/Home/Featured-Content/New-page
 Disallow: /library/Home/Featured-Content/New-website-feeback
 Disallow: /library/Home/Featured-Content/Northland-heritage-online
@@ -735,12 +725,9 @@ Disallow: /library/Home/Featured-Content/Northland-heritage-online-feature
 Disallow: /library/Home/Featured-Content/NZ-sign-language-week
 Disallow: /library/Home/Featured-Content/Preschool-funtimes
 Disallow: /library/Home/Featured-Content/Raranga-tonu
-Disallow: /library/Home/Featured-Content/Rental-summer-special
 Disallow: /library/Home/Featured-Content/School-holidays
-Disallow: /library/Home/Featured-Content/Seed-and-plant-swap
 Disallow: /library/Home/Featured-Content/Silver-festival
 Disallow: /library/Home/Featured-Content/Summer-holidays
-Disallow: /library/Home/Featured-Content/Take-out-activities
 Disallow: /library/Home/Featured-Content/Teen-breakfast-club
 Disallow: /library/Home/Featured-Content/Teen-Read-5
 Disallow: /library/Home/Featured-Content/Te-wiki-o-te-reo-maori
@@ -773,6 +760,8 @@ Disallow: /library/interlibrary-loans
 Disallow: /library/interloans
 Disallow: /library/jigsaw-puzzles/*
 Disallow: /library/Learn/Background-Learn
+Disallow: /library/Learn/Classes-and-workshops/Library-services-classes
+Disallow: /library/Learn/Classes-and-workshops/Library-services-presentations
 Disallow: /library/Learn/Government-Documents
 Disallow: /library/Learn/Help/Help-browsers-and-apps
 Disallow: /library/Learn/Help/Help-search-the-catalogue
@@ -803,6 +792,7 @@ Disallow: /library/Learn/Using-the-library-catalogue/BookMyne
 Disallow: /library/Learn/Using-the-library-catalogue/Place-holds
 Disallow: /library/Learn/Using-the-library-catalogue/Searching-the-catalogue
 Disallow: /library/Library-craft-group
+Disallow: /library/Library-services-presentations
 Disallow: /library/Manage-subscriptions
 Disallow: /library/maori-battalion-pou/*
 Disallow: /library/Matapouri-Community-Library
@@ -819,6 +809,7 @@ Disallow: /library/Ngunguru-Community-Library
 Disallow: /library/Page-Not-Found
 Disallow: /library/preschool-funtimes-tikipunga
 Disallow: /library/preschool-funtimes-whangarei-central-library
+Disallow: /library/Presentations
 Disallow: /library/Ruakaka-Community-Library
 Disallow: /library/Sandbox/*
 Disallow: /library/Sandbox/Maori-Find-Replace-Test
@@ -1252,6 +1243,8 @@ Disallow: /library/Whats-on/Events/Preschool-funtimes-grandparents/Funtimes-with
 Disallow: /library/Whats-on/Events/Preschool-funtimes-grandparents/Funtimes-with-grandparents-at-Whangārei-Central-Library
 Disallow: /library/Whats-on/Events/Silver-festival/Preschool-funtimes-celebrate-grandparents/Funtimes-with-grandparents-at-Tikipunga-Library
 Disallow: /library/Whats-on/Events/Silver-festival/Preschool-funtimes-celebrate-grandparents/Funtimes-with-grandparents-at-Whangārei-Central-Library
+Disallow: /library/Whats-on/Events/Te-tiriti-o-waitangi-talks/*
+Disallow: /library/Whats-on/Events/Tuhura-tuarangi-space-showcase/*
 Disallow: /library/Whats-on/News/Background-News
 Disallow: /library/Whats-on/News/COVID-19-Level-2
 Disallow: /library/Whats-on/News/COVID-19-Level-3
@@ -2172,6 +2165,9 @@ Disallow: /Whats-new/Have-your-say/Closed-Consultations/Hihiaua-Lease-Consultati
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Hihiaua-Lease-Consultation/New-page
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Hihiaua-Lease-Consultation/Submissions-Close
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Hihiaua-Lease-Consultation/Submissions-Open
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Hikurangi-WWTP-consent-renewal/Feedback-closes
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Hikurangi-WWTP-consent-renewal/Feedback-opens
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Hikurangi-WWTP-consent-renewal/Hikurangi-WWTP-feedback
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/IQP-register-transfer/Consultation-closes
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/IQP-register-transfer/Consultation-opens
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/IQP-register-transfer/Handover
@@ -2215,6 +2211,9 @@ Disallow: /Whats-new/Have-your-say/Closed-Consultations/LU2300081-NZ-Venture-Pro
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/LU2300081-NZ-Venture-Properties/Timeline/*
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/LU2300081-NZ-Venture-Properties/Timeline/Submissions-close
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/LU2300081-NZ-Venture-Properties/Timeline/Submissions-open
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Oakura-WWTP-consent-renewal/Feedback-closes
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Oakura-WWTP-consent-renewal/Feedback-opens
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Oakura-WWTP-consent-renewal/Oakura-WWTP-feedback
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Oruku-Landing-2021/Consultation-Begins
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Oruku-Landing-2021/Consultation-Ends
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Oruku-Landing-2021/Deliberations

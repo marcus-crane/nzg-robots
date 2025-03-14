@@ -2562,7 +2562,12 @@ Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-W
 Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Community-drop-in-session-1-April-2025
 Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Community-drop-in-session-31-March-2025
 Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Community-drop-in-session-3-April-2025
-Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Community-drop-in-session-7-April-2025
+Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Community-drop-in-session-7-April
+Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Community-drop-in-session-8-April
+Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Consultation-closes
+Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Copy-of-Community-drop-in-session-1-April-2025-1
+Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Copy-of-Community-drop-in-session-7-April
+Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Copy-of-Community-drop-in-session-7-April-1
 Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Council-will-adopt-its-Water-Services-Plan-including-preferred-model
 Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Deadline-to-submit-the-Water-Services-Delivery-Plan-to-government
 Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Elected-representatives-will-review-submissions-and-decide-on-a-model
