@@ -156,6 +156,7 @@ Disallow: /Home/Featured-Content/Rubbish-Recycling
 Disallow: /Home/Featured-Content/Sarjeant-Gallery-redevelopment-project
 Disallow: /Home/Featured-Content/Sign-up-for-our-citizens’-assembly-on-outdoor-pools
 Disallow: /Home/Featured-Content/Update-your-dog-registration-contact-details
+Disallow: /Home/Featured-Content/Water-services-delivery-in-Whanganui-planning-for-the-future
 Disallow: /Home/Featured-Content/Whanganui-Elections-2022
 Disallow: /Home/Featured-Content/Whanganui-Rural-Community-Board-by-election
 Disallow: /Home/Featured-Content/Whanganui-Rural-Community-Board-by-election-17-February-2023
@@ -2564,6 +2565,7 @@ Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-W
 Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Community-drop-in-session-3-April-2025
 Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Community-drop-in-session-7-April
 Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Community-drop-in-session-8-April
+Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Community-engagement
 Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Consultation-closes
 Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Copy-of-Community-drop-in-session-1-April-2025-1
 Disallow: /Your-Council/Have-Your-Say/Consultations/Water-services-delivery-in-Whanganui-planning-for-the-future-consultation/Timeline/Copy-of-Community-drop-in-session-7-April

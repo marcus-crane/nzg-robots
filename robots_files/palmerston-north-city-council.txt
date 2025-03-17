@@ -1014,6 +1014,7 @@ Disallow: /Services/Transport-roading/Roads-and-footpaths/Roadworks-and-road-clo
 Disallow: /Services/Transport-roading/Roads-and-footpaths/Roadworks-and-road-closures/Havill-Street-wastewater-pipes-upgrade
 Disallow: /Services/Transport-roading/Roads-and-footpaths/Roadworks-and-road-closures/Kahuterawa-Road-repair-work
 Disallow: /Services/Transport-roading/Roads-and-footpaths/Roadworks-and-road-closures/Kairanga-Bunnythorpe-Road-wastewater-upgrade
+Disallow: /Services/Transport-roading/Roads-and-footpaths/Roadworks-and-road-closures/Kelvin-GroveHenaghans-Road-intersection-upgrade
 Disallow: /Services/Transport-roading/Roads-and-footpaths/Roadworks-and-road-closures/New-page
 Disallow: /Services/Transport-roading/Roads-and-footpaths/Roadworks-and-road-closures/Railway-Road-full-road-closure
 Disallow: /Services/Transport-roading/Roads-and-footpaths/Roadworks-and-road-closures/Railway-Road-rebuild
