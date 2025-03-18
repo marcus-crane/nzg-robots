@@ -514,9 +514,9 @@ Disallow: /Home/Featured-Content/Christmas-at-Pohe-Island-registration
 Disallow: /Home/Featured-Content/Christmas-Festival
 Disallow: /Home/Featured-Content/Civic-Centre
 Disallow: /Home/Featured-Content/Civic-Centre-Training-Opportunities
+Disallow: /Home/Featured-Content/Civic-Honours-2025
 Disallow: /Home/Featured-Content/Community-Funding
 Disallow: /Home/Featured-Content/Copy-of-Dogs-Summer-1
-Disallow: /Home/Featured-Content/Copy-of-Freedom-Camping-1
 Disallow: /Home/Featured-Content/Copy-of-Regional-Recovery-Plan-1
 Disallow: /Home/Featured-Content/Copy-of-Speed-Management-Plan-1
 Disallow: /Home/Featured-Content/Cyclist-numbers-rising
@@ -531,6 +531,7 @@ Disallow: /Home/Featured-Content/ESF
 Disallow: /Home/Featured-Content/Events
 Disallow: /Home/Featured-Content/FDS-Consultation
 Disallow: /Home/Featured-Content/Festival-Motorsport
+Disallow: /Home/Featured-Content/Fluoridation
 Disallow: /Home/Featured-Content/Freedom-Camping
 Disallow: /Home/Featured-Content/Have-Your-Say
 Disallow: /Home/Featured-Content/Hot-Grill-Summer
@@ -667,7 +668,6 @@ Disallow: /library/Explore/Leisure/Activities/Puzzle-Tutukaka-Coast
 Disallow: /library/Explore/Leisure/Activities/Puzzle-Whangarei-City-and-Parihaka
 Disallow: /library/Explore/Leisure/Activities/Puzzle-Whangaruru
 Disallow: /library/Explore/The-library/Catalogue
-Disallow: /library/Explore/The-library/eLibrary/eLibrary-list/*
 Disallow: /library/Explore/The-library/eLibrary/Jigsaw-puzzles/*
 Disallow: /library/Explore/The-library/eLibrary/Jigsaw-puzzles/Puzzle-Brynderwyn-Hills-to-Mount-Manaia
 Disallow: /library/Explore/The-library/eLibrary/Jigsaw-puzzles/Puzzle-Mangakahia-Forest
@@ -690,6 +690,7 @@ Disallow: /library/Home/Branch-libraries
 Disallow: /library/Home/Featured-Content/*
 Disallow: /library/Home/Featured-Content/Arts-and-crafts
 Disallow: /library/Home/Featured-Content/Author-talk
+Disallow: /library/Home/Featured-Content/Author-visit
 Disallow: /library/Home/Featured-Content/Branch-libraries
 Disallow: /library/Home/Featured-Content/Christmas-and-new-year-hours
 Disallow: /library/Home/Featured-Content/Citizens-advice-bureau
@@ -818,7 +819,6 @@ Disallow: /library/Site-Footer/*
 Disallow: /library/Site-Footer/Footer-Widgets/*
 Disallow: /library/Site-Footer/Sub-Footer-Links/*
 Disallow: /library/Site-Footer/Sub-Footer-Links/Listen-to-our-site
-Disallow: /library/Site-Footer/Sub-Footer-Links/New-page
 Disallow: /library/Suggest-to-buy
 Disallow: /library/Summer-holiday-programmes
 Disallow: /library/suugest-to-buy

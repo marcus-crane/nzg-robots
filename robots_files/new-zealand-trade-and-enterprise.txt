@@ -6,9 +6,9 @@
     Allow: /livedeals/about
   
     # Host
-    Host: http://www.nzte.govt.nz
+    Host: https://www.nzte.govt.nz
   
     # Sitemaps
-    Sitemap: http://www.nzte.govt.nz/sitemap
-    Sitemap: http://www.nzte.govt.nz/server-sitemap.xml
+    Sitemap: https://www.nzte.govt.nz/sitemap
+    Sitemap: https://www.nzte.govt.nz/server-sitemap.xml
     

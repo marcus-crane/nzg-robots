@@ -1,4 +1,3 @@
-
 Sitemap: https://sportnz.org.nz/sitemap.xml
 User-agent: *
 Disallow: /umbraco/
