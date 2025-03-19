@@ -605,6 +605,7 @@ Disallow: /Home/Emergency-Announcements/More-rain-forecast-for-the-Horowhenua-Di
 Disallow: /Home/Emergency-Announcements/New-page
 Disallow: /Home/Emergency-Announcements/No-Swim-Notice-Foxton-Beach
 Disallow: /Home/Emergency-Announcements/No-Swim-Notice-Hokio-Beach
+Disallow: /Home/Emergency-Announcements/Online-payment-forms-temporarily-unavailable
 Disallow: /Home/Emergency-Announcements/Privacy-Statement-Update
 Disallow: /Home/Emergency-Announcements/Public-holidays/*
 Disallow: /Home/Emergency-Announcements/Public-holidays/Matariki

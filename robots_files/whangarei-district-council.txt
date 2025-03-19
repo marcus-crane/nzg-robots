@@ -2425,6 +2425,11 @@ Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2023/Propos
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2023/Proposed-Rates-Preferred-Option
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2023/Submissions-begin
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2023/Submissions-close
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Annual-Plan-2025-online-form
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Timeline/*
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Timeline/Consultation-closes
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Timeline/Consultation-opens
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Timeline/Hearings
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Consultations-alongside-LTP-2024-2034/Timeline/*
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Consultations-alongside-LTP-2024-2034/Timeline/Adoption-fees-charges
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Consultations-alongside-LTP-2024-2034/Timeline/Adoption-policiies
