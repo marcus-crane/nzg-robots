@@ -122,7 +122,6 @@ Disallow: /Council-city/Regulations/Alcohol-licensing
 Disallow: /Council-city/Regulations/Bylaws/*
 Disallow: /Council-city/Regulations/Bylaws-[original]/*
 Disallow: /Council-city/What-were-doing/Ongoing-projects-and-programmes/Climate-calculator
-Disallow: /Discover-Palmy-and-win-a-weekend-getaway
 Disallow: /Glossary/*
 Disallow: /Home/Do-It-Online/*
 Disallow: /Home/Emergency-announcements/Changes-are-coming-to-kerbside-recycling-in-Palmy
@@ -252,7 +251,6 @@ Disallow: /News-Events/Events/Summer-Movie-Nights-2023-24/Red-White-Brass
 Disallow: /News-Events/Events/Summer-Movie-Nights-2023-24/Shrek
 Disallow: /News-Events/Events/Summer-Movie-Nights-2023-24/Up
 Disallow: /News-Events/New-page
-Disallow: /News-Events/News/Discover-Palmy-and-win-a-weekend-getaway
 Disallow: /News-Events/News/Glass-recycling-collection-to-temporarily-stop
 Disallow: /News-Events/News/How-do-you-think-Palmy-should-grow
 Disallow: /News-Events/News/How-do-you-think-Palmy-should-grow-original
@@ -266,7 +264,6 @@ Disallow: /Online-forms/Copy-of-Explore-Esplanade-Day-2023-stallfood-truck-appli
 Disallow: /Online-forms/Copy-of-Festival-of-Cultures-2023-food-and-retail-stall-application-1
 Disallow: /Online-forms/Copy-of-Lunar-New-Year-application-page-1
 Disallow: /Online-forms/Copy-of-Thank-you-for-signing-up-for-a-recycling-tour-1
-Disallow: /Online-forms/Discover-Palmy-and-win-a-weekend-getaway
 Disallow: /Online-forms/Diwali-Mela-2023-application-page
 Disallow: /Online-forms/Diwali-Mela-application-page
 Disallow: /Online-forms/Explore-Esplanade-Day-2023-performance-application

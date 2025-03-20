@@ -372,6 +372,8 @@ Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minu
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-25-June-2024/Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-25-June-2024/Confirmed-Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-25-June-2024/Late-Item-CCO-Statements-of-Intent
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-25-March-2025/Agenda
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-25-March-2025/New-page
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-26-March-2024/Additional-Information
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-26-March-2024/Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-26-March-2024/Confirmed-Minutes
