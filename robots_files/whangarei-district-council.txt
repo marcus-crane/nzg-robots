@@ -1889,6 +1889,7 @@ Disallow: /Temporary-Announcements/Alcohol-Act-closedown
 Disallow: /Temporary-Announcements/Alcohol-Temporary-Amendment
 Disallow: /Temporary-Announcements/AlphaOne
 Disallow: /Temporary-Announcements/AlphaOne-to-Objective-Build
+Disallow: /Temporary-Announcements/Annual-Plan-2025-26
 Disallow: /Temporary-Announcements/AP-Consultation
 Disallow: /Temporary-Announcements/Botanica
 Disallow: /Temporary-Announcements/Botanica-closed
@@ -2426,9 +2427,14 @@ Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2023/Propos
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2023/Submissions-begin
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2023/Submissions-close
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Annual-Plan-2025-online-form
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Copy-of-Annual-Plan-2025-online-form-1
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Copy-of-Timeline-1/*
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Timeline/*
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Timeline/Consultation-closes
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Timeline/Consultation-opens
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Timeline/Copy-of-Consultation-closes-1
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Timeline/Copy-of-Consultation-opens-1
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Timeline/Copy-of-Hearings-1
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Timeline/Hearings
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Consultations-alongside-LTP-2024-2034/Timeline/*
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Consultations-alongside-LTP-2024-2034/Timeline/Adoption-fees-charges
@@ -2525,6 +2531,11 @@ Disallow: /Whats-new/Have-your-say/Current-Consultations/Fees-and-Charges-2023/C
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Fees-and-Charges-2023/Consultation-Ends
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Fees-and-Charges-2023/Fees-And-Charges-2023
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Fees-and-Charges-2023/Hearing
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Fees-and-Charges-2025/Fees-and-Charges-2025-online-form
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Fees-and-Charges-2025/Timeline/*
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Fees-and-Charges-2025/Timeline/Consultation-closes
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Fees-and-Charges-2025/Timeline/Consultation-opens
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Fees-and-Charges-2025/Timeline/Hearings
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Hihiaua-Lease-Consultation/Council-Meeting
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Hihiaua-Lease-Consultation/Hihiaua-Lease-Online-Form
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Hihiaua-Lease-Consultation/Submissions-Close
