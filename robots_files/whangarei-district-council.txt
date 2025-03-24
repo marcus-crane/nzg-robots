@@ -50,7 +50,6 @@ Disallow: /Community/Civil-Defence/Natural-hazards
 Disallow: /Community/Civil-Defence/Northpower-outages
 Disallow: /Community/Civil-Defence/Red-Cross-hazard-app
 Disallow: /Community/Civil-Defence/State-highways
-Disallow: /Community/Civil-Defence/Storm-updates
 Disallow: /Community/Community-Facilities/Bike-parking/*
 Disallow: /Community/Community-Facilities/FN-Entertainment-Centre
 Disallow: /Community/Community-Facilities/New-page
@@ -757,6 +756,7 @@ Disallow: /library/Home/Tabs/Quick-links/Search-catalogue
 Disallow: /library/how-to search-the-library-catalogue
 Disallow: /library/how-to-place-holds
 Disallow: /library/how-to-request-items
+Disallow: /library/interlibrary-loan-request
 Disallow: /library/interlibrary-loans
 Disallow: /library/interloans
 Disallow: /library/jigsaw-puzzles/*
@@ -863,7 +863,6 @@ Disallow: /library/Visit/Library-services/Computers-and-internet/Spare
 Disallow: /library/Visit/Library-services/Library-forms
 Disallow: /library/Visit/Library-services/Library-forms/Ask-a-Librarian
 Disallow: /library/Visit/Library-services/Library-forms/Ask-a-Librarian-request
-Disallow: /library/Visit/Library-services/Library-forms/Interlibrary-loan-request
 Disallow: /library/Visit/Library-services/Library-forms/Suggest-to-Buy
 Disallow: /library/Visit/Library-services/Library-Services
 Disallow: /library/Visit/Library-services/Meeting-rooms/May-Bain-Image-Gallery
@@ -1220,7 +1219,6 @@ Disallow: /library/Visit/Taitamariki-Teens/Study
 Disallow: /library/Visit/Taitamāriki-Teens/Study
 Disallow: /library/Visit/Taitamāriki-Teens/Study-help
 Disallow: /library/Visit/Using-Libraries/Library-forms
-Disallow: /library/Visit/Using-Libraries/Library-forms/Interlibrary-loan-request
 Disallow: /library/Waipu-Community-Library
 Disallow: /library/Whananaki-Community-Library
 Disallow: /library/whangarei-heads-community-library
@@ -2135,6 +2133,8 @@ Disallow: /Whats-new/Have-your-say/Closed-Consultations/Dog-Management-Policy-an
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Dog-Management-Policy-and-Bylaw/Timeline/Proposal-adopted-for-consultation
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Easter-Sunday-Trading-Policy/Easter-Sunday-Shop-Trading-Policy-feedback
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Easter-Sunday-Trading-Policy/Timeline/*
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Easter-Sunday-Trading-Policy/Timeline/Adoption
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Easter-Sunday-Trading-Policy/Timeline/Copy-of-Decision-of-Council-1
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Easter-Sunday-Trading-Policy/Timeline/Decision-of-Council
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Easter-Sunday-Trading-Policy/Timeline/Hearing
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Easter-Sunday-Trading-Policy/Timeline/Submissions-close
@@ -2277,8 +2277,11 @@ Disallow: /Whats-new/Have-your-say/Closed-Consultations/Portland-WWTP/Feedback-S
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Portland-WWTP/Portland-WWTP-Survey
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Psychoactive-Substances-Policy/Psychoactive-Substances-Policy-feedback
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Psychoactive-Substances-Policy/Timeline/*
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Psychoactive-Substances-Policy/Timeline/Copy-of-Decision-of-Council-1
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Psychoactive-Substances-Policy/Timeline/Decision-of-Council
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Psychoactive-Substances-Policy/Timeline/Hearing
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Psychoactive-Substances-Policy/Timeline/Revoked-poilicy
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Psychoactive-Substances-Policy/Timeline/Revokes
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Psychoactive-Substances-Policy/Timeline/Submissions-close
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Psychoactive-Substances-Policy/Timeline/Submissions-open
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Raumanga-Otaika-Placemaking-Plan/Timeline/*
@@ -2531,6 +2534,7 @@ Disallow: /Whats-new/Have-your-say/Current-Consultations/Fees-and-Charges-2023/C
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Fees-and-Charges-2023/Consultation-Ends
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Fees-and-Charges-2023/Fees-And-Charges-2023
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Fees-and-Charges-2023/Hearing
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Fees-and-Charges-2025/Copy-of-Fees-and-Charges-2025-online-form-1
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Fees-and-Charges-2025/Fees-and-Charges-2025-online-form
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Fees-and-Charges-2025/Timeline/*
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Fees-and-Charges-2025/Timeline/Consultation-closes
@@ -2557,6 +2561,13 @@ Disallow: /Whats-new/Have-your-say/Current-Consultations/Kamo-Road-priority-lane
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Kamo-Road-priority-lane-feedback/Feedback-opens
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Kamo-Road-priority-lane-feedback/Kamo-Road-priority-lane-form
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Kamo-Road-priority-lane-feedback/Te-Kamo-drop-in-session
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Local-Water-Done-Well-consultation-2025/Local-Water-Done-Well-online-form
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Local-Water-Done-Well-consultation-2025/Timeline/*
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Local-Water-Done-Well-consultation-2025/Timeline/Consultation-closes
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Local-Water-Done-Well-consultation-2025/Timeline/Consultation-opens
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Local-Water-Done-Well-consultation-2025/Timeline/Drop-in-Hikurangi
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Local-Water-Done-Well-consultation-2025/Timeline/Drop-in-Ruakaka
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Local-Water-Done-Well-consultation-2025/Timeline/Drop-in-Te-Iwitahi
 Disallow: /Whats-new/Have-your-say/Current-Consultations/LTP-Consultation-2024/LTP-feedback-form
 Disallow: /Whats-new/Have-your-say/Current-Consultations/LTP-Consultation-2024/Timeline/*
 Disallow: /Whats-new/Have-your-say/Current-Consultations/LTP-Consultation-2024/Timeline/Community-Outcomes
@@ -3190,7 +3201,6 @@ Disallow: /Whats-new/News-and-notices/Copy-of-Roading-Update-July-20230830-1
 Disallow: /Whats-new/News-and-notices/District-valuation-rolls-20211124
 Disallow: /Whats-new/News-and-notices/Dog-report-adopted-20211021
 Disallow: /Whats-new/News-and-notices/Elections-Hub-20220907
-Disallow: /Whats-new/News-and-notices/Emergency-updates
 Disallow: /Whats-new/News-and-notices/Five-Consultations-20220411
 Disallow: /Whats-new/News-and-notices/Learn-For-Future-20220824
 Disallow: /Whats-new/News-and-notices/Quarry-Gardens-Repairs-20211123
@@ -3198,7 +3208,6 @@ Disallow: /Whats-new/News-and-notices/Relief-Adoption-2022
 Disallow: /Whats-new/News-and-notices/Restriction-Millbrook-Road-20240311
 Disallow: /Whats-new/News-and-notices/Roading-Update-July-20230830
 Disallow: /Whats-new/News-and-notices/RWC-one-year-to-go-20211027
-Disallow: /Whats-new/News-and-notices/Storm-updates
 Disallow: /Whats-new/News-and-notices/Tamaterau-Reserve-Renaming-20220921/Tamaterau-Image-Gallery
 Disallow: /Whats-New/Resource-consent-applications
 Disallow: /Whats-New/Whats-new-featured-background

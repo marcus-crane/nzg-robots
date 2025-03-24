@@ -412,6 +412,7 @@ Disallow: /EngagementHQ-Projects/City-Centre-Consultation-88825
 Disallow: /EngagementHQ-Projects/Consultation-for-the-Dangerous-Affected-and-Insanitary-Buildings-Policy-96450
 Disallow: /EngagementHQ-Projects/Consultation-for-the-Dangerous-and-Insanitary-Buildings-Policy-88951
 Disallow: /EngagementHQ-Projects/Consultation-on-lease-of-Maidstone-Park-land-97547
+Disallow: /EngagementHQ-Projects/Consultation-on-Upper-Hutt-City-Councils-Water-Services-Delivery-Model-Options-99229
 Disallow: /EngagementHQ-Projects/Council-seeking-Expressions-of-Interest-for-821-Fergusson-Drive-96476
 Disallow: /EngagementHQ-Projects/Development-and-Financial-Contributions-Policy-2023-2024-85304
 Disallow: /EngagementHQ-Projects/Easter-Sunday-Trading-Policy
@@ -440,6 +441,7 @@ Disallow: /EngagementHQ-Projects/Rural-Digital-Connectivity-Survey-80131
 Disallow: /EngagementHQ-Projects/Speed-Management-Plan-84467
 Disallow: /EngagementHQ-Projects/Speed-Management-Plan-consultation-88871
 Disallow: /EngagementHQ-Projects/Test-Project-Please-do-not-use-83011
+Disallow: /EngagementHQ-Projects/Upper-Hutt-City-Councils-Annual-Plan-202526-99285
 Disallow: /EngagementHQ-Projects/What-matters-to-you-Let’s-talk-10-84830
 Disallow: /Glossary/activation
 Disallow: /Glossary/Copy-of-Heritage-1/*
