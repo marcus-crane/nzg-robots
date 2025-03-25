@@ -1,2 +1,5 @@
-User-agent: Googlebot
-Disallow: /*.pdf$
+Sitemap: https://asa.co.nz/sitemap.xml
+Sitemap: https://asa.co.nz/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

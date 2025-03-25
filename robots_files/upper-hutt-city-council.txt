@@ -776,6 +776,7 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-June-2024/Council-Minutes-19-June-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-June-2024/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-March-2025/Council-Agenda-19-March-2025
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-March-2025/Council-Minutes-19-March-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-March-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-1-February-2023/Council-Agenda-1-February-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-1-February-2023/Council-Minutes-1-February-2023

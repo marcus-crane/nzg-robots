@@ -1605,6 +1605,10 @@ Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-Closures/Rev-Up
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-Closures/Ruakaka-Christmas-Parade-20231209/Peter-Snell-Road
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-Closures/Ruakaka-Christmas-Parade-20231209/Takutai-Place
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-Closures/Seal-Extension-2021/Massey-Road
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/T2-road-closure-20250325/T2-road-closure-123-Bank-Street
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/T2-road-closure-20250325/T2-road-closure-17-Kamo-Road
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/T2-road-closure-20250325/T2-road-closure-220-Kamo-Road
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/T2-road-closure-20250325/T2-road-closure-78-Kamo-Road
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Taste-Whangarei-road-closures-20250320/Cameron-Street-temporary-road-closure
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Taste-Whangarei-road-closures-20250320/James-Street-temporary-road-closure
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-Closures/Upcoming-Roadside-Maintenance/*
@@ -1938,6 +1942,7 @@ Disallow: /Temporary-Announcements/LIM-closedown
 Disallow: /Temporary-Announcements/Log4J-maps-issue
 Disallow: /Temporary-Announcements/Longer-than-usual-processing-times
 Disallow: /Temporary-Announcements/Maori-Ward-decision
+Disallow: /Temporary-Announcements/Maori-Ward-Poll
 Disallow: /Temporary-Announcements/MFL-2022
 Disallow: /Temporary-Announcements/MRF
 Disallow: /Temporary-Announcements/New-bin-collection-locations
