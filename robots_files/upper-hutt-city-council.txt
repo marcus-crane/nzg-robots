@@ -486,6 +486,7 @@ Disallow: /Home/Announcements/Akatārawa-Road-Slip-and-Power-Outage
 Disallow: /Home/Announcements/Akatārawa-Road-Slip-and-Power-Outages
 Disallow: /Home/Announcements/Akatarawa-Road-slip-update
 Disallow: /Home/Announcements/An-important-but-small-change-to-the-Upper-Hutt-Council-website
+Disallow: /Home/Announcements/AP-2025-26
 Disallow: /Home/Announcements/Copy-of-Sprinkler-ban-now-in-place-1
 Disallow: /Home/Announcements/Cyclone-Gabrielle—“adopting”-Napier-City-Council
 Disallow: /Home/Announcements/Cyclone-Gabrielle-–-Donate-to-Napier-relief-fund

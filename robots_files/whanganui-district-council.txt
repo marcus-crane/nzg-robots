@@ -24,6 +24,7 @@ Disallow: /Announcements/Opening-hours-for-council-services-and-facilities-Chris
 Disallow: /Announcements/Prohibited-fire-season-for-Whanganui-coast-and-urban-area
 Disallow: /Announcements/Property-file-requests-–-deadline-for-2022-23-holiday-period
 Disallow: /Announcements/Restricted-fire-season-for-Whanganui-coast-and-urban-area
+Disallow: /Announcements/Restricted-fire-season-–-Whanganui-coast-and-urban-area
 Disallow: /Announcements/Splash-Centre-temporary-closure-until-4pm-18-December-2023
 Disallow: /Announcements/Take-part-in-the-2023-Community-Views-Survey
 Disallow: /Announcements/Temporary-boil-water-notice-issued-for-Pākaraka-rural-water-supply-scheme
@@ -301,6 +302,7 @@ Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minu
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Chief-Executive-Performance-Review-26-August-2024/Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Chief-Executive-Performance-Review-Committee-18-November-2024/Agenda-CE-Performance-Review-Committee-18-November-2024
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Chief-Executive-Performance-Review-Committee-18-November-2024/New-page
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Chief-Executive-Performance-Review-Committee-27-March-2025/Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Chief-Executive-Performance-Review-Committee-Meeting-16-October-2023/Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Chief-Executive-Review-27-February-2024/Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Chief-Executive-Review-Committee/Agenda
@@ -472,6 +474,8 @@ Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minu
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Council-Meeting-25-July-2024/Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Council-Meeting-25-July-2024/Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Council-Meeting-25-July-2024/New-page
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Council-Meeting-27-March-2025/Agenda
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Council-Meeting-27-March-2025/New-page
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Council-Meeting-30-August-2023/Confirmed-Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Council-Meeting-30-August-2023/Final-Agenda-Council-Extraordinary-Meeting
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Council-meeting-5-July-2023/Agenda/*
@@ -560,6 +564,7 @@ Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minu
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Projects-and-Grants-Committee-15-October-2024/Unconfirmed-minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Projects-and-Grants-Committee-5-December-2024/Final-Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Projects-and-Grants-Committee-5-December-2024/New-page
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Projects-and-Grants-Committee-5-December-2024/Signed-confirmed-minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Projects-Grants-Committee-11-March-2025/Final-Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Projects-Grants-Committee-11-March-2025/New-page
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Projects-Grants-Committee-11-March-2025/Unconfirmed-minutes

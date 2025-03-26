@@ -369,6 +369,7 @@ Disallow: /Site-Footer/Footer-Widgets/Visit-Our-Other-Sites/Libraries
 Disallow: /Site-Footer/Footer-Widgets/Visit-Our-Other-Sites/New-page
 Disallow: /Site-Footer/Footer-Widgets/Visit-Our-Other-Sites/Opera-House
 Disallow: /Site-Footer/Footer-Widgets/Visit-Our-Other-Sites/Waitaki-district-library
+Disallow: /test-page
 Disallow: /top-tasks/Apply-for-it/Apply-for-a-job
 Disallow: /top-tasks/Report-and-Request/Request-for-information
 Disallow: /Venues/*
