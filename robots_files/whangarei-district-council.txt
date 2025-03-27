@@ -690,6 +690,7 @@ Disallow: /library/Home/Featured-Content/*
 Disallow: /library/Home/Featured-Content/Arts-and-crafts
 Disallow: /library/Home/Featured-Content/Author-talk
 Disallow: /library/Home/Featured-Content/Author-visit
+Disallow: /library/Home/Featured-Content/Author-visit-feature
 Disallow: /library/Home/Featured-Content/Branch-libraries
 Disallow: /library/Home/Featured-Content/Christmas-and-new-year-hours
 Disallow: /library/Home/Featured-Content/Citizens-advice-bureau
@@ -707,6 +708,7 @@ Disallow: /library/Home/Featured-Content/He-Kakano
 Disallow: /library/Home/Featured-Content/He-Kakano-feature
 Disallow: /library/Home/Featured-Content/Heritage
 Disallow: /library/Home/Featured-Content/Heritage-talk
+Disallow: /library/Home/Featured-Content/Heritage-talk-feature
 Disallow: /library/Home/Featured-Content/Jigsaw-puzzle-exchange
 Disallow: /library/Home/Featured-Content/JP-services
 Disallow: /library/Home/Featured-Content/LEGO-Club

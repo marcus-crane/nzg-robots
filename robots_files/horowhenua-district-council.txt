@@ -364,6 +364,7 @@ Disallow: /Council/Participate/Lets-Korero/Lets-plan-for-our-future-together-891
 Disallow: /Council/Participate/Lets-Korero/Local-Water-Done-Well-Consultation-99231
 Disallow: /Council/Participate/Lets-Korero/New-page
 Disallow: /Council/Participate/Lets-Korero/Proposal-to-Dispose-of-the-Foxton-War-Memorial-Hall-92851
+Disallow: /Council/Participate/Lets-Korero/Proposed-Dog-Control-Policy-Bylaw-99797
 Disallow: /Council/Participate/Lets-Korero/Proposed-Fees-and-Charges-for-202526-99165
 Disallow: /Council/Participate/Lets-Korero/Proposed-Freedom-Camping-Bylaw-89407
 Disallow: /Council/Participate/Lets-Korero/Proposed-Land-Transport-Bylaw-2024-95222

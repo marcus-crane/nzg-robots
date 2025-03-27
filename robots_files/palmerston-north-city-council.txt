@@ -125,6 +125,7 @@ Disallow: /Council-city/What-were-doing/Ongoing-projects-and-programmes/Climate-
 Disallow: /Glossary/*
 Disallow: /Home/Do-It-Online/*
 Disallow: /Home/Emergency-announcements/Changes-are-coming-to-kerbside-recycling-in-Palmy
+Disallow: /Home/Emergency-announcements/Copy-of-Discoloured-water-1
 Disallow: /Home/Emergency-announcements/Copy-of-Emergency-water-repair-1
 Disallow: /Home/Emergency-announcements/Copy-of-Temporary-closure-1
 Disallow: /Home/Emergency-announcements/Customer-Service-Centre-closed
@@ -137,6 +138,7 @@ Disallow: /Home/Emergency-announcements/Grounds-open
 Disallow: /Home/Emergency-announcements/Grounds-remain-closed
 Disallow: /Home/Emergency-announcements/kerbside-recycling-in-Palmy
 Disallow: /Home/Emergency-announcements/LTP-submissions-closing-soon
+Disallow: /Home/Emergency-announcements/LWDW-closing-soon
 Disallow: /Home/Emergency-announcements/Most-grounds-remain-closed
 Disallow: /Home/Emergency-announcements/New-page
 Disallow: /Home/Emergency-announcements/No-online-credit-or-debit-card-payments
