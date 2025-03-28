@@ -874,7 +874,10 @@ Disallow: /Services/Rubbish-and-recycling/Rubbish-and-recycling-facilities/Fergu
 Disallow: /Services/Rubbish-and-recycling/Rubbish-and-recycling-facilities/Ferguson-Street-recycling-centre-1/pin-Ferguson-Street-Recycling-Centre
 Disallow: /Services/Rubbish-and-recycling/Success
 Disallow: /Services/Rubbish-and-recycling/Thank-you-for-signing-up-for-a-recycling-tour
+Disallow: /Services/Rubbish-and-recycling/What-goes-where/Copy-of-Disposable-wipes-1
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Copy-of-Gardengreen-waste-1
+Disallow: /Services/Rubbish-and-recycling/What-goes-where/Copy-of-Tissues-1
+Disallow: /Services/Rubbish-and-recycling/What-goes-where/Copy-of-Wrapping-paper-foil-or-glitter-decorated-1
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Diesel
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Dirtclean-fillsoil
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Dishwashers
@@ -929,6 +932,7 @@ Disallow: /Services/Rubbish-and-recycling/What-goes-where/Motor-Oil
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Motor-Oil-Filter
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Musical-instruments-good-condition
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Musical-instruments-poor-conditionbroken
+Disallow: /Services/Rubbish-and-recycling/What-goes-where/Nappies
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Needlessyringes
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Newspaper
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Oven
@@ -957,6 +961,7 @@ Disallow: /Services/Rubbish-and-recycling/What-goes-where/PrinterToner-cartridge
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Pyrex-glass-good-condition
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Pyrex-glass-poor-condition-broken
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Rubbish-household
+Disallow: /Services/Rubbish-and-recycling/What-goes-where/Sanitary-pads
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Scrap-metal
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Seedling-trays
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Shoes-good-condition
@@ -976,6 +981,7 @@ Disallow: /Services/Rubbish-and-recycling/What-goes-where/Telephones
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Tetra-Pak-cartons-and-containers
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Till-Receipts
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Timberwood
+Disallow: /Services/Rubbish-and-recycling/What-goes-where/Tissues
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Toaster
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Tools-good-condition
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Tools-poor-conditionbroken

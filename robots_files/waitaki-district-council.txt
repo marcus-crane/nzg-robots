@@ -63,8 +63,6 @@ Disallow: /Announcements/Water-Shutdown-Notice
 Disallow: /Announcements/Website-scheduled-maintenance
 Disallow: /Announcements/Website-scheduled-maintenance-regular
 Disallow: /Anzac-Day-2024
-Disallow: /Council/About-our-Council/Council-Enforcement-Officers
-Disallow: /Council/About-our-Council/Council-Enforcement-Officers-Building-Team
 Disallow: /Council/About-our-Council/Mayor-and-Councillors/Elected-Officials/*
 Disallow: /Council/About-our-Council/Warranted-Officers-–-Building-Team
 Disallow: /Council/About-our-Council/Youth-Council/New-page
@@ -195,7 +193,6 @@ Disallow: /district-plan-review/Web-Maps
 Disallow: /DPR/maps
 Disallow: /DPR/webmaps
 Disallow: /Elected-Officials/*
-Disallow: /EnforcementOfficersBuilding
 Disallow: /Events-Directory/Listing-Guidelines
 Disallow: /Facilities/Aquatic-Centre/Aquatic-Centre-feature-background
 Disallow: /Facilities/Events-centre/event-centre-background
@@ -384,6 +381,7 @@ Disallow: /Venues-and-facilities/Oamaru-Opera-House
 Disallow: /Venues-and-facilities/Waitaki-Aquatic-Centre
 Disallow: /Venues-and-facilities/Waitaki-Museum-and-Archive
 Disallow: /Waitaki-Events/Listing-Guidelines
+Disallow: /WarrantedOfficers-Building
 Disallow: /wdcplanningsurvey
 Sitemap : https://www.waitaki.govt.nz/sitemap.xml
 Sitemap : https://www.waitaki.govt.nz/Libraries/sitemap.xml

@@ -348,6 +348,10 @@ Disallow: /Events/SC-Silver-Festival
 Disallow: /Events/Silver-Festival/Silver-Festival-2021
 Disallow: /Events/Whats-On/Accessibility-Workshop-20221109
 Disallow: /Events/Whats-On/AccSurv-Inperson-Meetings
+Disallow: /Events/Whats-On/AP-LWDW-sessions-20250408/Central-City-community-drop-in-session-20250409
+Disallow: /Events/Whats-On/AP-LWDW-sessions-20250408/Hikurangi-community-drop-in-session
+Disallow: /Events/Whats-On/AP-LWDW-sessions-20250408/Hikurangi-community-drop-in-session-20250414
+Disallow: /Events/Whats-On/AP-LWDW-sessions-20250408/Ruakaka-community-drop-in-session-20250408
 Disallow: /Events/Whats-On/Big-Bike-Film-Night-20210413
 Disallow: /Events/Whats-On/Burnout-competition-20210517
 Disallow: /Events/Whats-On/Christmas-at-Pohe-Island
@@ -2442,6 +2446,9 @@ Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Timeli
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Timeline/Consultation-closes
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Timeline/Consultation-opens
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Timeline/Copy-of-Hearings-1
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Timeline/Drop-in-Hikurangi
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Timeline/Drop-in-Ruakaka
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Timeline/Drop-in-Te-Iwitahi
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Annual-Plan-2025/Timeline/Hearings
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Consultations-alongside-LTP-2024-2034/Timeline/*
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Consultations-alongside-LTP-2024-2034/Timeline/Adoption-fees-charges
