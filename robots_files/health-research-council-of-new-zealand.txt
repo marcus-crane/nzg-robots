@@ -60,6 +60,9 @@ Disallow: /index.php/user/register/
 Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
 
+# Test excluding view completely
+Disallow: /resources/research-repository
+
 # Claude Bot
 User-agent: Claude-Web
 Disallow: /

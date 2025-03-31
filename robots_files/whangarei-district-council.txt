@@ -349,7 +349,6 @@ Disallow: /Events/Silver-Festival/Silver-Festival-2021
 Disallow: /Events/Whats-On/Accessibility-Workshop-20221109
 Disallow: /Events/Whats-On/AccSurv-Inperson-Meetings
 Disallow: /Events/Whats-On/AP-LWDW-sessions-20250408/Central-City-community-drop-in-session-20250409
-Disallow: /Events/Whats-On/AP-LWDW-sessions-20250408/Hikurangi-community-drop-in-session
 Disallow: /Events/Whats-On/AP-LWDW-sessions-20250408/Hikurangi-community-drop-in-session-20250414
 Disallow: /Events/Whats-On/AP-LWDW-sessions-20250408/Ruakaka-community-drop-in-session-20250408
 Disallow: /Events/Whats-On/Big-Bike-Film-Night-20210413
@@ -520,10 +519,12 @@ Disallow: /Home/Featured-Content/Civic-Centre-Training-Opportunities
 Disallow: /Home/Featured-Content/Civic-Honours-2025
 Disallow: /Home/Featured-Content/Community-Funding
 Disallow: /Home/Featured-Content/Copy-of-Dogs-Summer-1
+Disallow: /Home/Featured-Content/Copy-of-Hot-Grill-Summer-1
 Disallow: /Home/Featured-Content/Copy-of-Regional-Recovery-Plan-1
 Disallow: /Home/Featured-Content/Copy-of-Speed-Management-Plan-1
 Disallow: /Home/Featured-Content/Cyclist-numbers-rising
 Disallow: /Home/Featured-Content/Cyclone-Gabrielle-Recovery-Plan
+Disallow: /Home/Featured-Content/Dam-levels
 Disallow: /Home/Featured-Content/District-Amenities-Fund
 Disallow: /Home/Featured-Content/Dog-Management-Policy-and-Bylaw
 Disallow: /Home/Featured-Content/Dog-registration
@@ -554,6 +555,7 @@ Disallow: /Home/Featured-Content/Play-Week
 Disallow: /Home/Featured-Content/Pohe-Island
 Disallow: /Home/Featured-Content/Port-Road-Kioreroa-Road-roundabout
 Disallow: /Home/Featured-Content/Projects
+Disallow: /Home/Featured-Content/Puanga-on-a-Plate
 Disallow: /Home/Featured-Content/Putahi-Park
 Disallow: /Home/Featured-Content/Regional-Recovery-Plan
 Disallow: /Home/Featured-Content/Relief-Fund
@@ -1407,8 +1409,6 @@ Disallow: /Rotating-banners/Walks/Otuihau-Whangarei-Falls
 Disallow: /Rotating-banners/Walks/Otuihau-Whangārei-Falls
 Disallow: /Rotating-banners/Walks/Whale-Bay
 Disallow: /Sandbox/*
-Disallow: /Sandbox/Test-event-displaying-shared-page/*
-Disallow: /Sandbox/Test-event-displaying-shared-page/New-page
 Disallow: /Services/Building/Building-Consents/AlphaOne-portal
 Disallow: /Services/Building/Building-Consents/Apply-for-BC-online
 Disallow: /Services/Building/Building-Consents/Apply-for-PIM
