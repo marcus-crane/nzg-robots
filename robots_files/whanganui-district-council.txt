@@ -138,6 +138,7 @@ Disallow: /Do-It-Online.../Whats-my-recycling-collection-day
 Disallow: /Donate-now/*
 Disallow: /Glossary/*
 Disallow: /Home/Featured-Content/Annual-Plan-202324-and-fees-and-charges-consultation
+Disallow: /Home/Featured-Content/Annual-Plan-202526
 Disallow: /Home/Featured-Content/Citizens’-assembly-on-outdoor-pools
 Disallow: /Home/Featured-Content/Community-initiatives
 Disallow: /Home/Featured-Content/Copy-of-Dog-registrations-due-1

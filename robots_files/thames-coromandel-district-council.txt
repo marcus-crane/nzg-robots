@@ -12,6 +12,8 @@ Disallow: /Home/New-page
 Disallow: /Image-Galleries/Thames-Swimming-Club
 Disallow: /New-page
 Disallow: /Our-Community/Council-Projects/Completed-Projects/Waste-Management-and-Minimisation-Plan-project
+Disallow: /Our-Community/Council-Projects/Current-Projects/Matarangi-Omara-Reserve-signs
+Disallow: /Our-Community/Council-Projects/Current-Projects/Matarangi-Omara-Reserve-upgrade
 Disallow: /Our-Community/Economic-Development/Economic-Development-Projects/*
 Disallow: /Our-Community/Funding-Sponsorship-and-Grants/Closed-funds/Creative-Communities-Scheme/Creative-Communities-Festival-Fund
 Disallow: /Our-Community/Funding-Sponsorship-and-Grants/Closed-funds/Creative-Communities-Scheme/Creative-Communities-Scheme-Successful-Applicants-March-2021
