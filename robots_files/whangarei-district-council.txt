@@ -2387,7 +2387,6 @@ Disallow: /Whats-new/Have-your-say/Current-Consultations/_DP-Change-Consultation
 Disallow: /Whats-new/Have-your-say/Current-Consultations/_DP-Change-Consultation-Template/PCNumber-Further-Submission-Form-6
 Disallow: /Whats-new/Have-your-say/Current-Consultations/_DP-Change-Consultation-Template/PCnumber-Submission-Form-5
 Disallow: /Whats-new/Have-your-say/Current-Consultations/_General-Consultation-Template/*
-Disallow: /Whats-new/Have-your-say/Current-Consultations/_RC-App-Consultation-Template/*
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Accessibility-Feedback-2022/Accessibility-Workshop-20221109
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Accessibility-Feedback-2022/AccSurv-Easy-Read
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Accessibility-Feedback-2022/AccSurv-feedback-booklet
@@ -2464,7 +2463,6 @@ Disallow: /Whats-new/Have-your-say/Current-Consultations/Consultations-alongside
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Consultations-alongside-LTP-2024-34/Timeline/Submissions-close
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Consultations-alongside-LTP-2024-34/Timeline/Submissions-open
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Copy-of-_General-Consultation-Template-1/*
-Disallow: /Whats-new/Have-your-say/Current-Consultations/Copy-of-_RC-App-Consultation-Template-1/*
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Dog-Management-Policy-and-Bylaw/2023-timeline/*
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Dog-Management-Policy-and-Bylaw/2023-timeline/Draft-policy
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Dog-Management-Policy-and-Bylaw/2023-timeline/Feedback-closes

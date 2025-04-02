@@ -79,5 +79,9 @@ Disallow: /search?
 Disallow: /node/
 Disallow: /en/
 Disallow: /mi/
-Disallow: /about-this-site/feedback?
+Disallow: /*?qt-moh_premise_tabs=0
+Disallow: /*?qt-moh_premise_tabs=1
+Disallow: /*?qt-moh_premise_tabs=2
+Disallow: /*?ref=goodoil.news
+Disallow: /*?page=0
 Sitemap: https://www.health.govt.nz/sitemap.xml

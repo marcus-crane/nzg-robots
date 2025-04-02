@@ -506,7 +506,7 @@ Disallow: /Home/Community/People-and-programmes/Mesa-Youth-Ambassadors/Mesa-Yout
 Disallow: /Home/Community/the-upper-hutt-guide
 Disallow: /Home/Community/Upper-Hutt-Arts-and-Culture/AC-Advisor
 Disallow: /Home/Emergency-announcements/*
-Disallow: /Home/Engage-with-us/*
+Disallow: /Home/Engage/*
 Disallow: /Home/Engage-with-us/civic-award-nomination
 Disallow: /Home/Engage-with-us/Copy-of-Ki-Uta-app-1
 Disallow: /Home/Engage-with-us/H2O-Xtream-Vending-Machine-Expressions-of-Interest
