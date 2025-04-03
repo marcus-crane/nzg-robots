@@ -1457,6 +1457,7 @@ Disallow: /Services/My-property-and-rates/Property-Information/Locate-water-netw
 Disallow: /Services/My-property-and-rates/Property-Information/Property-maps
 Disallow: /Services/My-property-and-rates/Property-maps
 Disallow: /Services/My-property-and-rates/Property-Topics/Berms
+Disallow: /Services/My-property-and-rates/Rates/Proposed-rates
 Disallow: /Services/My-property-and-rates/Rates/Rates-Notices-Form
 Disallow: /Services/Online-maps/Cemetery-map
 Disallow: /Services/Online-maps/Coastal-Facilities-Map
@@ -2359,6 +2360,13 @@ Disallow: /Whats-new/Have-your-say/Closed-Consultations/Waipu-Placemaking/Waipu-
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Waipu-Placemaking/Waipu-Second-Meeting
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Waipu-Placemaking/Waipu-Start
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Walking-and-cycling-survey-and-map/Feedback-closes
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Waste-Bylaw-review/Timeline/*
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Waste-Bylaw-review/Timeline/Consultation-closes
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Waste-Bylaw-review/Timeline/Consultation-opens
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Waste-Bylaw-review/Timeline/Deliberations
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Waste-Bylaw-review/Timeline/Final-decision-of-Council
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Waste-Bylaw-review/Timeline/Hearing
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Waste-Bylaw-review/Waste-Bylaw-feedback-form
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Waste-Minimisation-Consultation/*
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Waste-Minimisation-Consultation/Final-plan
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Waste-Minimisation-Consultation/Hearings
