@@ -369,6 +369,7 @@ Disallow: /Council/Participate/Lets-Korero/Proposed-Fees-and-Charges-for-202526-
 Disallow: /Council/Participate/Lets-Korero/Proposed-Freedom-Camping-Bylaw-89407
 Disallow: /Council/Participate/Lets-Korero/Proposed-Land-Transport-Bylaw-2024-95222
 Disallow: /Council/Participate/Lets-Korero/Proposed-Local-Waters-Combined-Bylaw-97976
+Disallow: /Council/Participate/Lets-Korero/Proposed-Plan-Change-6A-100067
 Disallow: /Council/Participate/Lets-Korero/Proposed-Public-Places-Bylaw-2024-95224
 Disallow: /Council/Participate/Lets-Korero/Proposed-Rates-Remission-Postponement-Policy-89312
 Disallow: /Council/Participate/Lets-Korero/Reimagining-the-Levin-War-Memorial-Hall-98102
