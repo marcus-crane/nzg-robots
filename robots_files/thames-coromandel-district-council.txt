@@ -42,6 +42,9 @@ Disallow: /Our-Council/About-our-Council/Elections/Local-Elections-2022/Copy-of-
 Disallow: /Our-Council/About-our-Council/Elections/Local-Elections-2022/Copy-of-Who-Can-Vote-1
 Disallow: /Our-Council/About-our-Council/Elections/Local-Elections-2022/Role-of-Elected-Members
 Disallow: /Our-Council/About-our-Council/Elections/Local-Elections-2022/Who-Can-Vote
+Disallow: /Our-Council/About-our-Council/Elections/Local-Elections-2025/Results
+Disallow: /Our-Council/About-our-Council/Elections/Local-Elections-20251/Results
+Disallow: /Our-Council/About-our-Council/Elections/Local-Elections-2025-1/Results
 Disallow: /Our-Council/Bylaws-Codes-and-Policies/Bylaws/Copy-of-Easter-Sunday-Trading-Policy-1
 Disallow: /Our-Council/Bylaws-Codes-and-Policies/Bylaws/Easter-Sunday-Trading-Policy
 Disallow: /Our-Council/Council-Projects/Completed-Projects/Waste-Management-and-Minimisation-Plan-project
