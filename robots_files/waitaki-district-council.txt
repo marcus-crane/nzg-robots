@@ -18,6 +18,8 @@ Disallow: /About-Waitaki/Exploring-Waitaki/Waitaki-events/Feature-Events-banner/
 Disallow: /About-Waitaki/Exploring-Waitaki/Waitaki-events/List-your-event/Listing-guidelines
 Disallow: /About-Waitaki/Exploring-Waitaki/Waitaki-events/Waitaki-Events/Events/Anzac-Day-2023
 Disallow: /About-Waitaki/Exploring-Waitaki/Waitaki-events/Waitaki-Events/Events/Anzac-Day-2024
+Disallow: /About-Waitaki/Exploring-Waitaki/Waitaki-events/Waitaki-Events/Events/Anzac-Day-2025
+Disallow: /About-Waitaki/Exploring-Waitaki/Waitaki-events/Waitaki-Events/Events/Copy-of-Anzac-Day-2024-1
 Disallow: /About-Waitaki/Exploring-Waitaki/Waitaki-events/Waitaki-Events/Events/DPR-drop-in-session-Duntroon
 Disallow: /About-Waitaki/Exploring-Waitaki/Waitaki-events/Waitaki-Events/Events/DPR-drop-in-session-Hampden
 Disallow: /About-Waitaki/Exploring-Waitaki/Waitaki-events/Waitaki-Events/Events/DPR-drop-in-session-Kakanui
@@ -63,8 +65,11 @@ Disallow: /Announcements/Water-Shutdown-Notice
 Disallow: /Announcements/Website-scheduled-maintenance
 Disallow: /Announcements/Website-scheduled-maintenance-regular
 Disallow: /Anzac-Day-2024
+Disallow: /Council/About-our-Council/Copy-of-Warranted-Officers-Building-Team-1
 Disallow: /Council/About-our-Council/Mayor-and-Councillors/Elected-Officials/*
-Disallow: /Council/About-our-Council/Warranted-Officers-–-Building-Team
+Disallow: /Council/About-our-Council/Warranted-Officers-Building-Team
+Disallow: /Council/About-our-Council/Warranted-Officers-Network-Team
+Disallow: /Council/About-our-Council/Warranted-Officers-Regulatory-Team
 Disallow: /Council/About-our-Council/Youth-Council/New-page
 Disallow: /Council/About-our-Council/Youth-Council/Waitaki-Youth-Council-photo-gallery
 Disallow: /Council/Consultation/annual-plan-2023-24/annual-plan-2023-24-background
@@ -382,6 +387,8 @@ Disallow: /Venues-and-facilities/Waitaki-Aquatic-Centre
 Disallow: /Venues-and-facilities/Waitaki-Museum-and-Archive
 Disallow: /Waitaki-Events/Listing-Guidelines
 Disallow: /WarrantedOfficers-Building
+Disallow: /WarrantedOfficers-Network
+Disallow: /WarrantedOfficers-Regulatory
 Disallow: /wdcplanningsurvey
 Sitemap : https://www.waitaki.govt.nz/sitemap.xml
 Sitemap : https://www.waitaki.govt.nz/Libraries/sitemap.xml

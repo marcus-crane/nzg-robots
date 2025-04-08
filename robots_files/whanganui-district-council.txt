@@ -2132,7 +2132,7 @@ Disallow: /Your-Council/Have-Your-Say/Consultations/Annual-Plan-202324/Timeline/
 Disallow: /Your-Council/Have-Your-Say/Consultations/Annual-Plan-202324/Timeline/Councils-final-decision
 Disallow: /Your-Council/Have-Your-Say/Consultations/Annual-Plan-202324/Timeline/New-rates-apply
 Disallow: /Your-Council/Have-Your-Say/Consultations/Annual-Plan-202324/Timeline/Public-hearing-of-submissions
-Disallow: /Your-Council/Have-Your-Say/Consultations/Annual-Plan-202526/Discussions
+Disallow: /Your-Council/Have-Your-Say/Consultations/Annual-Plan-202526/Discussions/*
 Disallow: /Your-Council/Have-Your-Say/Consultations/Annual-Plan-202526/Latest-Updates
 Disallow: /Your-Council/Have-Your-Say/Consultations/Annual-Plan-202526/Timeline/*
 Disallow: /Your-Council/Have-Your-Say/Consultations/Annual-Plan-202526/Timeline/Annual-plan-commences

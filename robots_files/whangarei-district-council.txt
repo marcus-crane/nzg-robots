@@ -544,7 +544,6 @@ Disallow: /Home/Featured-Content/Kids-Summer
 Disallow: /Home/Featured-Content/Local-Government-awards
 Disallow: /Home/Featured-Content/Long-Term-Plan-feedback
 Disallow: /Home/Featured-Content/Long-term-road-repairs
-Disallow: /Home/Featured-Content/Matariki-Festival
 Disallow: /Home/Featured-Content/Movies-in-the-Park-Waipu
 Disallow: /Home/Featured-Content/New-page
 Disallow: /Home/Featured-Content/New-Town-Basin-Park
@@ -555,6 +554,7 @@ Disallow: /Home/Featured-Content/Play-Week
 Disallow: /Home/Featured-Content/Pohe-Island
 Disallow: /Home/Featured-Content/Port-Road-Kioreroa-Road-roundabout
 Disallow: /Home/Featured-Content/Projects
+Disallow: /Home/Featured-Content/Puanga-Matariki-Festival
 Disallow: /Home/Featured-Content/Puanga-on-a-Plate
 Disallow: /Home/Featured-Content/Putahi-Park
 Disallow: /Home/Featured-Content/Regional-Recovery-Plan
@@ -707,7 +707,7 @@ Disallow: /library/Home/Featured-Content/Dragons-summer-challenges
 Disallow: /library/Home/Featured-Content/Drop-in-tech-help
 Disallow: /library/Home/Featured-Content/Drop-in-tech-help-feature
 Disallow: /library/Home/Featured-Content/Easter-hours
-Disallow: /library/Home/Featured-Content/Event
+Disallow: /library/Home/Featured-Content/Event-feature
 Disallow: /library/Home/Featured-Content/Flash-fiction-workshop
 Disallow: /library/Home/Featured-Content/Fringe-festival
 Disallow: /library/Home/Featured-Content/He-Kakano
@@ -1585,6 +1585,13 @@ Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Ro
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250212/Paiawa-Road-NCC-Event
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250212/Ruarangi-Road-NCC-Event
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250212/Sime-Road-Closure-NCC-Event
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250615/Crows-Nest-Road-closure-NCC-event
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250615/Kaiikanui-Road-closure-NCC-event
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250615/Mangapai-Caves-Road-closure-NCC-event
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250615/Roosevelt-Road-NCC-20250713
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250615/Rosythe-Road-NCC-20250615
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250615/Springfield-Road-NCC-20250706
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250615/Waiwarawara-Drive-NCC-20250713
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Nightworks-20250310/Central-Avenue-roadworks
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Nightworks-20250310/Hospital-Road-roadworks
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Nightworks-20250310/Reyburn-House-Lane-roadworks

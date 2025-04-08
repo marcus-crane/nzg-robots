@@ -460,6 +460,7 @@ Disallow: /Home/Emergency-Announcements/Flooding-Levin
 Disallow: /Home/Emergency-Announcements/Flooding-on-State-Highway
 Disallow: /Home/Emergency-Announcements/Level-2-Water-Supply-Restrictions-–-Foxton-and-Foxton-Beach
 Disallow: /Home/Emergency-Announcements/Levin-Tornado-Event
+Disallow: /Home/Emergency-Announcements/Levin-Weather-Event-8-April-2025
 Disallow: /Home/Emergency-Announcements/Long-Term-Plan-2021-2041-Amendment-Annual-Plan-2023-2024
 Disallow: /Home/Emergency-Announcements/Long-Term-Plan-2024-2044
 Disallow: /Home/Emergency-Announcements/LS-Candidate-Information-Briefing
@@ -626,6 +627,7 @@ Disallow: /Home/Emergency-Announcements/Waitārere-Beach-Wairawa-Stream-unsuitab
 Disallow: /Home/Emergency-Announcements/Water-Restrictions/*
 Disallow: /Home/Emergency-Announcements/Water-Restrictions/New-page
 Disallow: /Home/Emergency-Announcements/Water-Restrictions/Test-dont-use
+Disallow: /Home/Emergency-Announcements/Weather-event-8-April-2025
 Disallow: /Home/New-page/*
 Disallow: /Home/New-Resource-Consents-DS/*
 Disallow: /Home/Tabs/Do-It-Online/Antenno

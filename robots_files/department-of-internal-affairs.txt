@@ -4,5 +4,3 @@ Disallow: /web/marriagecelebs.nsf/CelebrantsAllExplorer
 Disallow: /DIA/CurrLice.nsf
 Disallow: /dia/currlice.nsf
 Disallow: /MSOS118/On-Line/NZGazette.nsf
-Disallow: /search
-Disallow: /Search
