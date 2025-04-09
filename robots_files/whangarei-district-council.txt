@@ -257,6 +257,7 @@ Disallow: /Council/Projects/Matapouri-sand-replenishment
 Disallow: /Council/Projects/New-Town-Basin-Park/NTBP-image-gallery
 Disallow: /Council/Projects/One-Tree-Point-seawall
 Disallow: /Council/Projects/Raumanga-Reserve-Playground/Raumanga-playground
+Disallow: /Council/Projects/Raumanga-Reserve-Playground/Raumanga-playground-gallery
 Disallow: /Council/Projects/Reviewing-speed-limit-bylaw/Frequently-Asked-Questions-Reviewing-Speed-Limits-Bylaw
 Disallow: /Council/Projects/Ruakaka-Safety-Improvements
 Disallow: /Council/Projects/Ruakaka-seawall-construction/*
