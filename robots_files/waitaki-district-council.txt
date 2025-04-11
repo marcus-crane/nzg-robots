@@ -65,6 +65,7 @@ Disallow: /Announcements/Water-Shutdown-Notice
 Disallow: /Announcements/Website-scheduled-maintenance
 Disallow: /Announcements/Website-scheduled-maintenance-regular
 Disallow: /Anzac-Day-2024
+Disallow: /Anzac-Day-2025
 Disallow: /Council/About-our-Council/Copy-of-Warranted-Officers-Building-Team-1
 Disallow: /Council/About-our-Council/Mayor-and-Councillors/Elected-Officials/*
 Disallow: /Council/About-our-Council/Warranted-Officers-Building-Team

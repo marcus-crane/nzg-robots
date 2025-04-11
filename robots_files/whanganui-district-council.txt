@@ -296,6 +296,7 @@ Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minu
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Audit-and-Risk-Committee-2-September-2021/Confirmed-Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Audit-and-Risk-Committee-3-June-2021/Confirmed-Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/CCO-and-Economic-Development-Committee-25-February-2025/Final-Agenda
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/CCO-and-Economic-Development-Committee-25-February-2025/Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/CCO-and-Economic-Development-Committee-25-February-2025/New-page
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/CCO-and-Economic-Development-Committee-25-February-2025/References-under-separate-cover
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/CCO-Economic-Development-Committee-15-April-2024/Agenda
@@ -458,7 +459,6 @@ Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minu
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-meeting-3-August-2023/Supplementary-Agenda-Late-Items
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-meeting-3-September-2024/Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-meeting-3-September-2024/Minutes
-Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-meeting-3-September-2024/References
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Aspirations-and-Projects-Committee-19-September-2023/Final-Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Aspirations-and-Projects-Committee-19-September-2023/Signed-confirmed-minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Aspirations-and-Projects-Committee-29-August-2023/Final-Agenda
@@ -478,6 +478,7 @@ Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minu
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Council-Meeting-25-July-2024/Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Council-Meeting-25-July-2024/New-page
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Council-Meeting-27-March-2025/Agenda
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Council-Meeting-27-March-2025/Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Council-Meeting-27-March-2025/New-page
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Council-Meeting-27-March-2025/Supplementary-information-to-the-notice-of-motion-to-resign-from-LGNZ-membership
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Council-Meeting-30-August-2023/Confirmed-Minutes
@@ -591,7 +592,6 @@ Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minu
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Property-and-Community-Services-Committee-9-November-2021/Confirmed-Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Rates-Resolution-202324-11-July-2023/Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Rates-Resolution-202324-11-July-2023/Confirmed-Minutes
-Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Representation-Review-hearings-and-deliberations-13-August-2024/Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Representation-Review-hearings-and-deliberations-13-August-2024/Attachments
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Representation-Review-hearings-and-deliberations-13-August-2024/Signed-confirmed-minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Risk-and-Assurance-Committee-1-August-2024/Additional-Information
@@ -698,6 +698,8 @@ Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minu
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-14-August-2024/Confirmed-Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-14-August-2024/Final-Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-14-August-2024/New-page
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-16-April-2025/Final-Agenda
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-16-April-2025/New-page
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-16-August-2023/Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-16-August-2023/Confirmed-Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-17-April-2024/Confirmed-Minutes
@@ -926,7 +928,6 @@ Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-and-Min
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-and-Minutes/All-meetings/Council-meeting-3-August-2023/Supplementary-Agenda-Late-Items
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-and-Minutes/All-meetings/Council-meeting-3-September-2024/Agenda
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-and-Minutes/All-meetings/Council-meeting-3-September-2024/Minutes
-Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-and-Minutes/All-meetings/Council-meeting-3-September-2024/References
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Aspirations-and-Projects-Committee-19-September-2023/Final-Agenda
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Aspirations-and-Projects-Committee-19-September-2023/Signed-confirmed-minutes
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-and-Minutes/All-meetings/Extraordinary-Aspirations-and-Projects-Committee-29-August-2023/Final-Agenda
@@ -1031,7 +1032,6 @@ Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-and-Min
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-and-Minutes/All-meetings/Property-and-Community-Services-Committee-9-November-2021/Confirmed-Minutes
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-and-Minutes/All-meetings/Rates-Resolution-202324-11-July-2023/Agenda
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-and-Minutes/All-meetings/Rates-Resolution-202324-11-July-2023/Confirmed-Minutes
-Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-and-Minutes/All-meetings/Representation-Review-hearings-and-deliberations-13-August-2024/Agenda
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-and-Minutes/All-meetings/Representation-Review-hearings-and-deliberations-13-August-2024/Attachments
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-and-Minutes/All-meetings/Representation-Review-hearings-and-deliberations-13-August-2024/Signed-confirmed-minutes
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-and-Minutes/All-meetings/Risk-and-Assurance-Committee-1-August-2024/Additional-Information
@@ -1314,7 +1314,6 @@ Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-Minutes
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-Minutes/All-meetings/Council-meeting-3-August-2023/Supplementary-Agenda-Late-Items
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-Minutes/All-meetings/Council-meeting-3-September-2024/Agenda
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-Minutes/All-meetings/Council-meeting-3-September-2024/Minutes
-Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-Minutes/All-meetings/Council-meeting-3-September-2024/References
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-Minutes/All-meetings/Extraordinary-Aspirations-and-Projects-Committee-19-September-2023/Final-Agenda
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-Minutes/All-meetings/Extraordinary-Aspirations-and-Projects-Committee-19-September-2023/Signed-confirmed-minutes
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-Minutes/All-meetings/Extraordinary-Aspirations-and-Projects-Committee-29-August-2023/Final-Agenda
@@ -1420,7 +1419,6 @@ Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-Minutes
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-Minutes/All-meetings/Property-and-Community-Services-Committee-9-November-2021/Confirmed-Minutes
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-Minutes/All-meetings/Rates-Resolution-202324-11-July-2023/Agenda
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-Minutes/All-meetings/Rates-Resolution-202324-11-July-2023/Confirmed-Minutes
-Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-Minutes/All-meetings/Representation-Review-hearings-and-deliberations-13-August-2024/Agenda
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-Minutes/All-meetings/Representation-Review-hearings-and-deliberations-13-August-2024/Attachments
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-Minutes/All-meetings/Representation-Review-hearings-and-deliberations-13-August-2024/New-page
 Disallow: /Your-Council/Council-Meetings-and-Committees/Meetings-Agendas-Minutes/All-meetings/Representation-Review-hearings-and-deliberations-13-August-2024/Signed-confirmed-minutes
@@ -1785,7 +1783,6 @@ Disallow: /Your-Council/Democracy/Meetings-Agendas-Minutes/All-meetings/Council-
 Disallow: /Your-Council/Democracy/Meetings-Agendas-Minutes/All-meetings/Council-meeting-3-September-2024/Agenda
 Disallow: /Your-Council/Democracy/Meetings-Agendas-Minutes/All-meetings/Council-meeting-3-September-2024/Minutes
 Disallow: /Your-Council/Democracy/Meetings-Agendas-Minutes/All-meetings/Council-meeting-3-September-2024/New-page
-Disallow: /Your-Council/Democracy/Meetings-Agendas-Minutes/All-meetings/Council-meeting-3-September-2024/References
 Disallow: /Your-Council/Democracy/Meetings-Agendas-Minutes/All-meetings/Extraordinary-Aspirations-and-Projects-Committee-19-September-2023/Confirmed-minutes
 Disallow: /Your-Council/Democracy/Meetings-Agendas-Minutes/All-meetings/Extraordinary-Aspirations-and-Projects-Committee-19-September-2023/Final-Agenda
 Disallow: /Your-Council/Democracy/Meetings-Agendas-Minutes/All-meetings/Extraordinary-Aspirations-and-Projects-Committee-19-September-2023/New-page
@@ -1930,7 +1927,6 @@ Disallow: /Your-Council/Democracy/Meetings-Agendas-Minutes/All-meetings/Property
 Disallow: /Your-Council/Democracy/Meetings-Agendas-Minutes/All-meetings/Rates-Resolution-202324-11-July-2023/Agenda
 Disallow: /Your-Council/Democracy/Meetings-Agendas-Minutes/All-meetings/Rates-Resolution-202324-11-July-2023/Confirmed-Minutes
 Disallow: /Your-Council/Democracy/Meetings-Agendas-Minutes/All-meetings/Rates-Resolution-202324-11-July-2023/New-page
-Disallow: /Your-Council/Democracy/Meetings-Agendas-Minutes/All-meetings/Representation-Review-hearings-and-deliberations-13-August-2024/Agenda
 Disallow: /Your-Council/Democracy/Meetings-Agendas-Minutes/All-meetings/Representation-Review-hearings-and-deliberations-13-August-2024/Attachments
 Disallow: /Your-Council/Democracy/Meetings-Agendas-Minutes/All-meetings/Representation-Review-hearings-and-deliberations-13-August-2024/New-page
 Disallow: /Your-Council/Democracy/Meetings-Agendas-Minutes/All-meetings/Risk-and-Assurance-Committee-1-August-2024/Additional-Information
