@@ -335,6 +335,7 @@ Disallow: /Events/Forum-North/FN-Marketing-form
 Disallow: /Events/Forum-North/FN-patron-survey
 Disallow: /Events/Forum-North/FN-Venue-feedback
 Disallow: /Events/Forum-North/Forum-North-booking-enquiry
+Disallow: /Events/Grant-workshops-20250526
 Disallow: /Events/Motorsport-Festival
 Disallow: /Events/Ngunguru-seawall-dropin-20220802/Ngunguru-sports-complex-20220802
 Disallow: /Events/Ngunguru-seawall-dropin-20220802/Tutukaka-marina-20220813
@@ -504,6 +505,7 @@ Disallow: /FNBooking
 Disallow: /FNFeedback
 Disallow: /FNPatronSurvey
 Disallow: /GIS
+Disallow: /GrantWorkshop
 Disallow: /Home/Christmas-at-Pohe-Island-registration
 Disallow: /Home/Featured-Content/Airport-Consultation
 Disallow: /Home/Featured-Content/AP-HYS
@@ -645,6 +647,8 @@ Disallow: /library/craft-grpoup
 Disallow: /library/Disruption-to-library-services
 Disallow: /library/event-booking
 Disallow: /library/event-registration
+Disallow: /library/events/matariki/*
+Disallow: /library/events/puanga-matariki/*
 Disallow: /library/Explore/Background-Explore
 Disallow: /library/Explore/Catalogue
 Disallow: /library/Explore/Collections/Activities/*
@@ -806,6 +810,7 @@ Disallow: /library/Library-services-presentations
 Disallow: /library/Manage-subscriptions
 Disallow: /library/maori-battalion-pou/*
 Disallow: /library/Matapouri-Community-Library
+Disallow: /library/matariki-events/*
 Disallow: /library/News/Background-News
 Disallow: /library/News/COVID-19-Level-2
 Disallow: /library/News/COVID-19-Level-2/COVID-19-Level-3
@@ -820,6 +825,7 @@ Disallow: /library/Page-Not-Found
 Disallow: /library/preschool-funtimes-tikipunga
 Disallow: /library/preschool-funtimes-whangarei-central-library
 Disallow: /library/Presentations
+Disallow: /library/puanga-matariki-events/*
 Disallow: /library/Ruakaka-Community-Library
 Disallow: /library/Sandbox/*
 Disallow: /library/Sandbox/Maori-Find-Replace-Test
@@ -1236,6 +1242,7 @@ Disallow: /library/Whats-on/Events/Event-booking
 Disallow: /library/Whats-on/Events/Event-registration
 Disallow: /library/Whats-on/Events/Great-Summer-Challenge/Great-Summer-Challenge-upload
 Disallow: /library/Whats-on/Events/Library-Craft-Group
+Disallow: /library/Whats-on/Events/Matariki/*
 Disallow: /library/Whats-on/Events/Matariki/Matariki-preschool-funtimes/Matariki-Funtime-at-Tikipunga-Library
 Disallow: /library/Whats-on/Events/Matariki/Matariki-preschool-funtimes/Matariki-Funtimes-at-Whangarei-Centra-Library
 Disallow: /library/Whats-on/Events/Preschool-Funtimes/Funtimes-Tikipuna-Library
@@ -1248,6 +1255,9 @@ Disallow: /library/Whats-on/Events/Preschool-funtimes-celebrate-grandparents/Fun
 Disallow: /library/Whats-on/Events/Preschool-funtimes-grandparents/Funtimes-with-grandparents-at-central
 Disallow: /library/Whats-on/Events/Preschool-funtimes-grandparents/Funtimes-with-grandparents-at-Tikipunga-Library
 Disallow: /library/Whats-on/Events/Preschool-funtimes-grandparents/Funtimes-with-grandparents-at-Whangārei-Central-Library
+Disallow: /library/Whats-on/Events/Puanga-matariki/*
+Disallow: /library/Whats-on/Events/Puanga-Matariki/Matariki-preschool-funtimes/Matariki-Funtime-at-Tikipunga-Library
+Disallow: /library/Whats-on/Events/Puanga-Matariki/Matariki-preschool-funtimes/Matariki-Funtimes-at-Whangarei-Centra-Library
 Disallow: /library/Whats-on/Events/Silver-festival/Preschool-funtimes-celebrate-grandparents/Funtimes-with-grandparents-at-Tikipunga-Library
 Disallow: /library/Whats-on/Events/Silver-festival/Preschool-funtimes-celebrate-grandparents/Funtimes-with-grandparents-at-Whangārei-Central-Library
 Disallow: /library/Whats-on/Events/Te-tiriti-o-waitangi-talks/*

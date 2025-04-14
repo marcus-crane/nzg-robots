@@ -33,6 +33,7 @@ Disallow: /About-Waitaki/Exploring-Waitaki/Waitaki-events/Waitaki-Events/Events/
 Disallow: /About-Waitaki/Exploring-Waitaki/Waitaki-events/Waitaki-Events/Events/DPR-drop-in-session-Otematata-1
 Disallow: /About-Waitaki/Exploring-Waitaki/Waitaki-events/Waitaki-Events/Events/DPR-drop-in-session-Palmerston
 Disallow: /About-Waitaki/Exploring-Waitaki/Waitaki-events/Waitaki-Events/Events/DPR-drop-in-session-Weston
+Disallow: /About-Waitaki/Exploring-Waitaki/Waitaki-events/Waitaki-Events/Events/Easter-and-Anzac-Day-holiday-closing-hours-2025
 Disallow: /About-Waitaki/Exploring-Waitaki/Waitaki-events/Waitaki-Events/Events/souper-soup-sipper/Soup-back-ground
 Disallow: /About-Waitaki/Heritage-Buildings-Trail
 Disallow: /About-Waitaki/Heritage-Protection/Heritage-fund-projects/AMP-Society-Building/*
