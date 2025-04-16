@@ -716,6 +716,7 @@ Disallow: /Home/Tabs/Council/Plan-and-build/Planning-for-the-growth/Upper-Hutt-C
 Disallow: /Home/Tabs/Council/Plan-and-build/Seven-steps-towards-a-successful-build/Step-Four-Apply/Building-services-fees
 Disallow: /Home/Tabs/Council/Plan-and-build/Seven-steps-towards-a-successful-build/Step-One-Idea/Xplorer
 Disallow: /Home/Tabs/Council/Sport-and-recreation/Activation/Bike-Recycling-Project/Bike-Recycling-Project
+Disallow: /Home/Tabs/Council/Sport-and-recreation/Activation/PLAY-in-Upper-Hutt/Play-Days
 Disallow: /Home/Tabs/Council/Sport-and-recreation/Activation/The-Gas-Hubs-Parks-Places
 Disallow: /Home/Tabs/Council/Your-Council/About-your-Council/Local-Elections/Candidate-information/Candidate-information-easy-read
 Disallow: /Home/Tabs/Council/Your-Council/About-your-Council/Mayor-and-Councillors/Blair-Griffiths
@@ -1461,6 +1462,7 @@ Disallow: /Home/Tabs/New-page/Plan-and-build/Seven-steps-towards-a-successful-bu
 Disallow: /Home/Tabs/New-page/Plan-and-build/Step-Four-Apply/Building-services-fees
 Disallow: /Home/Tabs/New-page/Plan-and-build/Step-One-Idea/Xplorer
 Disallow: /Home/Tabs/New-page/Sport-and-recreation/Activation/Bike-Recycling-Project/Bike-Recycling-Project
+Disallow: /Home/Tabs/New-page/Sport-and-recreation/Activation/PLAY-in-Upper-Hutt/Play-Days
 Disallow: /Home/Tabs/New-page/Sport-and-recreation/Activation/The-Gas-Hubs-Parks-Places
 Disallow: /Home/Tabs/New-page/Your-Council/Council-Meetings/Meeting-agendas-and-minutes/2018/*
 Disallow: /Home/Tabs/New-page/Your-Council/Council-Meetings/Meeting-agendas-and-minutes/2022/*
@@ -1970,6 +1972,7 @@ Disallow: /Sport-and-recreation/Activation/Bike-Recycling-Project/Bike-Recycling
 Disallow: /Sport-and-recreation/Activation/Bike-Recycling-Project/New-page
 Disallow: /Sport-and-recreation/Activation/Parks-and-Places
 Disallow: /Sport-and-recreation/Activation/Parks-and-Places-1
+Disallow: /Sport-and-recreation/Activation/PLAY-in-Upper-Hutt/Play-Days
 Disallow: /Sport-and-recreation/Activation/The-Gas-Hubs-Parks-Places
 Disallow: /testing/*
 Disallow: /Test-page-for-Consult24

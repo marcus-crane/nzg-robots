@@ -84,4 +84,8 @@ Disallow: /*?qt-moh_premise_tabs=1
 Disallow: /*?qt-moh_premise_tabs=2
 Disallow: /*?ref=goodoil.news
 Disallow: /*?page=0
+Disallow: /regulation-legislation/certification-of-health-care-services/certified-providers/rest-homes?
+Disallow: /regulation-legislation/certification-of-health-care-services/certified-providers/fertility-clinics?
+Disallow: /regulation-legislation/certification-of-health-care-services/certified-providers/public-hospitals?
+Disallow: /regulation-legislation/certification-of-health-care-services/certified-providers/private-hospitals?
 Sitemap: https://www.health.govt.nz/sitemap.xml

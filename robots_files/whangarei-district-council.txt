@@ -1596,6 +1596,11 @@ Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Ro
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250212/Paiawa-Road-NCC-Event
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250212/Ruarangi-Road-NCC-Event
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250212/Sime-Road-Closure-NCC-Event
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250511/Doctors-Hill-Road-Closure-NCC-Event
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250511/Kepa-Road-Closure-NCC-Event
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250511/Paiawa-Road-NCC-Event
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250511/Ruarangi-Road-NCC-Event
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250511/Sime-Road-Closure-NCC-Event
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250615/Crows-Nest-Road-closure-NCC-event
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250615/Kaiikanui-Road-closure-NCC-event
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Road-Closure-20250615/Mangapai-Caves-Road-closure-NCC-event
@@ -3201,6 +3206,7 @@ Disallow: /Whats-new/Have-your-say/Rep-Review/Timeline/Submissions-begin
 Disallow: /Whats-new/Have-your-say/Rep-Review/Timeline/Submissions-Close
 Disallow: /Whats-new/Have-your-say/Rep-Review/Timeline/Submissions-hearing
 Disallow: /Whats-new/Have-your-say/Rep-Review/Timeline/Survey
+Disallow: /Whats-new/Have-your-say/Residents-and-Ratepayers-feedback
 Disallow: /Whats-new/Have-your-say/SL2100046-Hurupaki-Holdings/SL2100046-submission-form
 Disallow: /Whats-new/Have-your-say/SL2100046-Hurupaki-Holdings/Timeline/Consultation-closes
 Disallow: /Whats-new/Have-your-say/SL2100046-Hurupaki-Holdings/Timeline/Consultation-opens

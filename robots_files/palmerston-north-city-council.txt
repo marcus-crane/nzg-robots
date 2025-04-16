@@ -1009,6 +1009,8 @@ Disallow: /Services/Rubbish-and-recycling/What-goes-where/Wrapping-paper-foil-or
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Wrapping-paper-standard
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Yoghurt-pots-large
 Disallow: /Services/Rubbish-and-recycling/What-goes-where/Yoghurt-Pots-six-pack-pottles
+Disallow: /Services/Social-housing/New-page
+Disallow: /Services/Social-housing/Tenancy-survey
 Disallow: /Services/Transport-roading/Roads-and-footpaths/Roadworks-and-road-closures/Albert-Street-water-pipe-relining
 Disallow: /Services/Transport-roading/Roads-and-footpaths/Roadworks-and-road-closures/BotanicalCollege-intersection-traffic-signals-upgrade
 Disallow: /Services/Transport-roading/Roads-and-footpaths/Roadworks-and-road-closures/College-Street-Botanical-Road-traffic-lights

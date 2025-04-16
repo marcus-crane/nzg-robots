@@ -305,6 +305,7 @@ Disallow: /Lets-Talk-Waitaki-EngagementHQ/Lets-Talk-Dogs-90153
 Disallow: /Lets-Talk-Waitaki-EngagementHQ/Lets-talk-trash-90543
 Disallow: /Lets-Talk-Waitaki-EngagementHQ/New-page
 Disallow: /Lets-Talk-Waitaki-EngagementHQ/Ōamaru-CBD-Masterplan-Opportunity-Areas-95047
+Disallow: /Lets-Talk-Waitaki-EngagementHQ/Ōamaru-North-Masterplan-100366
 Disallow: /Lets-Talk-Waitaki-EngagementHQ/Representation-Review-95150
 Disallow: /Lets-Talk-Waitaki-EngagementHQ/Revenue-Financing-Policy-2024-92499
 Disallow: /Lets-Talk-Waitaki-EngagementHQ/The-Waitaki-Story-97494
