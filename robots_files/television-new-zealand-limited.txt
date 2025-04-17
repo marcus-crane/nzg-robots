@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
 Sitemap: https://apis-public-prod.tech.tvnz.co.nz/api/v1/web/play/sitemap # OD sitemap

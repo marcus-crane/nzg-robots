@@ -842,10 +842,12 @@ Disallow: /library/Temporary-Announcements/*
 Disallow: /library/Temporary-announcements/Central-library
 Disallow: /library/Temporary-announcements/Changes-to-library-access
 Disallow: /library/Temporary-announcements/Citizens-advice-notice
+Disallow: /library/Temporary-announcements/Community-libraries
 Disallow: /library/Temporary-announcements/Copy-of-Interloan-suspension-1
 Disallow: /library/Temporary-announcements/Interloan-suspension
 Disallow: /library/Temporary-announcements/Kamo-library
 Disallow: /library/Temporary-announcements/Library-closure
+Disallow: /library/Temporary-announcements/New-page
 Disallow: /library/Temporary-announcements/Onerahi-library
 Disallow: /library/Temporary-announcements/Public-holiday-closure
 Disallow: /library/Temporary-announcements/Public-holiday-closures
@@ -1971,6 +1973,7 @@ Disallow: /Temporary-Announcements/LGOIMA-closedown
 Disallow: /Temporary-Announcements/LIM-closedown
 Disallow: /Temporary-Announcements/Log4J-maps-issue
 Disallow: /Temporary-Announcements/Longer-than-usual-processing-times
+Disallow: /Temporary-Announcements/Love-it-here-school-holidays
 Disallow: /Temporary-Announcements/Maori-Ward-decision
 Disallow: /Temporary-Announcements/Maori-Ward-Poll
 Disallow: /Temporary-Announcements/MFL-2022
@@ -1986,6 +1989,7 @@ Disallow: /Temporary-Announcements/ReachDeck-outage
 Disallow: /Temporary-Announcements/Recycling-changes-20240201
 Disallow: /Temporary-Announcements/Refund-requests
 Disallow: /Temporary-Announcements/RMA-Building-Act-closedown
+Disallow: /Temporary-Announcements/Ruakaka-service-centre-closed
 Disallow: /Temporary-Announcements/Rubbish-collection
 Disallow: /Temporary-Announcements/Shared-Path-temporary-closure
 Disallow: /Temporary-Announcements/Te-Matau-a-Pohe-bridge-planned-closure
