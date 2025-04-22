@@ -87,6 +87,7 @@ Disallow: /Community/Community-funding/Youth-Week-Fund/Youth-Week-Fund-applicati
 Disallow: /Community/Community-services/Apply-for-a-buskers-permit
 Disallow: /Community/Community-services/Apply-for-a-street-appeal-permit
 Disallow: /Community/Community-services/Civic-Honours/Civic-Honours-nomination-form
+Disallow: /Community/Community-services/Community-Impact-Partnerships-programme/Community-Impact-Partnerships-EOI-form
 Disallow: /Community/Community-services/Food-Premises-Grading-Search
 Disallow: /Community/Community-services/SC-Community-services-enquiries
 Disallow: /Community/Community-services/School-holiday-programmes/School-holiday-activity-providers
