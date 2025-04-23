@@ -26,6 +26,8 @@ Disallow:/tool
 Disallow:/academic-staff-old
 Disallow:/moreinfo
 Disallow:/__data/assets/pdf_file/0006/264624/Annual-Report-2018-AUT.pdf
+Disallow:/__data/assets/pdf_file/0010/793045/Manaakitanga-2022-AUT-Foundation-Report-to-Donors-Web.pdf
+Disallow:/__data/assets/pdf_file/0009/652392/2021-Top-Graduates-Awards-Board-Web.pdf
 Disallow:/539799/
 Disallow:/540431/
 Disallow:/540546/
@@ -80,6 +82,8 @@ Disallow:/tool
 Disallow:/academic-staff-old
 Disallow:/moreinfo
 Disallow:/__data/assets/pdf_file/0006/264624/Annual-Report-2018-AUT.pdf
+Disallow:/__data/assets/pdf_file/0010/793045/Manaakitanga-2022-AUT-Foundation-Report-to-Donors-Web.pdf
+Disallow:/__data/assets/pdf_file/0009/652392/2021-Top-Graduates-Awards-Board-Web.pdf
 Disallow:/tmpbiolab
 Disallow:/learncoach
 Disallow:/539799/

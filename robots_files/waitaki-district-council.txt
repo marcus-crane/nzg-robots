@@ -308,6 +308,7 @@ Disallow: /Lets-Talk-Waitaki-EngagementHQ/Ōamaru-CBD-Masterplan-Opportunity-Are
 Disallow: /Lets-Talk-Waitaki-EngagementHQ/Ōamaru-North-Masterplan-100366
 Disallow: /Lets-Talk-Waitaki-EngagementHQ/Representation-Review-95150
 Disallow: /Lets-Talk-Waitaki-EngagementHQ/Revenue-Financing-Policy-2024-92499
+Disallow: /Lets-Talk-Waitaki-EngagementHQ/Southern-Water-Done-Well-100474
 Disallow: /Lets-Talk-Waitaki-EngagementHQ/The-Waitaki-Story-97494
 Disallow: /Lets-Talk-Waitaki-EngagementHQ/Waihemo-Recreation-Reserve-Grazing-Licence-99307
 Disallow: /Lets-Talk-Waitaki-EngagementHQ/Youth-Voice-Waitaki-89202
