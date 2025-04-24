@@ -2,6 +2,7 @@ User-agent: *
 
 Disallow: /After5
 Disallow: /Announcements/*
+Disallow: /Announcements/Anzac-Day-recycling
 Disallow: /Announcements/CD
 Disallow: /Announcements/Celebrating-10-years-of-Te-Matau-a-Pohe
 Disallow: /Announcements/Celebrating-10-years-of-Te-Matau-a-Pohe-bridge
@@ -2599,6 +2600,17 @@ Disallow: /Whats-new/Have-your-say/Current-Consultations/Kamo-Road-priority-lane
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Kamo-Road-priority-lane-feedback/Feedback-opens
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Kamo-Road-priority-lane-feedback/Kamo-Road-priority-lane-form
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Kamo-Road-priority-lane-feedback/Te-Kamo-drop-in-session
+Disallow: /Whats-new/Have-your-say/Current-Consultations/Knowledge-Precinct-Plan-survey/Knowledge-Precinct-Plan-online-form
+Disallow: /Whats-new/Have-your-say/Current-Consultations/KPP-survey/Timeline/*
+Disallow: /Whats-new/Have-your-say/Current-Consultations/KPP-survey/Timeline/Adopted
+Disallow: /Whats-new/Have-your-say/Current-Consultations/KPP-survey/Timeline/Draft-plan
+Disallow: /Whats-new/Have-your-say/Current-Consultations/KPP-survey/Timeline/Second-round
+Disallow: /Whats-new/Have-your-say/Current-Consultations/KPP-survey/Timeline/Session-20250415
+Disallow: /Whats-new/Have-your-say/Current-Consultations/KPP-survey/Timeline/Session-20250510
+Disallow: /Whats-new/Have-your-say/Current-Consultations/KPP-survey/Timeline/Session-20250517
+Disallow: /Whats-new/Have-your-say/Current-Consultations/KPP-survey/Timeline/Session-20250522
+Disallow: /Whats-new/Have-your-say/Current-Consultations/KPP-survey/Timeline/Survey-closes
+Disallow: /Whats-new/Have-your-say/Current-Consultations/KPP-survey/Timeline/Survey-opens
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Local-Water-Done-Well-consultation-2025/Local-Water-Done-Well-online-form
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Local-Water-Done-Well-consultation-2025/Timeline/*
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Local-Water-Done-Well-consultation-2025/Timeline/Adoption

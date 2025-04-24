@@ -547,6 +547,7 @@ Disallow: /Participate-Palmy/Have-your-say/Proposed-Plan-Change-I/Timeline/Copy-
 Disallow: /Participate-Palmy/Have-your-say/Proposed-Plan-Change-I/Timeline/New-page
 Disallow: /Participate-Palmy/Have-your-say/Proposed-Plan-Change-I/Timeline/Phase-4
 Disallow: /Participate-Palmy/Have-your-say/Rezoning-Roxburgh-Crescent/Timeline/Decision-released
+Disallow: /Participate-Palmy/Have-your-say/Rezoning-Roxburgh-Crescent/Timeline/Hearing
 Disallow: /Participate-Palmy/Have-your-say/Rezoning-Roxburgh-Crescent/Timeline/Hearings
 Disallow: /Participate-Palmy/Have-your-say/Rezoning-Roxburgh-Crescent/Timeline/New-page
 Disallow: /Participate-Palmy/Have-your-say/Safer-speeds-in-Palmerston-North/city-centre
