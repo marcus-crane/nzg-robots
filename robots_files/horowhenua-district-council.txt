@@ -1152,6 +1152,8 @@ Disallow: /News-Events/Events/Event-Calendar/Levin-Table-Tennis/New-page
 Disallow: /News-Events/Events/Event-Calendar/Levin-Table-Tennis/Thursday-session
 Disallow: /News-Events/Events/Event-Calendar/Levin-Table-Tennis/Wednesday-session
 Disallow: /News-Events/Events/Event-Calendar/Monday-session
+Disallow: /News-Events/Events/Event-Calendar/Proposed-Plan-Change-6A-Drop-In-Session/Drop-in-Session-Council-Foyer
+Disallow: /News-Events/Events/Event-Calendar/Proposed-Plan-Change-6A-Drop-In-Session/New-page
 Disallow: /News-Events/Events/Event-Calendar/Remembrance-Day-2023/Copy-of-Remembrance-Day-2023-Foxton-1
 Disallow: /News-Events/Events/Event-Calendar/Remembrance-Day-2023/Copy-of-Remembrance-Day-2023-Levin-1
 Disallow: /News-Events/Events/Event-Calendar/Remembrance-Day-2023/New-page

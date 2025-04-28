@@ -2094,6 +2094,10 @@ Disallow: /Whats-new/Have-your-say/Closed-Consultations/Accessibility-Feedback-2
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Accessibility-Feedback-2022/Online-Hui-1
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Accessibility-Feedback-2022/Online-Hui-2
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Accessibility-Feedback-2022/What-Councils-Do
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Age-Friendly-Survey/Age-Friendly-Survey-Timeline/*
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Age-Friendly-Survey/Age-Friendly-Survey-Timeline/Plan-released
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Age-Friendly-Survey/Age-Friendly-Survey-Timeline/Survey-closes
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Age-Friendly-Survey/Age-Friendly-Survey-Timeline/Survey-opens
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Airport-Location-Consultation-2022/Airport-Location-Consultation-Online-Form
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Airport-Location-Consultation-2022/Consultation-Begins
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Airport-Location-Consultation-2022/Consultation-Ends
@@ -2600,7 +2604,7 @@ Disallow: /Whats-new/Have-your-say/Current-Consultations/Kamo-Road-priority-lane
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Kamo-Road-priority-lane-feedback/Feedback-opens
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Kamo-Road-priority-lane-feedback/Kamo-Road-priority-lane-form
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Kamo-Road-priority-lane-feedback/Te-Kamo-drop-in-session
-Disallow: /Whats-new/Have-your-say/Current-Consultations/Knowledge-Precinct-Plan-survey/Knowledge-Precinct-Plan-online-form
+Disallow: /Whats-new/Have-your-say/Current-Consultations/KPP-survey/KPP-online-form
 Disallow: /Whats-new/Have-your-say/Current-Consultations/KPP-survey/Timeline/*
 Disallow: /Whats-new/Have-your-say/Current-Consultations/KPP-survey/Timeline/Adopted
 Disallow: /Whats-new/Have-your-say/Current-Consultations/KPP-survey/Timeline/Draft-plan

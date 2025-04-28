@@ -75,6 +75,7 @@ Disallow: /international/why-wellington/meet-our-students
 Disallow: /cdsai-underconstruction
 Disallow: /__data/.*
 Disallow: /_design/.*
+Disallow: /_designs/.*
 Disallow: /dev-courses.*
 Disallow: /new-courses.*
 Disallow: /test-courses.*
