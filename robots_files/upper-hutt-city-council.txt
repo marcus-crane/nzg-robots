@@ -903,6 +903,8 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Creative-Communities/Creative-Communities-NZ-Arts-Funding-Assessment-Committee-1-May-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/District-Licensing-Committee-16-December-2024/District-Licensing-Committee-Agenda-16-December-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/District-Licensing-Committee-16-December-2024/New-page
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/District-Licensing-Committee-5-May-2025/District-Licensing-Committee-Agenda-5-May-2025
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/District-Licensing-Committee-5-May-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Finance-and-Performance/Finance-and-Performance-Committee-11-September-2024/Finance-and-Performance-Committee-Agenda-11-September-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Finance-and-Performance/Finance-and-Performance-Committee-11-September-2024/Finance-and-Performance-Committee-minutes-11-September-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Finance-and-Performance/Finance-and-Performance-Committee-11-September-2024/New-page

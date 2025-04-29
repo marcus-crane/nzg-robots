@@ -842,6 +842,7 @@ Disallow: /library/Temporary-announcements/Changes-to-library-access
 Disallow: /library/Temporary-announcements/Citizens-advice-notice
 Disallow: /library/Temporary-announcements/Community-libraries
 Disallow: /library/Temporary-announcements/Copy-of-Interloan-suspension-1
+Disallow: /library/Temporary-announcements/Event-cancellation
 Disallow: /library/Temporary-announcements/Interloan-suspension
 Disallow: /library/Temporary-announcements/Kamo-library
 Disallow: /library/Temporary-announcements/Library-closure

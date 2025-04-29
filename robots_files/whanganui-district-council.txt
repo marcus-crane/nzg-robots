@@ -540,6 +540,7 @@ Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minu
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Operations-and-Performance-Committee-8-August-2024/Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Operations-and-Performance-Committee-8-August-2024/Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Operations-Performance-Committee-10-April-2025/Agenda
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Operations-Performance-Committee-10-April-2025/Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Operations-Performance-Committee-10-April-2025/New-page
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Policy-and-Bylaw-Committee-10-November-2021/Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Policy-and-Bylaw-Committee-10-November-2021/Confirmed-Minutes
@@ -682,12 +683,14 @@ Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minu
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Strategy-and-Policy-Committee-8-August-2023/Confirmed-minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Strategy-and-Policy-Committee-8-August-2023/Final-Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Strategy-and-Policy-Committee-8-August-2023/Late-Item
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Strategy-Policy-Committee-18-February-2025/Confirmed-Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Strategy-Policy-Committee-18-February-2025/Draft-submission-Local-Government-Water-Services-Bill-18-Feb-2025
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Strategy-Policy-Committee-18-February-2025/Final-Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Strategy-Policy-Committee-18-February-2025/Intro-to-Local-Government-Water-Services-Bill
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Strategy-Policy-Committee-18-February-2025/New-page
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Strategy-Policy-Committee-18-February-2025/References-under-separate-cover
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Strategy-Policy-Committee-Meeting-13-March-2025/Final-Agenda
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Strategy-Policy-Committee-Meeting-13-March-2025/Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Strategy-Policy-Committee-Meeting-13-March-2025/New-page
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board/Final-agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-11-November-2021/Agenda
@@ -2208,6 +2211,9 @@ Disallow: /Your-Council/Have-Your-Say/Consultations/Community-Views-Survey-2022/
 Disallow: /Your-Council/Have-Your-Say/Consultations/Community-Views-Survey-2024/Discussions
 Disallow: /Your-Council/Have-Your-Say/Consultations/Community-Views-Survey-2024/Latest-Updates
 Disallow: /Your-Council/Have-Your-Say/Consultations/Community-Views-Survey-2024/Timeline
+Disallow: /Your-Council/Have-Your-Say/Consultations/Community-Views-Survey-20242025/Discussions
+Disallow: /Your-Council/Have-Your-Say/Consultations/Community-Views-Survey-20242025/Latest-Updates
+Disallow: /Your-Council/Have-Your-Say/Consultations/Community-Views-Survey-20242025/Timeline
 Disallow: /Your-Council/Have-Your-Say/Consultations/Dangerous-and-Insanitary-Buildings-Policy-review/Discussions
 Disallow: /Your-Council/Have-Your-Say/Consultations/Dangerous-and-Insanitary-Buildings-Policy-review/Latest-Updates
 Disallow: /Your-Council/Have-Your-Say/Consultations/Dangerous-and-Insanitary-Buildings-Policy-review/Timeline/*
