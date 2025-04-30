@@ -542,6 +542,7 @@ Disallow: /Home/Featured-Content/FDS-Consultation
 Disallow: /Home/Featured-Content/Festival-Motorsport
 Disallow: /Home/Featured-Content/Fluoridation
 Disallow: /Home/Featured-Content/Freedom-Camping
+Disallow: /Home/Featured-Content/Grant-workshops
 Disallow: /Home/Featured-Content/Have-Your-Say
 Disallow: /Home/Featured-Content/Hot-Grill-Summer
 Disallow: /Home/Featured-Content/Kamo-Shared-Path-in-Te-Kamo
@@ -810,6 +811,7 @@ Disallow: /library/Library-services-presentations
 Disallow: /library/Manage-subscriptions
 Disallow: /library/maori-battalion-pou/*
 Disallow: /library/Matapouri-Community-Library
+Disallow: /library/matariki-mana-wahine
 Disallow: /library/News/Background-News
 Disallow: /library/News/COVID-19-Level-2
 Disallow: /library/News/COVID-19-Level-2/COVID-19-Level-3
@@ -1245,6 +1247,7 @@ Disallow: /library/Whats-on/Events/Great-Summer-Challenge/Great-Summer-Challenge
 Disallow: /library/Whats-on/Events/Library-Craft-Group
 Disallow: /library/Whats-on/Events/Matariki/Matariki-preschool-funtimes/Matariki-Funtime-at-Tikipunga-Library
 Disallow: /library/Whats-on/Events/Matariki/Matariki-preschool-funtimes/Matariki-Funtimes-at-Whangarei-Centra-Library
+Disallow: /library/Whats-on/Events/Matariki-mana-wahine
 Disallow: /library/Whats-on/Events/Preschool-Funtimes/Funtimes-Tikipuna-Library
 Disallow: /library/Whats-on/Events/Preschool-Funtimes/Funtimes-Tikipunga-Library
 Disallow: /library/Whats-on/Events/Preschool-Funtimes/Funtimes-Whangarei-Central-Library
@@ -1255,6 +1258,7 @@ Disallow: /library/Whats-on/Events/Preschool-funtimes-celebrate-grandparents/Fun
 Disallow: /library/Whats-on/Events/Preschool-funtimes-grandparents/Funtimes-with-grandparents-at-central
 Disallow: /library/Whats-on/Events/Preschool-funtimes-grandparents/Funtimes-with-grandparents-at-Tikipunga-Library
 Disallow: /library/Whats-on/Events/Preschool-funtimes-grandparents/Funtimes-with-grandparents-at-Whangārei-Central-Library
+Disallow: /library/Whats-on/Events/Puanga-matariki/Matariki-mana-wahine
 Disallow: /library/Whats-on/Events/Puanga-Matariki/Matariki-preschool-funtimes/Matariki-Funtime-at-Tikipunga-Library
 Disallow: /library/Whats-on/Events/Puanga-Matariki/Matariki-preschool-funtimes/Matariki-Funtimes-at-Whangarei-Centra-Library
 Disallow: /library/Whats-on/Events/Silver-festival/Preschool-funtimes-celebrate-grandparents/Funtimes-with-grandparents-at-Tikipunga-Library
@@ -1974,6 +1978,7 @@ Disallow: /Temporary-Announcements/Love-it-here-school-holidays
 Disallow: /Temporary-Announcements/Maori-Ward-decision
 Disallow: /Temporary-Announcements/Maori-Ward-Poll
 Disallow: /Temporary-Announcements/MFL-2022
+Disallow: /Temporary-Announcements/Morningside-meeting
 Disallow: /Temporary-Announcements/MRF
 Disallow: /Temporary-Announcements/New-bin-collection-locations
 Disallow: /Temporary-Announcements/New-page
