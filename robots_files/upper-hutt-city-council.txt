@@ -513,11 +513,13 @@ Disallow: /Home/Announcements/Cyclone-Gabrielle—how-you-can-help
 Disallow: /Home/Announcements/Cyclone-Gabrielle-MetService-updates
 Disallow: /Home/Announcements/Cyclone-Gabrielle—Upper-Hutt-City-Council-“adopts”-Napier-City-Council
 Disallow: /Home/Announcements/Cyclone-Gabrielle—ways-to-help
+Disallow: /Home/Announcements/Impacts-of-weather-event
 Disallow: /Home/Announcements/Long-Term-Plan-consultation
 Disallow: /Home/Announcements/Moving-back-to-Civic
 Disallow: /Home/Announcements/New-page
 Disallow: /Home/Announcements/Rates-reminder
 Disallow: /Home/Announcements/Sprinkler-ban-now-in-place
+Disallow: /Home/Announcements/Weather-Warning
 Disallow: /Home/Burst-water-main-affecting-water-suppy-in-Pinehaven-Ave-and-Jocelyn-Cres/*
 Disallow: /Home/Community/Grants-and-funding/Economic-grants-and-incentives
 Disallow: /Home/Community/People-and-programmes/Mesa-Youth-Ambassadors/Mesa-Youth-Ambassadors-Exchange-photos

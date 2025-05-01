@@ -240,6 +240,7 @@ Disallow: /Council/Council-meetings/Meeting-videos
 Disallow: /Council/Council-Meetings/Official-Information-Request
 Disallow: /Council/Governance/Local-elections/Assisted-participation
 Disallow: /Council/Governance/Local-elections/Elections-Overview
+Disallow: /Council/Governance/Local-elections/SC-Local-election-enquiries
 Disallow: /Council/Governance/Local-elections/Wards
 Disallow: /Council/Governance/Representation-Arrangements
 Disallow: /Council/Governance/Voting-and-elections/Assisted-participation
@@ -1965,6 +1966,7 @@ Disallow: /Temporary-Announcements/General-election-signs
 Disallow: /Temporary-Announcements/GIS-maps-ePlan-outage
 Disallow: /Temporary-Announcements/GIS-maps-outage
 Disallow: /Temporary-Announcements/Go-paperless
+Disallow: /Temporary-Announcements/Grant-workshops
 Disallow: /Temporary-Announcements/Growers-Market
 Disallow: /Temporary-Announcements/Huitau-Pa-walkway-partial-closure
 Disallow: /Temporary-Announcements/ICT-Payments-Outage
