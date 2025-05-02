@@ -4,7 +4,6 @@ Disallow: /Admin/*
 Disallow: /Admin/RIAS-TEST-PAGE
 Disallow: /Admin/TEST-EDIT-PAGE
 Disallow: /Admin/Test-page-for-Consult24
-Disallow: /Announcements/*
 Disallow: /Announcements/Akatārawa-Road-works
 Disallow: /Announcements/Alcohol-food-and-health-business-applications-can-now-be-made-online
 Disallow: /Announcements/Alert-Level-2-guidance
@@ -400,7 +399,6 @@ Disallow: /Council-Meetings/Meeting-Schedule/Risk-and-Assurance/Risk-and-Assuran
 Disallow: /Council-Meetings/Meeting-Schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-24-May-2023/Risk-and-Assurance-Committee-minutes-24-May-2023
 Disallow: /Council-Meetings/Meeting-Schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-26-July-2023/Risk-and-Assurance-Committee-Agenda-26-July-2023
 Disallow: /Council-Meetings/Meeting-Schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-26-July-2023/Risk-and-Assurance-Committee-meeting-minutes-26-July-2023
-Disallow: /COVID-19-Announcements/*
 Disallow: /COVID-19-Announcements/Alert-Level-2-guidance
 Disallow: /COVID-19-Announcements/New-page
 Disallow: /COVID-19-Announcements/Recycling-Station-Alert-Level-2-guidance
@@ -424,7 +422,6 @@ Disallow: /COVID-TEMP-Announcements/Test-announcement-one/Test-announcement-Two
 Disallow: /COVID-TEMP-Announcements/Waitangi-Day
 Disallow: /Create-a-page-that-contains-a-text-link
 Disallow: /Departments/*
-Disallow: /Emergency-announcements/*
 Disallow: /EngagementHQ-Projects/*
 Disallow: /EngagementHQ-Projects/City-Centre-Consultation-88825
 Disallow: /EngagementHQ-Projects/Consultation-for-the-Dangerous-Affected-and-Insanitary-Buildings-Policy-96450
@@ -461,7 +458,14 @@ Disallow: /EngagementHQ-Projects/Speed-Management-Plan-consultation-88871
 Disallow: /EngagementHQ-Projects/Test-Project-Please-do-not-use-83011
 Disallow: /EngagementHQ-Projects/Upper-Hutt-City-Councils-Annual-Plan-202526-99285
 Disallow: /EngagementHQ-Projects/What-matters-to-you-Let’s-talk-10-84830
+Disallow: /Events/Te-Kupenga-o-Rongomai-Unveiled/*
+Disallow: /Events/Te-Kupenga-o-Rongomai-Unveiled/Te-Kupenga-o-Rongomai-Unveiled-Slide1
+Disallow: /Events/Te-Kupenga-o-Rongomai-Unveiled/Te-Kupenga-o-Rongomai-Unveiled-Slide-2
+Disallow: /Events/Te-Kupenga-o-Rongomai-Unveiled/Te-Kupenga-o-Rongomai-Unveiled-Slide-3
+Disallow: /Events/Te-Kupenga-o-Rongomai-Unveiled/Te-Kupenga-o-Rongomai-Unveiled-Slide-4
+Disallow: /Events/Te-Kupenga-o-Rongomai-Unveiled/Te-Kupenga-o-Rongomai-Unveiled-Slide-5
 Disallow: /Glossary/activation
+Disallow: /Glossary/Copy-of-activation-1
 Disallow: /Glossary/Copy-of-Heritage-1/*
 Disallow: /Glossary/Hearing-impairment
 Disallow: /Glossary/Hearing-impairment-assistance
@@ -520,13 +524,11 @@ Disallow: /Home/Announcements/New-page
 Disallow: /Home/Announcements/Rates-reminder
 Disallow: /Home/Announcements/Sprinkler-ban-now-in-place
 Disallow: /Home/Announcements/Weather-Warning
-Disallow: /Home/Burst-water-main-affecting-water-suppy-in-Pinehaven-Ave-and-Jocelyn-Cres/*
 Disallow: /Home/Community/Grants-and-funding/Economic-grants-and-incentives
 Disallow: /Home/Community/People-and-programmes/Mesa-Youth-Ambassadors/Mesa-Youth-Ambassadors-Exchange-photos
 Disallow: /Home/Community/the-upper-hutt-guide
 Disallow: /Home/Community/Upper-Hutt-Arts-and-Culture/AC-Advisor
-Disallow: /Home/Emergency-announcements/*
-Disallow: /Home/Engage/*
+Disallow: /Home/Engage-with-us/*
 Disallow: /Home/Engage-with-us/civic-award-nomination
 Disallow: /Home/Engage-with-us/Copy-of-Ki-Uta-app-1
 Disallow: /Home/Engage-with-us/H2O-Xtream-Vending-Machine-Expressions-of-Interest
@@ -543,6 +545,7 @@ Disallow: /Home/Engage-with-us/Representation-Review/Long-Term-Plan-2024-–-203
 Disallow: /Home/Engage-with-us/Stay-connected
 Disallow: /Home/Engage-with-us/Team-Xtream-Work-for-us
 Disallow: /Home/Engage-with-us/WARCA-Nomination
+Disallow: /Home/Feature-background/*
 Disallow: /Home/Feature-Background/Hero-image-Brewtown-at-night
 Disallow: /Home/Feature-Background/Hero-image-Main-Street
 Disallow: /Home/Feature-Background/Hero-image-NZCIS-at-night
@@ -593,7 +596,6 @@ Disallow: /Home/In-Focus-Featured-Content/Welcoming-Communities
 Disallow: /Home/L1-MASTER-TEST-EDIT-PAGE
 Disallow: /Home/Long-term-plan
 Disallow: /Home/Long-Term-Plan-2024-–-2034
-Disallow: /Home/New-page/*
 Disallow: /Home/Pop-Links/A-Night-for-Napier
 Disallow: /Home/Pop-Links/Annual-Plan
 Disallow: /Home/Pop-Links/Christmas-Trail
@@ -703,6 +705,7 @@ Disallow: /Home/Slides/U-play-School-Holiday-Event-Series
 Disallow: /Home/Slides/We’ve-moved
 Disallow: /Home/Slides/We’ve-moved/New-page
 Disallow: /Home/Slides/You’re-invited
+Disallow: /Home/Tabs/*
 Disallow: /Home/Tabs/Council/Let’s-KōreroHave-your-say/Gambling-Venues-Policy-review
 Disallow: /Home/Tabs/Council/Let’s-KōreroHave-your-say/Water-supply-bylaw-review/*
 Disallow: /Home/Tabs/Council/Plan-and-build/Building-Toolkit/Planning-Application-Forms-and-Guidance-Documents
@@ -768,6 +771,8 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-5-July-2023/City-Services-Committee-Minutes-5-July-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-7-February-2024/City-Services-Committee-Agenda-7-February-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-7-February-2024/City-Services-Committee-Minutes-7-February-2024
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-7-May-2025/City-Services-Committee-Agenda-7-May-2025
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-7-May-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-8-February-2023/City-Services-Committee-Agenda-8-February-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-8-February-2023/City-Services-Committee-Minutes-8-February-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-Meeting-2-October-2024/City-Services-Committee-Agenda-2-October-2024
@@ -837,7 +842,6 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-2-August-2023/Minutes-of-the-Risk-and-Assurance-Committee-meeting-26-July-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-2-August-2023/Tabled-document-Item-7-Attachment-1-Housing-and-Business-Assessment
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-April-2025/Council-Agenda-30-April-2025
-Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-April-2025/Council-Minutes-30-April-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-April-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-July-2024/Council-Agenda-30-July-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-July-2024/Council-minutes-30-July-2024
@@ -1754,6 +1758,7 @@ Disallow: /Home/Tabs/New-page/Your-Council/Plans-policies-bylaws-and-reports/Dis
 Disallow: /Home/Tabs/New-page/Your-Council/Plans-policies-bylaws-and-reports/District-Plan/PC41
 Disallow: /Home/Tabs/New-page/Your-Council/Plans-policies-bylaws-and-reports/District-Plan/PC43
 Disallow: /Home/Tabs/New-page/Your-Council/Your-rates/Rating-Information-Database-RID
+Disallow: /Home/Top-Tasks/*
 Disallow: /Home/Top-Tasks/Akatārawa-Cemetery
 Disallow: /Home/Top-Tasks/Copy-of-Parks-Gardens-1
 Disallow: /Home/Top-Tasks/Copy-of-Waste-Management-1
@@ -1962,8 +1967,10 @@ Disallow: /Services/Report-and-request/Request-road-footpath-or-berm-maintenance
 Disallow: /Services/Report-and-request/Something-else
 Disallow: /Services/Report-and-request/Street-lights
 Disallow: /Site-Footer/Admin/*
-Disallow: /Site-Footer/Footer-Widgets/Connect-with-us/Follow-us-on-LinkedIn
-Disallow: /Site-Footer/Footer-Widgets/Connect-with-us/New-page
+Disallow: /Site-Footer/Footer-Widgets/Connect-with-us/Facebook
+Disallow: /Site-Footer/Footer-Widgets/Connect-with-us/Lets-Korero
+Disallow: /Site-Footer/Footer-Widgets/Connect-with-us/LinkedIn
+Disallow: /Site-Footer/Footer-Widgets/Connect-with-us/Messenger
 Disallow: /Site-Footer/Footer-Widgets/Copy-of-Custom-safety-footer-logo-1
 Disallow: /Site-Footer/Footer-Widgets/Custom-safety-footer-logo
 Disallow: /Site-Footer/Footer-Widgets/New-page
@@ -1979,8 +1986,8 @@ Disallow: /Site-Footer/Footer-Widgets/Quick-links/Make-a-submission
 Disallow: /Site-Footer/Footer-Widgets/Quick-links/New-page
 Disallow: /Site-Footer/Footer-Widgets/Quick-links/Report-and-request
 Disallow: /Site-Footer/Footer-Widgets/Quick-links/Report-a-problem
-Disallow: /Site-Footer/Sub-Footer-Links/Accessibility-statement
-Disallow: /Site-Footer/Sub-Footer-Links/New-page
+Disallow: /Site-Footer/Sub-Footer-Links/Accessibility-statement/*
+Disallow: /Site-Footer/Sub-Footer-Links/New-page/*
 Disallow: /Sport-and-recreation/Activation/Bike-Recycling-Project/Bike-Recycling-Project
 Disallow: /Sport-and-recreation/Activation/Bike-Recycling-Project/New-page
 Disallow: /Sport-and-recreation/Activation/Parks-and-Places

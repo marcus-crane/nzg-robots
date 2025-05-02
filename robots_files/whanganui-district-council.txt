@@ -31,6 +31,7 @@ Disallow: /Announcements/Temporary-boil-water-notice-issued-for-Pākaraka-rural-
 Disallow: /Announcements/Update-restricted-fire-season-–-Whanganui-coast-and-urban-area
 Disallow: /Announcements/Use-water-sensibly
 Disallow: /Announcements/Whanganui-Elections-2022-results
+Disallow: /Announcements/Win-a-50-grocery-voucher
 Disallow: /Community-and-Culture/Anzac-Day/Anzac-rotating-banner/First-dawn-Anzac-parade
 Disallow: /Community-and-Culture/Anzac-Day/Anzac-rotating-banner/Whanganuis-War-Memorial-in-Queens-Park
 Disallow: /Community-and-Culture/Funding-Opportunities/Creative-Communities-Scheme/Apply-to-be-a-Creative-Communities-Scheme-assessor
@@ -252,6 +253,13 @@ Disallow: /Slideshows/Whanganui-East-Pool-slideshow/Dog-Day-2024
 Disallow: /Slideshows/Whanganui-East-Pool-slideshow/Dog-jumping-into-the-Whanganui-East-Pool
 Disallow: /Slideshows/Whanganui-East-Pool-slideshow/New-page
 Disallow: /Slideshows/Whanganui-East-Pool-slideshow/Overview-of-Whanganui-East-Pool
+Disallow: /Slideshows/Work-on-the-parallel-taxiway-at-Whanganui-Airport-April-2025/New-page
+Disallow: /Slideshows/Work-on-the-parallel-taxiway-at-Whanganui-Airport-April-2025/Parallel-taxiway-at-Whanganui-Airport
+Disallow: /Slideshows/Work-on-the-parallel-taxiway-at-Whanganui-Airport-April-2025/Work-at-Whanganui-Airport-on-the-parallel-taxiway
+Disallow: /Slideshows/Work-on-the-parallel-taxiway-at-Whanganui-Airport-April-2025/Work-on-the-parallel-taxiway
+Disallow: /Slideshows/Work-on-the-parallel-taxiway-at-Whanganui-Airport-April-2025/Work-on-the-parallel-taxiway-April-2025
+Disallow: /Slideshows/Work-on-the-parallel-taxiway-at-Whanganui-Airport-April-2025/Work-on-the-parallel-taxiway-at-Whanganui-Airport
+Disallow: /Slideshows/Work-on-the-parallel-taxiway-at-Whanganui-Airport-April-2025/Work-underway-on-the-parallel-taxiway
 Disallow: /System-pages/Glossary/*
 Disallow: /System-pages/Manage-subscriptions
 Disallow: /Tests/Careers-Test/*
@@ -577,6 +585,9 @@ Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minu
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Projects-Grants-Committee-11-March-2025/Final-Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Projects-Grants-Committee-11-March-2025/New-page
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Projects-Grants-Committee-11-March-2025/Unconfirmed-minutes
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Projects-Grants-Committee-8-May-2025/Final-Agenda
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Projects-Grants-Committee-8-May-2025/New-page
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Projects-Grants-Committee-8-May-2025/References-under-separate-cover
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Property-and-Community-Services-Committee-17-May-2022/Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Property-and-Community-Services-Committee-17-May-2022/Confirmed-Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Property-and-Community-Services-Committee-22-February-2022/Agenda

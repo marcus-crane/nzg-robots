@@ -239,6 +239,7 @@ Disallow: /Home/Slideshow/liquor-ban
 Disallow: /Home/Slideshow/Long-Term-Plan
 Disallow: /Home/Slideshow/Nesting-gulls
 Disallow: /Home/Slideshow/Prepare-for-Covid-19
+Disallow: /Home/Slideshow/Proposed-District-Plan
 Disallow: /Home/Slideshow/Report-an-issue
 Disallow: /Home/Slideshow/ROPO-slide
 Disallow: /Home/Slideshow/Snip-n-Chip
