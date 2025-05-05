@@ -2787,6 +2787,11 @@ Disallow: /Whats-new/Have-your-say/Current-Consultations/RQ2300004-Ministry-of-E
 Disallow: /Whats-new/Have-your-say/Current-Consultations/RQ2300004-Ministry-of-Education/Timeline/Submissions-close
 Disallow: /Whats-new/Have-your-say/Current-Consultations/RQ2300004-Ministry-of-Education/Timeline/Submissions-closed
 Disallow: /Whats-new/Have-your-say/Current-Consultations/RQ2300004-Ministry-of-Education/Timeline/Submissions-open
+Disallow: /Whats-new/Have-your-say/Current-Consultations/RWWTP-Interim-Solution/RWWTP-online-form
+Disallow: /Whats-new/Have-your-say/Current-Consultations/RWWTP-Interim-Solution/Timeline/*
+Disallow: /Whats-new/Have-your-say/Current-Consultations/RWWTP-Interim-Solution/Timeline/Feedback-closes
+Disallow: /Whats-new/Have-your-say/Current-Consultations/RWWTP-Interim-Solution/Timeline/Feedback-opens
+Disallow: /Whats-new/Have-your-say/Current-Consultations/RWWTP-Interim-Solution/Timeline/Info-session
 Disallow: /Whats-new/Have-your-say/Current-Consultations/SD2400100-Butler/SD2400100-online-form
 Disallow: /Whats-new/Have-your-say/Current-Consultations/SD2400100-Butler/Submissions-close
 Disallow: /Whats-new/Have-your-say/Current-Consultations/SD2400100-Butler/Submissions-open
