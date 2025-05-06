@@ -531,6 +531,7 @@ Disallow: /Home/Community/Upper-Hutt-Arts-and-Culture/AC-Advisor
 Disallow: /Home/Engage-with-us/*
 Disallow: /Home/Engage-with-us/civic-award-nomination
 Disallow: /Home/Engage-with-us/Copy-of-Ki-Uta-app-1
+Disallow: /Home/Engage-with-us/Council-Meetings
 Disallow: /Home/Engage-with-us/H2O-Xtream-Vending-Machine-Expressions-of-Interest
 Disallow: /Home/Engage-with-us/Ki-Uta-app
 Disallow: /Home/Engage-with-us/Local-Water-Done-Well
@@ -566,6 +567,7 @@ Disallow: /Home/In-Focus/*
 Disallow: /Home/In-Focus/Beechwood-Lane-Bridge
 Disallow: /Home/In-Focus/Christmas
 Disallow: /Home/In-Focus/Christmas-in-Upper-Hutt
+Disallow: /Home/In-Focus/Composting-Month
 Disallow: /Home/In-Focus/Copy-of-Mana-whenua-1
 Disallow: /Home/In-Focus/History-of-Upper-Hutt
 Disallow: /Home/In-Focus/History-of-Upper-Hutt/Copy-of-Ki-Uta-app-1
@@ -588,6 +590,7 @@ Disallow: /Home/In-Focus/Upper-Hutt-History
 Disallow: /Home/In-Focus/Upper-Hutt-Multicultural-Week-2024
 Disallow: /Home/In-Focus/Welcoming-Communities
 Disallow: /Home/In-Focus/Welcoming-Week
+Disallow: /Home/In-Focus/Youth-Week
 Disallow: /Home/In-Focus-Featured-Content/*
 Disallow: /Home/In-Focus-Featured-Content/Mana-whenua-heritage
 Disallow: /Home/In-Focus-Featured-Content/New-page
@@ -1852,10 +1855,13 @@ Disallow: /Plan-and-build/Step-Two/Xplorer
 Disallow: /Plan-and-build/Step-Two-Check/Fees
 Disallow: /Plan-and-build/Step-Two-Check/Xplorer
 Disallow: /Processing-a-website-feedback-works-request
+Disallow: /Projects-and-initiatives/Infrastructure/Pinehaven-Culvert-Replacement/pinehaven-culvert
+Disallow: /Projects-and-initiatives/Infrastructure/UHCC-Shovel-ready-projects-April-2020
 Disallow: /Projects-and-initiatives/Our-building-projects-and-initiatives/H2O-Xtream-upgrade
 Disallow: /Projects-and-initiatives/Our-building-projects-and-initiatives/Pinehaven-Culvert-Replacement-Complete/pinehaven-culvert
 Disallow: /Projects-and-initiatives/Our-building-projects-and-initiatives/UHCC-Shovel-ready-projects-April-2020
 Disallow: /Projects-and-initiatives/Our-infrastructure-projects-and-initiatives/H2O-Xtream-upgrade
+Disallow: /Projects-and-initiatives/Our-infrastructure-projects-and-initiatives/Pinehaven-Culvert-Replacement/pinehaven-culvert
 Disallow: /Projects-and-initiatives/Our-infrastructure-projects-and-initiatives/Pinehaven-Culvert-Replacement-Complete/pinehaven-culvert
 Disallow: /Projects-and-initiatives/Our-infrastructure-projects-and-initiatives/UHCC-Shovel-ready-projects-April-2020
 Disallow: /Projects-and-initiatives/Upper-Hutt-Arts-and-Culture/AC-Advisor
@@ -2815,6 +2821,7 @@ Disallow: /Your-Council/Meeting-Agendas-and-Minutes/Council-meetings-calendar/Ex
 Disallow: /Your-Council/Meeting-Agendas-and-Minutes/Council-meetings-calendar/Extraordinary-Council-Meeting-16-February-2021/*
 Disallow: /Your-Council/Meeting-Agendas-and-Minutes/Council-meetings-calendar/Finance-and-Performance-Committee-Meeting-25-August-2021/Minutes-Finance-and-Performance-Committee-Meeting-25-August-2021
 Disallow: /Your-Council/Meeting-Agendas-and-Minutes/Council-meetings-calendar/Risk-and-Assurance-Committee-Meeting-25-August-2021/Minutes-Risk-and-Assurance-Committee-Meeting-25-August-2021
+Disallow: /Your-Council/Our-projects-and-initiatives/Copy-of-H2O-Xtream-Upgrade-1
 Disallow: /Your-Council/Our-projects-and-initiatives/Copy-of-LTP-consultation-H2O-Xtream-Upgrade-1
 Disallow: /Your-Council/Our-projects-and-initiatives/H2O-Xtream-Upgrade
 Disallow: /Your-Council/Our-projects-and-initiatives/H2O-Xtream-Upgrade-v2

@@ -602,7 +602,6 @@ Disallow: /Services/Dogs-and-other-animals/Dogs/Lost-dogs-Xmas
 Disallow: /Services/Dogs-and-other-animals/Dogs/Register-a-new-dog
 Disallow: /Services/Dogs-and-other-animals/Dogs/Register-your-dog/Copy-of-Renew-your-dog-registration-1
 Disallow: /Services/Dogs-and-other-animals/Dogs/Register-your-dog/Copy-of-Thank-you-for-signing-up-for-dog-emails-1
-Disallow: /Services/Dogs-and-other-animals/Dogs/Register-your-dog/New-page
 Disallow: /Services/Dogs-and-other-animals/Dogs/Register-your-dog/Register-a-new-dog
 Disallow: /Services/Dogs-and-other-animals/Dogs/Register-your-dog/Renew-your-dog-registration
 Disallow: /Services/Dogs-and-other-animals/Dogs/Register-your-dog/Sign-up-to-receive-dog-rego-notices-by-email
