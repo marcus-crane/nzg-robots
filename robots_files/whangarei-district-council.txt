@@ -737,6 +737,7 @@ Disallow: /library/Home/Featured-Content/New-page
 Disallow: /library/Home/Featured-Content/New-website-feeback
 Disallow: /library/Home/Featured-Content/Northland-heritage-online
 Disallow: /library/Home/Featured-Content/Northland-heritage-online-feature
+Disallow: /library/Home/Featured-Content/NZ-music-month
 Disallow: /library/Home/Featured-Content/NZ-sign-language-week
 Disallow: /library/Home/Featured-Content/Preschool-funtimes
 Disallow: /library/Home/Featured-Content/Raranga-tonu

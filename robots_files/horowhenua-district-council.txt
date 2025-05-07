@@ -961,7 +961,6 @@ Disallow: /Minutes-Agendas/October-20-2021/Copy-of-Agenda-20-October-2021-1
 Disallow: /Minutes-Agendas/October-20-2021/Minutes-20-October-2021
 Disallow: /Minutes-Agendas/October-20-2021/New-page
 Disallow: /Minutes-Agendas/October-20-2021/Representation-Review-Late-Submissions
-Disallow: /MyCity/*
 Disallow: /My-Neighbourhood/Copy-of-Albus-Dumbledore
 Disallow: /News/Creative-Communities-Grant-applications-open
 Disallow: /News/Nominations-invited-for-Horowhenua-Creative-Communities-Committee

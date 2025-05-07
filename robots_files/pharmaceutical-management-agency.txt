@@ -12,4 +12,3 @@ Disallow: /page-not-found
 Disallow: /server-error
 Disallow: /maintenance
 Disallow: /links/new-content-page
-Disallow: /news-and-resources/news/test-news-article
