@@ -1957,6 +1957,7 @@ Disallow: /Temporary-Announcements/Event-registration
 Disallow: /Temporary-Announcements/Financial-services-over-summer-break
 Disallow: /Temporary-Announcements/Food-COVID-Announcement
 Disallow: /Temporary-Announcements/Food-Cyclone-Announcement
+Disallow: /Temporary-Announcements/Footpath-work-in-Cafler-Park
 Disallow: /Temporary-Announcements/Free-Car-Park
 Disallow: /Temporary-Announcements/Free-car-parking
 Disallow: /Temporary-Announcements/Free-Dog-Registration

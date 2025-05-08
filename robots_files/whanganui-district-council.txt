@@ -434,6 +434,9 @@ Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minu
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-7-May-2024/Confirmed-Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-7-May-2024/Reference
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-7-May-2024/Reference-petition
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-Annual-Plan-hearings-13-May-2025/Agenda
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-Annual-Plan-hearings-13-May-2025/New-page
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-Annual-Plan-hearings-13-May-2025/Submissions-of-those-speaking-to-their-submission-Annual-Plan-2025
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-Controlled-Organisations-and-Economic-Development-Committee-13-August-2024/Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-Controlled-Organisations-and-Economic-Development-Committee-13-August-2024/Confirmed-Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Council-Controlled-Organisations-and-Economic-Development-Committee-13-August-2024/New-page
