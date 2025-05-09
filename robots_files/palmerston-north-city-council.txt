@@ -82,6 +82,7 @@ Disallow: /Contact-us/Roslyn-Library
 Disallow: /Contact-us/Te-Patikitiki
 Disallow: /Contact-us/Youth-Space
 Disallow: /Council/About-Council/Elected-members/archives/*
+Disallow: /Council/About-Council/International-relations/Sister-cities/Sister-cities/*
 Disallow: /Council/About-Council/Mayor-and-Councillors/archives/*
 Disallow: /Council/Bylaws-regulations/Alcohol-licensing
 Disallow: /Council/Bylaws-regulations/Alcohol-licensing/Bylaws/*
@@ -199,7 +200,7 @@ Disallow: /Image-Galleries/SMP-Te-Wanaka-Road
 Disallow: /Image-Galleries/SMP-turitea
 Disallow: /Image-Galleries/SMP-valley-views
 Disallow: /Image-Galleries/WMMP-2024
-Disallow: /International-relations-wireframe/*
+Disallow: /International-relations-wireframe
 Disallow: /International-relations-wireframe/Sister-cities/Sister-cities/*
 Disallow: /Long-term-plan/Key-topics-well-be-asking-for-feedback-on
 Disallow: /Long-term-plan/The-planning-process
@@ -217,7 +218,7 @@ Disallow: /LTP/What-were-asking-you-about/Rates-review/Background-and-review-pro
 Disallow: /LTP/What-were-asking-you-about/Rates-review/Rates-system-options
 Disallow: /LWDW/*
 Disallow: /LWDW-wireframe/*
-Disallow: /New-page/*
+Disallow: /New-page
 Disallow: /News-Events/Events/Community-events-survey
 Disallow: /News-Events/Events/cross-events-tab-page
 Disallow: /News-Events/Events/Drop-in-sessions-Featherston-Street-safety-upgrades/Central-Energy-Trust-Arena-drop-in-session

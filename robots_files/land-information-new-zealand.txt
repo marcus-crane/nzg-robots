@@ -71,3 +71,22 @@ Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
+
+Disallow: /resources?*
+Disallow: /news?*
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Sogou
+Disallow: /
+
+User-agent: YisouSpider
+Disallow: /
+
+User-agent: 360Spider
+Disallow: /
+
+User-agent: YoudaoBot
+Disallow: /
+Sitemap: https://www.linz.govt.nz/sitemap.xml
