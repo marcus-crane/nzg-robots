@@ -1186,12 +1186,12 @@ Disallow: /News-Events/Events/Photography-disclaimer
 Disallow: /News-Events/Events/TeenBrain2
 Disallow: /News-Events/Events/The-Teen-Brain-–-A-Nathan-Wallis-Seminar
 Disallow: /News-Events/Organising-An-Event/Events-Notification/Events-Notification-Form-Submitted
-Disallow: /News-Events/Publications/Community-Connection/CC-2023
+Disallow: /News-Events/Publications/Community-Connection/CC-2023/*
 Disallow: /News-Events/Publications/Community-Connection/CC-2023/CC-2024/*
 Disallow: /News-Events/Publications/Community-Connection/CC-2023/New-page/*
 Disallow: /News-Events/Publications/Community-Connection/CC-2024/*
 Disallow: /News-Events/Publications/Community-Connection/CC-2025/*
-Disallow: /News-Events/Publications/Community-Connection/Copy-of-CC-2022-1
+Disallow: /News-Events/Publications/Community-Connection/Copy-of-CC-2022-1/*
 Disallow: /News-Events/Publications/Community-Connection/Copy-of-Message-from-the-Mayor-March-2022-1
 Disallow: /News-Events/Publications/Community-Connection/Council-services-and-facilities-at-Orange
 Disallow: /News-Events/Publications/Community-Connection/Council-services-and-facilities-at-Orange-article

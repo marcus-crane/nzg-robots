@@ -722,7 +722,7 @@ Disallow: /library/Home/Featured-Content/He-Kakano-feature
 Disallow: /library/Home/Featured-Content/Heritage
 Disallow: /library/Home/Featured-Content/Heritage-talk
 Disallow: /library/Home/Featured-Content/Heritage-talk-feature
-Disallow: /library/Home/Featured-Content/Jigsaw-puzzle-exchange
+Disallow: /library/Home/Featured-Content/Jigsaw-puzzle-exchange-feature
 Disallow: /library/Home/Featured-Content/JP-services
 Disallow: /library/Home/Featured-Content/LEGO-Club
 Disallow: /library/Home/Featured-Content/LEGO-club-feature

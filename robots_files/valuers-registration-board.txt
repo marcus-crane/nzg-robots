@@ -74,6 +74,7 @@ Disallow: /index.php/*/media/oembed
 
 Disallow: /resources?*
 Disallow: /news?*
+Disallow: /mi/node/9778*
 
 User-agent: Baiduspider
 Disallow: /
