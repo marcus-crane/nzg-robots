@@ -2138,8 +2138,11 @@ Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2023/Submiss
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2023/Submissions-close
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2025/Annual-Plan-2025-online-form
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2025/Timeline/*
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2025/Timeline/Adoption
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2025/Timeline/Consultation-closes
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2025/Timeline/Consultation-opens
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2025/Timeline/Copy-of-Adoption-1
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2025/Timeline/Deliberations
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2025/Timeline/Drop-in-Hikurangi
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2025/Timeline/Drop-in-Ruakaka
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2025/Timeline/Drop-in-Te-Iwitahi
@@ -2213,8 +2216,10 @@ Disallow: /Whats-new/Have-your-say/Closed-Consultations/Fees-and-Charges-2023/Fe
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Fees-and-Charges-2023/Hearing
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Fees-and-Charges-2025/Fees-and-Charges-2025-online-form
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Fees-and-Charges-2025/Timeline/*
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Fees-and-Charges-2025/Timeline/Adoption
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Fees-and-Charges-2025/Timeline/Consultation-closes
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Fees-and-Charges-2025/Timeline/Consultation-opens
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/Fees-and-Charges-2025/Timeline/Deliberations
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Fees-and-Charges-2025/Timeline/Hearings
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Hazards-plan-change/Feedback-closes
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Hazards-plan-change/Feedback-opens

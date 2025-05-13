@@ -9,3 +9,4 @@ Disallow: /*_login
 Disallow: /*_performance
 Disallow: /*_design
 Disallow: /*_web_services
+Disallow: /search
