@@ -589,6 +589,7 @@ Disallow: /Home/Tabs/Quick-links/Cyclone-updates
 Disallow: /Home/Tabs/Quick-links/Dogs
 Disallow: /Home/Tabs/Quick-links/Elections
 Disallow: /Home/Tabs/Quick-links/Freedom-camping
+Disallow: /Home/Tabs/Quick-links/Is-The-Game-On
 Disallow: /Home/Tabs/Quick-Links/Maps
 Disallow: /Home/Tabs/Quick-links/New-page
 Disallow: /Home/Tabs/Quick-links/Projects
