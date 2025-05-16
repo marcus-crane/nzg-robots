@@ -731,6 +731,7 @@ Disallow: /library/Home/Featured-Content/Library-closure
 Disallow: /library/Home/Featured-Content/Library-services-presentation
 Disallow: /library/Home/Featured-Content/Lions-Club-Toy-Appeal
 Disallow: /library/Home/Featured-Content/memory-tree
+Disallow: /library/Home/Featured-Content/Micro-rave-feature
 Disallow: /library/Home/Featured-Content/Mobile-library
 Disallow: /library/Home/Featured-Content/Monthly-mindfulness-feature
 Disallow: /library/Home/Featured-Content/Mothers-day
