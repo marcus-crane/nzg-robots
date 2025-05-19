@@ -1930,6 +1930,7 @@ Disallow: /Temporary-Announcements/AP-Consultation
 Disallow: /Temporary-Announcements/Botanica
 Disallow: /Temporary-Announcements/Botanica-closed
 Disallow: /Temporary-Announcements/Brynderwyns-repairs-delayed
+Disallow: /Temporary-Announcements/Candidates-Information-Evening
 Disallow: /Temporary-Announcements/Canopy-Walkway-temporary-closure
 Disallow: /Temporary-Announcements/Changes-to-community-funding
 Disallow: /Temporary-Announcements/Civic-Honours

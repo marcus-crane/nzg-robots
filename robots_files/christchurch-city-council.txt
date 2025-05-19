@@ -2,3 +2,4 @@ User-agent: *
 Crawl-delay: 10
 Disallow: /*/allchanges
 Disallow: /*/changes
+Disallow: /search-results

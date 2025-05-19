@@ -811,6 +811,7 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-March-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-May-2025/Council-Agenda-19-May-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-May-2025/New-page
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-May-2025/Update-to-the-Council-Agenda-19-and-20-May-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-1-February-2023/Council-Agenda-1-February-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-1-February-2023/Council-Minutes-1-February-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-1-February-2023/Late-Item-Appointment-of-Pecuniary-Interests-Registrar
@@ -974,7 +975,6 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Hutt-Valley-Services/Hutt-Valley-Services-Committee-24-November-2023/Hutt-Valley-Services-Committee-Minutes-24-November-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Hutt-Valley-Services/Hutt-Valley-Services-Committee-2-May-2025/Hutt-Valley-Services-Committee-Agenda-2-May-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Hutt-Valley-Services/Hutt-Valley-Services-Committee-2-May-2025/New-page
-Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Hutt-Valley-Services/Hutt-Valley-Services-Committee-2-May-2025/Tabled-document-from-Daniel-Chrisp
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Hutt-Valley-Services/Hutt-Valley-Services-Committee-2-May-2025/Unconfirmed-Hutt-Valley-Services-Committee-Minutes-2-May-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Hutt-Valley-Services/Hutt-Valley-Services-Committee-3-May-2024/Hutt-Valley-Services-Committee-Agenda-3-May-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Hutt-Valley-Services/Hutt-Valley-Services-Committee-3-May-2024/Hutt-Valley-Services-Committee-Minutes-3-May-2024
