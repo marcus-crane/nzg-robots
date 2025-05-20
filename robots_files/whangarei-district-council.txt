@@ -339,6 +339,7 @@ Disallow: /Events/Forum-North/FN-patron-survey
 Disallow: /Events/Forum-North/FN-Venue-feedback
 Disallow: /Events/Forum-North/Forum-North-booking-enquiry
 Disallow: /Events/Grant-workshops-20250526
+Disallow: /Events/Grant-workshops-20250624
 Disallow: /Events/Motorsport-Festival
 Disallow: /Events/Ngunguru-seawall-dropin-20220802/Ngunguru-sports-complex-20220802
 Disallow: /Events/Ngunguru-seawall-dropin-20220802/Tutukaka-marina-20220813
@@ -2381,6 +2382,11 @@ Disallow: /Whats-new/Have-your-say/Closed-Consultations/RQ2300004-Ministry-of-Ed
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/RQ2300004-Ministry-of-Education/Timeline/*
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/RQ2300004-Ministry-of-Education/Timeline/Submissions-close
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/RQ2300004-Ministry-of-Education/Timeline/Submissions-open
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/RWWTP-Interim-Solution/RWWTP-online-form
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/RWWTP-Interim-Solution/Timeline/*
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/RWWTP-Interim-Solution/Timeline/Feedback-closes
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/RWWTP-Interim-Solution/Timeline/Feedback-opens
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/RWWTP-Interim-Solution/Timeline/Info-session
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/SL2100046-Hurupaki-Holdings/Copy-of-SL2100046-submission-form-1
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/SL2100046-Hurupaki-Holdings/SL2100046-submission-form
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/SL2100046-Hurupaki-Holdings/Timeline/Consultation-closes

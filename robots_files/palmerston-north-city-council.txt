@@ -462,6 +462,8 @@ Disallow: /Participate-Palmy/Council-meetings/Upcoming-meetings-and-agendas/Coun
 Disallow: /Participate-Palmy/Council-meetings/Upcoming-meetings-and-agendas/Council-Meeting-15-February-2023
 Disallow: /Participate-Palmy/Council-meetings/Upcoming-meetings-and-agendas/Council-Meeting-1-March-2023
 Disallow: /Participate-Palmy/Elections/2022-Local-Elections
+Disallow: /Participate-Palmy/Elections/Copy-of-local-elections-FAQs-1
+Disallow: /Participate-Palmy/Elections/Copy-of-local-elections-FAQs-backcup
 Disallow: /Participate-Palmy/Elections/For-voters-EN/Your-candidates/*
 Disallow: /Participate-Palmy/Elections/How-to-stand
 Disallow: /Participate-Palmy/Elections/Key-dates-for-local-elections/Election-timeline/*
