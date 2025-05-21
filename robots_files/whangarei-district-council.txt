@@ -2000,6 +2000,7 @@ Disallow: /Temporary-Announcements/Ruakaka-service-centre-closed
 Disallow: /Temporary-Announcements/Rubbish-collection
 Disallow: /Temporary-Announcements/Shared-Path-temporary-closure
 Disallow: /Temporary-Announcements/Te-Matau-a-Pohe-bridge-planned-closure
+Disallow: /Temporary-Announcements/Temporary-partial-closure-Reotahi-walkway
 Disallow: /Temporary-Announcements/Temporary-road-closure-application-closedown
 Disallow: /Temporary-Announcements/Tip-Road-extension
 Disallow: /Temporary-Announcements/Town-Basin-carpark-closure-20230405
