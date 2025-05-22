@@ -97,7 +97,6 @@ Disallow: /Contact-us/Copy-of-Stay-connected-1
 Disallow: /Contact-us/Do-it-online/*
 Disallow: /Contact-us/Do-it-online/General-Enquiry-or-Issue
 Disallow: /Contact-us/Do-it-online/Report-an-abandoned-vehicle
-Disallow: /Contact-us/Do-it-online/Report-an-animal-matter
 Disallow: /Contact-us/Do-it-online/Report-a-waste-issue
 Disallow: /Contact-us/Do-it-online/Report-a-water-leak-or-outage
 Disallow: /Contact-us/Do-it-online/Report-excessive-noise
@@ -113,7 +112,6 @@ Disallow: /Contact-us/Report-and-request/*
 Disallow: /Contact-us/Report-and-request/General-Enquiry-or-Issue
 Disallow: /Contact-us/Report-and-request/New-page
 Disallow: /Contact-us/Report-and-request/Report-an-abandoned-vehicle
-Disallow: /Contact-us/Report-and-request/Report-an-animal-matter
 Disallow: /Contact-us/Report-and-request/Report-an-issue-with-street-lights
 Disallow: /Contact-us/Report-and-request/Report-a-waste-issue
 Disallow: /Contact-us/Report-and-request/Report-a-water-leak-or-outage
@@ -125,7 +123,6 @@ Disallow: /Contact-us/Report-and-request/Street-stall-food-truck-appeal-raffle-a
 Disallow: /Contact-us/Report-a-problem/*
 Disallow: /Contact-us/Report-a-problem/General-Enquiry-or-Issue
 Disallow: /Contact-us/Report-a-problem/Report-an-abandoned-vehicle
-Disallow: /Contact-us/Report-a-problem/Report-an-animal-matter
 Disallow: /Contact-us/Report-a-problem/Report-a-waste-issue
 Disallow: /Contact-us/Report-a-problem/Report-a-water-leak-or-outage
 Disallow: /Contact-us/Report-a-problem/Report-excessive-noise
@@ -775,7 +772,9 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-7-February-2024/City-Services-Committee-Agenda-7-February-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-7-February-2024/City-Services-Committee-Minutes-7-February-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-7-May-2025/City-Services-Committee-Agenda-7-May-2025
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-7-May-2025/City-Services-Committee-Minutes-7-May-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-7-May-2025/New-page
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-7-May-2025/Unconfirmed-City-Services-Committee-Minutes-7-May-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-8-February-2023/City-Services-Committee-Agenda-8-February-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-8-February-2023/City-Services-Committee-Minutes-8-February-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-Meeting-2-October-2024/City-Services-Committee-Agenda-2-October-2024
@@ -887,6 +886,7 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Emergency-Council-30-August-2023/Emergency-Council-Agenda-30-August-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Emergency-Council-30-August-2023/Emergency-Council-Minutes-30-August-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Extraordinary-Council-14-May-2025/Extraordinary-Council-Agenda-14-May-2025
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Extraordinary-Council-14-May-2025/Extraordinary-Council-Minutes-14-May-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Extraordinary-Council-14-May-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Extraordinary-Council-14-May-2025/Resolutions-passed-at-Extraordinary-Council-14-May-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Extraordinary-Council-27-June-2024/Extraordinary-Council-Agenda-27-June-2024

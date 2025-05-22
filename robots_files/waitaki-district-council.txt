@@ -400,6 +400,7 @@ Disallow: /WarrantedOfficers-Building
 Disallow: /WarrantedOfficers-Network
 Disallow: /WarrantedOfficers-Planning
 Disallow: /WarrantedOfficers-Regulatory
+Disallow: /WarrantedOfficers-Roger
 Disallow: /wdcplanningsurvey
 Sitemap : https://www.waitaki.govt.nz/sitemap.xml
 Sitemap : https://www.waitaki.govt.nz/Libraries/sitemap.xml

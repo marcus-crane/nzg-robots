@@ -906,7 +906,6 @@ Disallow: /library/Visit/Locations/Community-Libraries/Whananaki-Community-Libra
 Disallow: /library/Visit/Locations/Community-Libraries/Whangarei-Heads-Community-Library
 Disallow: /library/Visit/Locations/Locations-list/Maungatapere-Playcentre
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Avenues-Educare
-Disallow: /library/Visit/Locations/Locations-list/Mobile-Awhi-Early-Learning-Centre
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Back-2-Basics-Childcare
 Disallow: /library/Visit/Locations/Locations-list/Mobile-BestStart-Kamo-Central
 Disallow: /library/Visit/Locations/Locations-list/Mobile-BestStart-Kensington-Crossing
@@ -941,7 +940,6 @@ Disallow: /library/Visit/Locations/Locations-list/Mobile-He-Waka-Eke-Noa-Early-L
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Hikurangi-Kindergarten
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Hora-Hora-Kindergarten
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Hurupaki-Kindergarten
-Disallow: /library/Visit/Locations/Locations-list/Mobile-Inspired-Minds-Early-Learning-Centre
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Jane-Mander-Retirement-Village
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Kamo-Childcare-Centre
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Kamo-Home-and-Village
@@ -997,7 +995,6 @@ Disallow: /library/Visit/Locations/Locations-list/Mobile-Ruakākā-Library
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Ruatangata-Hall
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Saorsa-Retirement-Village
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Selwyn-Park-Village
-Disallow: /library/Visit/Locations/Locations-list/Mobile-Selwyn-Pārk-Village
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Shalom-Rest-Home
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Simply-Kids
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Small-Poppies
@@ -1009,6 +1006,8 @@ Disallow: /library/Visit/Locations/Locations-list/Mobile-Stonehaven-Retirement-V
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Takahiwai-Marae
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Tauraroa-Community-Library
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Taurikura-Hall
+Disallow: /library/Visit/Locations/Locations-list/Mobile-Te-Kamo-Kindergarten
+Disallow: /library/Visit/Locations/Locations-list/Mobile-The-Anchorage-Retirement-Village
 Disallow: /library/Visit/Locations/Locations-list/Mobile-The-Falls-Estate
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Three-Little-Birds-Mill-Road
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Three-Little-Birds-Tikipunga
@@ -1124,8 +1123,6 @@ Disallow: /library/Visit/Locations-list/Mobile-Ruakaka-Library
 Disallow: /library/Visit/Locations-list/Mobile-Ruakākā-Library
 Disallow: /library/Visit/Locations-list/Mobile-Ruatangata-Hall
 Disallow: /library/Visit/Locations-list/Mobile-Saorsa-Retirement-Village
-Disallow: /library/Visit/Locations-list/Mobile-Selwyn-Park-Village
-Disallow: /library/Visit/Locations-list/Mobile-Selwyn-Pārk-Village
 Disallow: /library/Visit/Locations-list/Mobile-Shalom-Rest-Home
 Disallow: /library/Visit/Locations-list/Mobile-Simply-Kids
 Disallow: /library/Visit/Locations-list/Mobile-Small-Poppies
@@ -1208,7 +1205,6 @@ Disallow: /library/Visit/Public-Libraries/Mobile-Raumanga-Kindergarten
 Disallow: /library/Visit/Public-Libraries/Mobile-Ruakaka-Library
 Disallow: /library/Visit/Public-Libraries/Mobile-Ruatangata-Hall
 Disallow: /library/Visit/Public-Libraries/Mobile-Saorsa-Retirement-Village
-Disallow: /library/Visit/Public-Libraries/Mobile-Selwyn-Park-Village
 Disallow: /library/Visit/Public-Libraries/Mobile-Shalom-Rest-Home
 Disallow: /library/Visit/Public-Libraries/Mobile-Simply-Kids
 Disallow: /library/Visit/Public-Libraries/Mobile-Small-Poppies
