@@ -1078,7 +1078,6 @@ Disallow: /library/Visit/Locations-list/Mobile-He-Waka-Eke-Noa-Early-Learning-Ce
 Disallow: /library/Visit/Locations-list/Mobile-Hikurangi-Kindergarten
 Disallow: /library/Visit/Locations-list/Mobile-Hora-Hora-Kindergarten
 Disallow: /library/Visit/Locations-list/Mobile-Hurupaki-Kindergarten
-Disallow: /library/Visit/Locations-list/Mobile-Inspired-Minds-Early-Learning-Centre
 Disallow: /library/Visit/Locations-list/Mobile-Jane-Mander-Retirement-Village
 Disallow: /library/Visit/Locations-list/Mobile-Kamo-Childcare-Centre
 Disallow: /library/Visit/Locations-list/Mobile-Kamo-Home-and-Village
@@ -1175,7 +1174,6 @@ Disallow: /library/Visit/Public-Libraries/Mobile-He-Waka-Eke-Noa-Early-Learning-
 Disallow: /library/Visit/Public-Libraries/Mobile-Hikurangi-Kindergarten
 Disallow: /library/Visit/Public-Libraries/Mobile-Hora-Hora-Kindergarten
 Disallow: /library/Visit/Public-Libraries/Mobile-Hurupaki-Kindergarten
-Disallow: /library/Visit/Public-Libraries/Mobile-Inspired-Minds-Early-Learning-Centre
 Disallow: /library/Visit/Public-Libraries/Mobile-Jane-Mander-Retirement-Village
 Disallow: /library/Visit/Public-Libraries/Mobile-Kamo-Childcare-Centre
 Disallow: /library/Visit/Public-Libraries/Mobile-Kamo-Home-and-Village

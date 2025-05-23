@@ -31,6 +31,7 @@ Disallow: /Announcements/Temporary-boil-water-notice-issued-for-Pākaraka-rural-
 Disallow: /Announcements/Update-restricted-fire-season-–-Whanganui-coast-and-urban-area
 Disallow: /Announcements/Use-water-sensibly
 Disallow: /Announcements/Whanganui-Elections-2022-results
+Disallow: /Announcements/Win-a-100-grocery-voucher-CVS-survey
 Disallow: /Announcements/Win-a-50-grocery-voucher
 Disallow: /Community-and-Culture/Anzac-Day/Anzac-rotating-banner/First-dawn-Anzac-parade
 Disallow: /Community-and-Culture/Anzac-Day/Anzac-rotating-banner/Whanganuis-War-Memorial-in-Queens-Park
@@ -2754,6 +2755,12 @@ Disallow: /Your-Council/Have-Your-Say/Consultations/Finance-and-Rates-Remission-
 Disallow: /Your-Council/Have-Your-Say/Consultations/Finance-Rates-Remission-and-Postponement-policies-consultation/Discussions
 Disallow: /Your-Council/Have-Your-Say/Consultations/Finance-Rates-Remission-and-Postponement-policies-consultation/Latest-Updates
 Disallow: /Your-Council/Have-Your-Say/Consultations/Finance-Rates-Remission-and-Postponement-policies-consultation/Timeline
+Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Discussions
+Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Latest-Updates
+Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Timeline
+Disallow: /Your-Council/Have-Your-Say/Consultations/Future-of-125-Grey-Street/Discussions
+Disallow: /Your-Council/Have-Your-Say/Consultations/Future-of-125-Grey-Street/Latest-Updates
+Disallow: /Your-Council/Have-Your-Say/Consultations/Future-of-125-Grey-Street/Timeline
 Disallow: /Your-Council/Have-Your-Say/Consultations/Have-your-say-working-together-post-settlement/Discussions
 Disallow: /Your-Council/Have-Your-Say/Consultations/Have-your-say-working-together-post-settlement/Latest-Updates
 Disallow: /Your-Council/Have-Your-Say/Consultations/Have-your-say-working-together-post-settlement/Timeline/*

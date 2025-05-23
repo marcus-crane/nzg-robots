@@ -73,7 +73,7 @@ Disallow: /Council/About-our-Council/Copy-of-Warranted-Officers-Building-Team-1
 Disallow: /Council/About-our-Council/Council-Enforcement-Officers-Building-Team
 Disallow: /Council/About-our-Council/Mayor-and-Councillors/Elected-Officials/*
 Disallow: /Council/About-our-Council/Warranted-Officers-Building-Team
-Disallow: /Council/About-our-Council/Warranted-Officers-Network-Team
+Disallow: /Council/About-our-Council/Warranted-Officers-Infrastructure-and-Network-Management-Team
 Disallow: /Council/About-our-Council/Warranted-Officers-Planning-Team
 Disallow: /Council/About-our-Council/Warranted-Officers-Regulatory-Team
 Disallow: /Council/About-our-Council/Warranted-Officers-Roger-Cook

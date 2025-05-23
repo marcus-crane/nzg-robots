@@ -395,6 +395,7 @@ Disallow: /Events-Activities/Background-Images/*
 Disallow: /Events-Activities/Copy-of-Background-Images/*
 Disallow: /FAQs/*
 Disallow: /FAQs/FAQs-Council-Projects/*
+Disallow: /General-Pages/Rss-Feeds
 Disallow: /Glossary/Copy-of-Te-Reo-Hapori-1
 Disallow: /Glossary/Copy-of-Te-Reo-Hapū-1
 Disallow: /Glossary/Copy-of-Te-Reo-Kaitiaki-1
@@ -1376,6 +1377,7 @@ Disallow: /Services/Home-Property/Weed-Control/No-Spray-Register/No-Spray-Regist
 Disallow: /Services/OnlineServices/CaptureYourHorowhenua-entry
 Disallow: /System-pages/A-Z-Services/Alcohol-Licensing
 Disallow: /System-pages/A-Z-Services/New-page
+Disallow: /System-pages/Rss-Feeds
 Disallow: /System-pages-do-not-edit/My-Neighbourhood
 Disallow: /System-pages-do-not-edit/New-page
 Disallow: /System-pages-do-not-edit/Page-not-found

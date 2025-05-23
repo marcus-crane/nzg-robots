@@ -589,16 +589,6 @@ Disallow: /Services/Cemeteries-and-cremation/Kelvin-Grove-Cemetery
 Disallow: /Services/Cemeteries-and-cremation/New-page
 Disallow: /Services/Cemeteries-and-cremation/Terrace-End-Cemetery
 Disallow: /Services/Dogs-and-other-animals/Dogs/Copy-of-Register-your-dog-1
-Disallow: /Services/Dogs-and-other-animals/Dogs/Lost-dogs/10008-Baby-Huntaway-Cross
-Disallow: /Services/Dogs-and-other-animals/Dogs/Lost-dogs/10088-Baby-Huntaway-Cross
-Disallow: /Services/Dogs-and-other-animals/Dogs/Lost-dogs/10088-Bull-Terrier-Cross
-Disallow: /Services/Dogs-and-other-animals/Dogs/Lost-dogs/10116-Puppa-Bull-Cross
-Disallow: /Services/Dogs-and-other-animals/Dogs/Lost-dogs/10117-Rexie-Mastiff
-Disallow: /Services/Dogs-and-other-animals/Dogs/Lost-dogs/Bull-Terrier-Cross-10088
-Disallow: /Services/Dogs-and-other-animals/Dogs/Lost-dogs/Copy-of-10088-Bull-Terrier-Cross-1
-Disallow: /Services/Dogs-and-other-animals/Dogs/Lost-dogs/Copy-of-10115-Staffie-cross-1
-Disallow: /Services/Dogs-and-other-animals/Dogs/Lost-dogs/Copy-of-10116-Puppa-Bull-Cross-1
-Disallow: /Services/Dogs-and-other-animals/Dogs/Lost-dogs/Copy-of-10117-Rexie-Mastiff-1
 Disallow: /Services/Dogs-and-other-animals/Dogs/Lost-dogs-Xmas
 Disallow: /Services/Dogs-and-other-animals/Dogs/Register-a-new-dog
 Disallow: /Services/Dogs-and-other-animals/Dogs/Register-your-dog/Copy-of-Renew-your-dog-registration-1
