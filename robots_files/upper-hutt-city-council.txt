@@ -1087,6 +1087,8 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Workshop/Workshop-22-May-2024/Workshop-material
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Workshop/Workshop-25-February-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Workshop/Workshop-25-February-2025/Workshop-Agenda-25-February-2025
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Workshop/Workshop-27-May-2025/New-page
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Workshop/Workshop-27-May-2025/Workshop-Agenda-27-May-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Workshop/Workshop-27-November-2024/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Workshop/Workshop-27-November-2024/Workshop-Agenda-27-November-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Workshop/Workshop-27-November-2024/Workshop-Agenda-Local-Water-Done-Well-27-November-2024

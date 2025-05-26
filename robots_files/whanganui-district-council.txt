@@ -146,6 +146,7 @@ Disallow: /Home/Featured-Content/Community-initiatives
 Disallow: /Home/Featured-Content/Copy-of-Dog-registrations-due-1
 Disallow: /Home/Featured-Content/Copy-of-Long-Term-Plan-2024-2034-1
 Disallow: /Home/Featured-Content/Dog-registrations-due
+Disallow: /Home/Featured-Content/Dogs
 Disallow: /Home/Featured-Content/Food-scraps-collection-trial
 Disallow: /Home/Featured-Content/Have-your-say-Working-together-post-settlement
 Disallow: /Home/Featured-Content/It’s-dog-registration-time
