@@ -1156,6 +1156,10 @@ Disallow: /News-Events/Events/Event-Calendar/Levin-Table-Tennis/New-page
 Disallow: /News-Events/Events/Event-Calendar/Levin-Table-Tennis/Thursday-session
 Disallow: /News-Events/Events/Event-Calendar/Levin-Table-Tennis/Wednesday-session
 Disallow: /News-Events/Events/Event-Calendar/Monday-session
+Disallow: /News-Events/Events/Event-Calendar/Powering-Up/Age-Concern
+Disallow: /News-Events/Events/Event-Calendar/Powering-Up/Heartland-Services
+Disallow: /News-Events/Events/Event-Calendar/Powering-Up/New-page
+Disallow: /News-Events/Events/Event-Calendar/Powering-Up/Te-Puāwaitanga-o-Hanana
 Disallow: /News-Events/Events/Event-Calendar/Proposed-Plan-Change-6A-Drop-In-Session/Drop-in-Session-Council-Foyer
 Disallow: /News-Events/Events/Event-Calendar/Proposed-Plan-Change-6A-Drop-In-Session/New-page
 Disallow: /News-Events/Events/Event-Calendar/Remembrance-Day-2023/Copy-of-Remembrance-Day-2023-Foxton-1

@@ -75,8 +75,10 @@ Disallow: /Community/Events/Te-Kupenga-o-Rongomai-Unveiled/Te-Kupenga-o-Rongomai
 Disallow: /Community/Events/Upper-Hutt-Dog-Training-Club
 Disallow: /Community/Grants-and-funding/Economic-grants-and-incentives
 Disallow: /Community/Ki-Uta-app
+Disallow: /Community/Mana-Whenua/*
 Disallow: /Community/New-page
 Disallow: /Community/New-page-1
+Disallow: /Community/Our-Maori-heritage/*
 Disallow: /Community/Parks-Week/Parks-Week-Rotating-Banner/Child-on-swing
 Disallow: /Community/Parks-Week/Parks-Week-Rotating-Banner/Disc-Golf-at-Harcourt-Park
 Disallow: /Community/Parks-Week/Parks-Week-Rotating-Banner/Heretaunga-Park
@@ -529,6 +531,8 @@ Disallow: /Home/Engage-with-us/*
 Disallow: /Home/Engage-with-us/civic-award-nomination
 Disallow: /Home/Engage-with-us/Copy-of-Ki-Uta-app-1
 Disallow: /Home/Engage-with-us/Council-Meetings
+Disallow: /Home/Engage-with-us/Dog-Registration
+Disallow: /Home/Engage-with-us/Elections
 Disallow: /Home/Engage-with-us/H2O-Xtream-Vending-Machine-Expressions-of-Interest
 Disallow: /Home/Engage-with-us/Ki-Uta-app
 Disallow: /Home/Engage-with-us/Local-Water-Done-Well
@@ -565,7 +569,6 @@ Disallow: /Home/In-Focus/Beechwood-Lane-Bridge
 Disallow: /Home/In-Focus/Christmas
 Disallow: /Home/In-Focus/Christmas-in-Upper-Hutt
 Disallow: /Home/In-Focus/Composting-Month
-Disallow: /Home/In-Focus/Copy-of-Mana-whenua-1
 Disallow: /Home/In-Focus/History-of-Upper-Hutt
 Disallow: /Home/In-Focus/History-of-Upper-Hutt/Copy-of-Ki-Uta-app-1
 Disallow: /Home/In-Focus/History-of-Upper-Hutt/Long-term-plan
@@ -573,7 +576,6 @@ Disallow: /Home/In-Focus/Ki-Uta-app
 Disallow: /Home/In-Focus/Long-term-plan
 Disallow: /Home/In-Focus/Long-Term-Plan-2024-–-2034
 Disallow: /Home/In-Focus/Mana-whenua
-Disallow: /Home/In-Focus/Mana-whenua-heritage
 Disallow: /Home/In-Focus/My-Upper-Hutt
 Disallow: /Home/In-Focus/New-page
 Disallow: /Home/In-Focus/Parks-Week
@@ -589,8 +591,6 @@ Disallow: /Home/In-Focus/Welcoming-Communities
 Disallow: /Home/In-Focus/Welcoming-Week
 Disallow: /Home/In-Focus/Youth-Week
 Disallow: /Home/In-Focus-Featured-Content/*
-Disallow: /Home/In-Focus-Featured-Content/Mana-whenua-heritage
-Disallow: /Home/In-Focus-Featured-Content/New-page
 Disallow: /Home/In-Focus-Featured-Content/New-page-1
 Disallow: /Home/In-Focus-Featured-Content/Welcoming-Communities
 Disallow: /Home/L1-MASTER-TEST-EDIT-PAGE
@@ -1777,6 +1777,8 @@ Disallow: /Home/Tabs/New-page/Your-Council/How-we-work/Mayor-and-Councillors/Dyl
 Disallow: /Home/Tabs/New-page/Your-Council/How-we-work/Mayor-and-Councillors/Hellen-Swales
 Disallow: /Home/Tabs/New-page/Your-Council/How-we-work/Mayor-and-Councillors/Tracey-Ultra
 Disallow: /Home/Tabs/New-page/Your-Council/How-we-work/Mayor-and-Councillors/Wayne-Guppy
+Disallow: /Home/Tabs/New-page/Your-Council/Our-city/Our-Maori-heritage/*
+Disallow: /Home/Tabs/New-page/Your-Council/Our-city/Our-Māori-heritage/*
 Disallow: /Home/Tabs/New-page/Your-Council/Plans-policies-bylaws-and-reports/District-Plan/Code-of-Practice-for-Civil-Engineering-Works
 Disallow: /Home/Tabs/New-page/Your-Council/Plans-policies-bylaws-and-reports/District-Plan/PC38-Helens-page-work-in-progress
 Disallow: /Home/Tabs/New-page/Your-Council/Plans-policies-bylaws-and-reports/District-Plan/PC41
@@ -2842,6 +2844,9 @@ Disallow: /Your-Council/Meeting-Agendas-and-Minutes/Council-meetings-calendar/Ex
 Disallow: /Your-Council/Meeting-Agendas-and-Minutes/Council-meetings-calendar/Extraordinary-Council-Meeting-16-February-2021/*
 Disallow: /Your-Council/Meeting-Agendas-and-Minutes/Council-meetings-calendar/Finance-and-Performance-Committee-Meeting-25-August-2021/Minutes-Finance-and-Performance-Committee-Meeting-25-August-2021
 Disallow: /Your-Council/Meeting-Agendas-and-Minutes/Council-meetings-calendar/Risk-and-Assurance-Committee-Meeting-25-August-2021/Minutes-Risk-and-Assurance-Committee-Meeting-25-August-2021
+Disallow: /Your-Council/Our-city/New-page/*
+Disallow: /Your-Council/Our-city/Our-Maori-heritage/*
+Disallow: /Your-Council/Our-city/Our-Māori-heritage/*
 Disallow: /Your-Council/Our-projects-and-initiatives/Copy-of-H2O-Xtream-Upgrade-1
 Disallow: /Your-Council/Our-projects-and-initiatives/Copy-of-LTP-consultation-H2O-Xtream-Upgrade-1
 Disallow: /Your-Council/Our-projects-and-initiatives/H2O-Xtream-Upgrade

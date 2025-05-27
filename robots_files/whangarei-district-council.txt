@@ -38,6 +38,7 @@ Disallow: /Business/Building-in-Whangarei/Apply-for-a-Building-Consent
 Disallow: /Business/Licences-and-permits/Apply-for-a-buskers-permit
 Disallow: /Business/Licences-and-permits/Apply-for-a-street-appeal-permit
 Disallow: /Business/Licences-and-permits/Copy-of-Apply-for-a-buskers-permit-1
+Disallow: /Business/Licences-and-permits/Food-premises/Food-premises-fees
 Disallow: /Business/Licences-and-Permits/Roadwork-Permits-Approval
 Disallow: /CemeteryForms/*
 Disallow: /Community/Advisory-groups/DAG-Application-Form
@@ -179,10 +180,13 @@ Disallow: /Council/Contact-us/Copy-of-SC-Service-Centres-1
 Disallow: /Council/Contact-us/Official-Information-Request/OIA-form
 Disallow: /Council/Contact-Us/Rates-by-Email
 Disallow: /Council/Contact-us/Report-it/SC-Animal-issues
+Disallow: /Council/Contact-us/Report-it/SC-Cemetery-issues
 Disallow: /Council/Contact-us/Report-it/SC-Community-issues
+Disallow: /Council/Contact-us/Report-it/SC-Dog-issues
 Disallow: /Council/Contact-us/Report-it/SC-Facilities-issues
 Disallow: /Council/Contact-us/Report-it/SC-Food-health-issues
 Disallow: /Council/Contact-us/Report-it/SC-footpath-and-shared-path-issue
+Disallow: /Council/Contact-us/Report-it/SC-Other-animal-issues
 Disallow: /Council/Contact-us/Report-it/SC-Parking-issues
 Disallow: /Council/Contact-us/Report-it/SC-Parks-issues
 Disallow: /Council/Contact-us/Report-it/SC-Property-issues
@@ -957,6 +961,7 @@ Disallow: /library/Visit/Locations/Locations-list/Mobile-Kind-Hands
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Kingdom-Kidz
 Disallow: /library/Visit/Locations/Locations-list/Mobile-King-Street
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Kiwi-Kids-Early-Learning-Centre
+Disallow: /library/Visit/Locations/Locations-list/Mobile-Mains-Avenue
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Manaia-Kindergarten
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Manaia-View-Kindergarten
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Mangapai-Hall
@@ -1423,6 +1428,7 @@ Disallow: /Rotating-banners/Walks/Otuihau-Whangarei-Falls
 Disallow: /Rotating-banners/Walks/Otuihau-Whangārei-Falls
 Disallow: /Rotating-banners/Walks/Whale-Bay
 Disallow: /Sandbox/*
+Disallow: /Sandbox/Food-premises/Food-premises-fees
 Disallow: /Services/Building/Building-Consents/AlphaOne-portal
 Disallow: /Services/Building/Building-Consents/Apply-for-BC-online
 Disallow: /Services/Building/Building-Consents/Apply-for-PIM
@@ -1442,6 +1448,7 @@ Disallow: /Services/Cemeteries/SC-Cemetery-fees
 Disallow: /Services/Cemeteries/SC-Cemetery-issues
 Disallow: /Services/Dogs-Animals/Adopt-a-dog/Lost-animal-test
 Disallow: /Services/Dogs-Animals/Adopt-a-dog/New-page
+Disallow: /Services/Dogs-Animals/Copy-of-SC-Animal-enquiries-1
 Disallow: /Services/Dogs-Animals/Dog-access-rules-map
 Disallow: /Services/Dogs-Animals/Dog-areas/Dog-access-rules-map
 Disallow: /Services/Dogs-Animals/Dog-areas/Dog-agility-park

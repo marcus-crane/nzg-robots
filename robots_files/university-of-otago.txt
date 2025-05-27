@@ -1,136 +1,118 @@
-# Cloudflare Managed Robots.txt to block AI related bots.
+# Disallow some defaults
+User-agent: *
+Disallow: /*?sq_content_src=
 
-User-agent: AI2Bot
-Disallow: /
+# Disallow some specific paths
+Disallow: /future-students/about-dunedin
+Disallow: /transform/about/cosc
+Disallow: /future-students/subjects/dclindent
+Disallow: /christchurch/research/cardioendocrine
+Disallow: /christchurch/departments/mihi/professor-suzanne-pitama
+Disallow: /transform/christchurch/study/papers/admin
+Disallow: /accessibility
+Disallow: /marketing-services/accessibility
+Disallow: /coronavirus/information-for-staff
+Disallow: /courses/qualifications/mpharm
+Disallow: /courses/qualifications/mscicomm
+Disallow: /courses/qualifications/pgdippharm
+Disallow: /courses/subjects-and-papers
+Disallow: /resources/@humannutrition/images/profile-silhouette.png
+Disallow: /currentstudents/discontinued-programmes
+Disallow: /degree-requirements/master-of-applied-science-mappsc-in-science-communication
+Disallow: /degree-requirements/master-of-science-communication-mscicomm
+Disallow: /dsm-pathology/news/cancer-research-showcased-at-uoc-health-research-open-day
+Disallow: /dsm-pathology/news/poppable-cyst-cake-wins-bake-your-thesis-contest
+Disallow: /food-science/research/food-waste
+Disallow: /matai-haora-centre-for-redox-biology-and-medicine/staff/dr-louisa-ashby2
+Disallow: /geology/staff/academic
+Disallow: /geology/staff/general
+Disallow: /graduate-research/study/phddoctoral
+Disallow: /healthsciences/news/health-sciences-external-engagement
+Disallow: /resources/@public/pdfs/interprofessional-education-in-the-division-of-health-sciences-a-strategic-plan-2016-2019-234601.pdf
+Disallow: /healthsciences/students/professional/dentistry-interview-instructions
+Disallow: /transform/healthsciences/students/professional/radiation-therapy-interview-instructions
+Disallow: /transform/healthsciences/students/professional/congratulations-on-your-offer-of-a-place-in-the-dental-technology-programme
+Disallow: /healthsciences/students/professional/congratulations-on-your-offer-of-a-place-in-the-dentistry-programme
+Disallow: /transform/healthsciences/students/professional/congratulations-on-your-offer-of-a-place-in-the-medical-laboratory-science-programme
+Disallow: /transform/healthsciences/students/professional/congratulations-on-your-offer-of-a-place-in-the-radiation-therapy-programme
+Disallow: /healthsciences/students/professional/congratulations-on-your-offer-of-a-place-in-the-medicine-mb-chb-degree-programme-at-the-university-of-otago-medical-school
+Disallow: /transform/healthsciences/students/professional/congratulations-on-your-offer-of-a-place-in-the-oral-health-programme
+Disallow: /transform/healthsciences/students/professional/congratulations-on-your-offer-of-a-place-in-the-pharmacy-programme
+Disallow: /healthsciences/students/professional/congratulations-on-your-offer-of-a-place-in-the-physiotherapy-programme
+Disallow: /transform/healthsciences/students/professional/supporting-documentation-for-restricted-entry-programmes
+Disallow: /healthsciences/students/professional/congratulations
+Disallow: /transform/healthsciences/students/professional/interview-information-for-medicine-alternative-category-applicants
+Disallow: /transform/healthsciences/students/professional/dentistry-interview-instructions2
+Disallow: /law/research/emergingtechnologies/about-us-mo-matou-ra
+Disallow: /maoricentre/services/mentoring
+Disallow: /maoricentre/about/staff
+Disallow: /nclr/accessibility
+Disallow: /marketing-services/resources/utm
+Disallow: /oms/education/mbchb
+Allow: /oms/education/mbchb/staff/support/edssu
+Disallow: /oms/education/medlabsci
+Disallow: /oms/education/mbchb/about/accountability/external/msod
+Disallow: /otago-connection/students-take-on-relay
+Disallow: /pharmacy-clinic/appointment
+Disallow: /pharmacy-clinic/accessibility
+Disallow: /physio-clinic/christchurch/appointment
+Disallow: /physio-clinic/dunedin/appointment
+Disallow: /propertyservices/services/campus-development
+Disallow: /studentservices/otherservices/reporting-sexual-misconduct
+Disallow: /study/qualifications/mscicomm
+Disallow: /transform/postgraduate/getascholarship/vice-chancellors-scholarship-for-international-students-new-zealand
+Disallow: /transform/study/scholarships/getascholarship/vice-chancellors-scholarship-for-international-students-online
+Disallow: /theology/study/papers
+Disallow: /tools
+Disallow: /webservices
+Disallow: /wellington/departments/primaryhealthcaregeneralpractice/undergraduate/palliative-care-art-work
+Disallow: /study-public-health/news/archive/what-does-the-coronavirus-epidemic-mean-for-new-zealand
+Disallow: /zoology/study/papers
 
-User-agent: Amazonbot
-Disallow: /
+Disallow: /askotago-customerportal
+Disallow: /botany/outreach/florafinder
+Disallow: /continuingeducation/mihi-501-and-mihi-online-courses/mihi501-accordion-items
+Disallow: /courses/qualifications/engineering_intermediate
+Disallow: /__data/assets/image/0027/316926/relay-for-life-bald-health-science-image-643032.jpg
+Disallow: /__data/assets/pdf_file/0022/529150/QR-Tertiary-Poster-Otago-Dental.pdf
+Disallow: /currentstudents/discontinued-programmes/discontinued-programme-master-of-applied-science-mappsc-in-creative-non-fiction-writing-in-science
+Disallow: /currentstudents/discontinued-programmes/discontinued-programme-master-of-applied-science-mappsc-in-science-and-natural-history-filmmaking
+Disallow: /currentstudents/discontinued-programmes/discontinued-programme-master-of-applied-science-mappsc-in-science-in-society
+Disallow: /currentstudents/discontinued-programmes/discontinued-programme-master-of-science-communication-mscicomm-endorsed-in-creative-non-fiction-writing-in-science
+Disallow: /currentstudents/discontinued-programmes/discontinued-programme-master-of-science-communication-mscicomm-endorsed-in-science-and-natural-history-filmmaking
+Disallow: /currentstudents/discontinued-programmes/discontinued-programme-master-of-science-communication-mscicomm-endorsed-in-science-in-society
+Disallow: /currentstudents/discontinued-programmes/discontinued-programme-postgraduate-certificate-in-science-communication-pgcertscicomm-endorsed-in-creative-non-fiction-writing-in-science
+Disallow: /currentstudents/discontinued-programmes/discontinued-programme-postgraduate-certificate-in-science-communication-pgcertscicomm-endorsed-in-science-and-natural-history-filmmaking
+Disallow: /currentstudents/discontinued-programmes/discontinued-programme-postgraduate-certificate-in-science-communication-pgcertscicomm-endorsed-in-science-in-society
+Disallow: /currentstudents/discontinued-programmes/discontinued-programme-postgraduate-diploma-in-science-communication-pgdipscicomm-endorsed-in-creative-non-fiction-writing-in-science
+Disallow: /currentstudents/discontinued-programmes/discontinued-programme-postgraduate-diploma-in-science-communication-pgdipscicomm-endorsed-in-science-and-natural-history-filmmaking
+Disallow: /currentstudents/discontinued-programmes/discontinued-programme-postgraduate-diploma-in-science-communication-pgdipscicomm-endorsed-in-science-in-society
+Disallow: /currentstudents/discontinued-programmes/discontinued-programme-bachelor-of-science-bsc-majoring-in-oceanography
+Disallow: /oms/education/short-courses/racp-clinical-exam-revision-course
+Disallow: /international/future-students/international-students-at-otago
+Disallow: /international/future-students/study-abroad-and-exchange
+Disallow: /international/future-students/entrance-requirements/international-entrance-requirements
+Disallow: /future-students/fees-and-scholarships/scholarships/faq
+Disallow: /future-students/fees-and-scholarships/scholarships/checklist
+Disallow: /future-students/fees-and-scholarships/scholarships/faq
+Disallow: /future-students/fees-and-scholarships/scholarships/checklist
+Disallow: /hsfy/faqs/did-not-pass-chem191-or-hubs191
+Disallow: /healthsciences/students/undergraduate/undergraduate-health-science-information-for-international-students
+Disallow: /library/quicklinks/citation
+Disallow: /marketing-services/photography-booking-request-form/request-submitted
+Disallow: /marketing-services/photography-booking-request-form/submission-failure
+Disallow: /news/communications-office
+Disallow: /news/news/releases/coronavirus-updates
+Disallow: /news/news/releases/what-does-the-coronavirus-epidemic-mean-for-new-zealand
+Disallow: /otagobulletin/news/otago-out-in-force-for-relay
+Disallow: /poutama-ara-rau
+Disallow: /about/join-otago
 
-User-agent: amazon-kendra
-Disallow: /
+Disallow: /languagescultures/programmes/asian-studies/papers/admin/
 
-User-agent: anthropic-ai
-Disallow: /
+Disallow: /_documentation/
+Disallow: /__data/assets/pdf_file/0019/312805/late-request-to-change-occurrence-form-620702.pdf
+Disallow: /__data/assets/pdf_file/0021/305436/request-to-change-occurrence-form-711884.pdf
 
-User-agent: Applebot
-Disallow: /
+Disallow: /external-assets/
 
-User-agent: Applebot-Extended
-Disallow: /
-
-User-agent: AwarioRssBot
-Disallow: /
-
-User-agent: AwarioSmartBot
-Disallow: / 
-
-User-agent: Brightbot
-Disallow: /
-
-User-agent: Bytespider
-Disallow: /
-
-User-agent: ChatGPT-User
-Disallow: /
-
-User-agent: ClaudeBot
-Disallow: /
-
-User-agent: Diffbot
-Disallow: /
-
-User-agent: DuckAssistBot
-Disallow: /
-
-User-agent: FacebookBot
-Disallow: /
-
-User-agent: FriendlyCrawler
-Disallow: /
-
-User-agent: Google-Extended
-Disallow: /
-
-User-agent: GPTBot
-Disallow: /
-
-User-agent: iaskspider/2.0
-Disallow: /
-
-User-agent: ICC-Crawler
-Disallow: /
-
-User-agent: img2dataset
-Disallow: /
-
-User-agent: Kangaroo Bot
-Disallow: /
-
-User-agent: LinerBot
-Disallow: /
-
-User-agent: MachineLearningForPeaceBot
-Disallow: /
-
-User-agent: Meltwater
-Disallow: /
-
-User-agent: meta-externalagent
-Disallow: /
-
-User-agent: meta-externalfetcher
-Disallow: /
-
-User-agent: Nicecrawler
-Disallow: /
-
-User-agent: OAI-SearchBot
-Disallow: /
-
-User-agent: omgili
-Disallow: /
-
-User-agent: omgilibot
-Disallow: /
-
-User-agent: PanguBot
-Disallow: /
-
-User-agent: PerplexityBot
-Disallow: /
-
-User-agent: Perplexity-User
-Disallow: /
-
-User-agent: PetalBot
-Disallow: /
-
-User-agent: PiplBot
-Disallow: /
-
-User-agent: QualifiedBot
-Disallow: /
-
-User-agent: Scoop.it
-Disallow: /
-
-User-agent: Seekr
-Disallow: /
-
-User-agent: SemrushBot-OCOB
-Disallow: /
-
-User-agent: Sidetrade indexer bot
-Disallow: /
-
-User-agent: Timpibot
-Disallow: /
-
-User-agent: VelenPublicWebCrawler
-Disallow: /
-
-User-agent: Webzio-Extended
-Disallow: /
-
-User-agent: YouBot
-Disallow: /

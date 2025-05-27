@@ -79,6 +79,7 @@ Disallow: /_designs/.*
 Disallow: /dev-courses.*
 Disallow: /new-courses.*
 Disallow: /test-courses.*
+Disallow: /courses
 
 Disallow: *?*query=
 Disallow: *?*f.*%7C*=
