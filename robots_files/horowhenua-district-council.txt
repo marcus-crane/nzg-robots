@@ -245,6 +245,7 @@ Disallow: /Contact-Us/FAQs/FAQs-Council-Projects/*
 Disallow: /Copy-of-Agenda-Attachment-15-March-2023-LTPA-Draft-Council-Controlled-Organisations-1
 Disallow: /Copy-of-Agenda-Attachment-15-March-2023-LTPA-Draft-Infrastructure-Strategy-2021-2051-1
 Disallow: /Copy-of-Background-Images
+Disallow: /Copy-of-test/*
 Disallow: /Council/Careers-at-HDC/Jobs-Listing/3-Water-Design-Engineer
 Disallow: /Council/Careers-at-HDC/Jobs-Listing/Copy-of-Water-and-Waste-Services-Manager-1001801-1
 Disallow: /Council/Consultation/*
@@ -637,6 +638,7 @@ Disallow: /Home/New-page/*
 Disallow: /Home/New-Resource-Consents-DS/*
 Disallow: /Home/Tabs/Do-It-Online/Antenno
 Disallow: /Home/Tabs/Do-It-Online/New-page
+Disallow: /Home/test/*
 Disallow: /Library/Background-Images
 Disallow: /Library/Copy-of-Background-Images
 Disallow: /Minutes-Agendas/10-August-2021/Minutes-10-August-2021
@@ -1385,6 +1387,7 @@ Disallow: /System-pages/Rss-Feeds
 Disallow: /System-pages-do-not-edit/My-Neighbourhood
 Disallow: /System-pages-do-not-edit/New-page
 Disallow: /System-pages-do-not-edit/Page-not-found
+Disallow: /test/*
 Disallow: /test/Copy-of-Albus-Dumbledore
 Disallow: /test/DLC-Working-page
 Disallow: /test/dug
@@ -1392,6 +1395,7 @@ Disallow: /test/Foxton-Board/Copy-of-Albus-Dumbledore
 Disallow: /test/Foxton-Board/Janine-Smart
 Disallow: /test/HDC-content-design
 Disallow: /test/Jos-Test-page/*
+Disallow: /test/Jos-Test-page/Tables
 Disallow: /test/Livestream-test
 Disallow: /test/Testing-schedule-date/*
 Disallow: /test/Test-page/*

@@ -809,6 +809,7 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-March-2025/Council-Minutes-19-March-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-March-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-May-2025/Council-Agenda-19-May-2025
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-May-2025/Council-Minutes-19-and-20-May-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-May-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-May-2025/Update-to-the-Council-Agenda-19-and-20-May-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-1-February-2023/Council-Agenda-1-February-2023
@@ -1023,6 +1024,7 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Policy/Policy-Committee-21-February-2024/Policy-Committee-Minutes-21-February-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Policy/Policy-Committee-21-May-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Policy/Policy-Committee-21-May-2025/Policy-Committee-Agenda-21-May-2025
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Policy/Policy-Committee-21-May-2025/Unconfirmed-Policy-Committee-Minutes-21-May-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Policy/Policy-Committee-22-February-2023/Policy-Committee-Agenda-22-February-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Policy/Policy-Committee-22-February-2023/Policy-Committee-Minutes-22-February-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Policy/Policy-Committee-22-May-2023/Policy-Committee-Agenda-22-May-2023
@@ -1049,6 +1051,8 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-14-February-2024/Risk-and-Assurance-Committee-Minutes-14-February-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-14-May-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-14-May-2025/Risk-and-Assurance-Committee-Agenda-14-May-2025
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-14-May-2025/Risk-and-Assurance-Committee-Minutes-14-May-2025
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-14-May-2025/Unconfirmed-Risk-and-Assurance-Committee-Minutes-14-May-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-15-February-2023/Risk-and-Assurance-Committee-Agenda-15-February-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-15-February-2023/Risk-and-Assurance-Committee-minutes-15-February-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-15-February-2023/Sensitive-Expenditure-Report-Attachment-4-Sensitive-Expenditure-Policy-February-2023-with-proposed-tracked-changes

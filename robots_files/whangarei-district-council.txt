@@ -192,6 +192,7 @@ Disallow: /Council/Contact-us/Report-it/SC-Parks-issues
 Disallow: /Council/Contact-us/Report-it/SC-Property-issues
 Disallow: /Council/Contact-us/Report-it/SC-Roading-issues
 Disallow: /Council/Contact-us/Report-it/SC-Rubbish-issues
+Disallow: /Council/Contact-us/Report-it/SC-Shared-path-issue
 Disallow: /Council/Contact-us/Report-it/SC-Stormwater-issues
 Disallow: /Council/Contact-us/Report-it/SC-Urgent-issues
 Disallow: /Council/Contact-us/Report-it/SC-Wastewater-issues
