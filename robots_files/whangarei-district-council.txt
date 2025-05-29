@@ -177,6 +177,8 @@ Disallow: /Council/Contact-us/Copy-of-SC-Physical-address-1
 Disallow: /Council/Contact-us/Copy-of-SC-Postal-address-1
 Disallow: /Council/Contact-us/Copy-of-SC-Postal-address-funding-1
 Disallow: /Council/Contact-us/Copy-of-SC-Service-Centres-1
+Disallow: /Council/Contact-us/Customer-request-portal
+Disallow: /Council/Contact-us/General-enquiries-online
 Disallow: /Council/Contact-us/Official-Information-Request/OIA-form
 Disallow: /Council/Contact-Us/Rates-by-Email
 Disallow: /Council/Contact-us/Report-it/SC-Animal-issues
@@ -208,6 +210,7 @@ Disallow: /Council/Contact-us/SC-Postal-address-licensing-committee
 Disallow: /Council/Contact-us/SC-Service-Centres
 Disallow: /Council/Contact-us/SC-Service-Centres-exclude-isite
 Disallow: /Council/Contact-us/SC-Tech-One-request-general-enquiry
+Disallow: /Council/Contact-us/Track-request
 Disallow: /Council/Council-documents/Fees-and-Charges/SC-FeesText
 Disallow: /Council/Council-documents/Fees-and-Charges/SC-FeesTextLegislation
 Disallow: /Council/Council-documents/LTP-Consultation/LTP-feedback-form

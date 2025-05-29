@@ -298,6 +298,7 @@ Disallow: /Homepage-top-task-landing-pages/Apply-for-it/Apply-for-a-job
 Disallow: /Homepage-top-task-landing-pages/Report-and-Request/Request-for-information
 Disallow: /Land-Use-Diversification/*
 Disallow: /Lets-Talk-Waitaki-EngagementHQ/2024-Waitaki-Residents-Survey-93993
+Disallow: /Lets-Talk-Waitaki-EngagementHQ/2025-Waitaki-Residents-Survey-101181
 Disallow: /Lets-Talk-Waitaki-EngagementHQ/Annual-Plan-2024-25-92495
 Disallow: /Lets-Talk-Waitaki-EngagementHQ/Business-and-Resident-Impact-Surveys-98598
 Disallow: /Lets-Talk-Waitaki-EngagementHQ/Dangerous-Affected-Insanitary-Buildings-Policy-2024-92507

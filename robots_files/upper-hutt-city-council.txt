@@ -76,7 +76,6 @@ Disallow: /Community/Events/Upper-Hutt-Dog-Training-Club
 Disallow: /Community/Grants-and-funding/Economic-grants-and-incentives
 Disallow: /Community/Ki-Uta-app
 Disallow: /Community/Mana-Whenua/*
-Disallow: /Community/New-page
 Disallow: /Community/New-page-1
 Disallow: /Community/Our-Maori-heritage/*
 Disallow: /Community/Parks-Week/Parks-Week-Rotating-Banner/Child-on-swing
@@ -862,6 +861,8 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-October-2024/To-be-tabled-Wellington-Water-DRAFT-Annual-Report-for-the-year-ended-30-June-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-3-May-2023/Council-Agenda-3-May-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-3-May-2023/Council-Minutes-3-May-2023
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-4-June-2025/Council-Agenda-4-June-2025
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-4-June-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-5-June-2024/Council-Agenda-5-June-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-5-June-2024/Council-Minutes-5-June-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-5-June-2024/New-page
@@ -912,6 +913,7 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Creative-Communities/14-November-2024-Creative-Communities-NZ-Arts-Funding-Assessment-Committee/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Creative-Communities/15-May-2025-Creative-Communities-NZ-Arts-Funding-Assessment-Committee/Creative-Communities-Committee-15-May-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Creative-Communities/15-May-2025-Creative-Communities-NZ-Arts-Funding-Assessment-Committee/Creative-Communities-Committee-Agenda-15-May-2025
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Creative-Communities/15-May-2025-Creative-Communities-NZ-Arts-Funding-Assessment-Committee/Creative-Communities-Committee-Minutes-15-May-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Creative-Communities/15-May-2025-Creative-Communities-NZ-Arts-Funding-Assessment-Committee/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Creative-Communities/16-May-2024-Creative-Communities-NZ-Arts-Funding-Assessment-Committee/Creative-Communities-Committee-Agenda-16-May-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Creative-Communities/16-May-2024-Creative-Communities-NZ-Arts-Funding-Assessment-Committee/Creative-Communities-Committee-Minutes-16-May-2024
