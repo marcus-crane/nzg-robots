@@ -64,6 +64,7 @@ Disallow: /Closed-consultations/New-page/*
 Disallow: /Closed-consultations/Plan-Change-42-–-Mangaroa-and-Pinehaven-Flood-Hazard-Extents/*
 Disallow: /Closed-consultations/Plan-Change-42—Mangaroa-and-Pinehaven-Flood-Hazard-Extents/*
 Disallow: /Closed-consultations/Plan-Change-42-–-Mangaroa-and-Pinehaven-Flood-Hazard-Extents-Consultation/*
+Disallow: /Closed-consultations/Priority-Routes/Resources
 Disallow: /Community/COVID-19-information
 Disallow: /Community/Events/Te-Kupenga-o-Rongomai-Unveiled/*
 Disallow: /Community/Events/Te-Kupenga-o-Rongomai-Unveiled/New-page
@@ -568,7 +569,7 @@ Disallow: /Home/In-Focus/Beechwood-Lane-Bridge
 Disallow: /Home/In-Focus/Christmas
 Disallow: /Home/In-Focus/Christmas-in-Upper-Hutt
 Disallow: /Home/In-Focus/Composting-Month
-Disallow: /Home/In-Focus/History-of-Upper-Hutt
+Disallow: /Home/In-Focus/History
 Disallow: /Home/In-Focus/History-of-Upper-Hutt/Copy-of-Ki-Uta-app-1
 Disallow: /Home/In-Focus/History-of-Upper-Hutt/Long-term-plan
 Disallow: /Home/In-Focus/Ki-Uta-app
@@ -584,7 +585,6 @@ Disallow: /Home/In-Focus/Pride-2024/Ki-Uta-app
 Disallow: /Home/In-Focus/Teens-Resources
 Disallow: /Home/In-Focus/The-Gardians
 Disallow: /Home/In-Focus/Upper-Hutt-Arts-and-Culture
-Disallow: /Home/In-Focus/Upper-Hutt-History
 Disallow: /Home/In-Focus/Upper-Hutt-Multicultural-Week-2024
 Disallow: /Home/In-Focus/Welcoming-Communities
 Disallow: /Home/In-Focus/Welcoming-Week
@@ -953,6 +953,8 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Finance-and-Performance/Finance-and-Performance-Committee-28-February-2024/Finance-and-Performance-Committee-Minutes-28-February-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Finance-and-Performance/Finance-and-Performance-Committee-28-February-2024/Unconfirmed-Finance-and-Performance-Committee-Minutes-28-February-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Finance-and-Performance/Finance-and-Performance-Committee-28-May-2025/Finance-and-Performance-Committee-Agenda-28-May-2025
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Finance-and-Performance/Finance-and-Performance-Committee-28-May-2025/Finance-and-Performance-Committee-Minutes-28-May-2025
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Finance-and-Performance/Finance-and-Performance-Committee-28-May-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Finance-and-Performance/Finance-and-Performance-Committee-30-August-2023/Finance-and-Performance-Committee-Agenda-30-August-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Finance-and-Performance/Finance-and-Performance-Committee-30-August-2023/Finance-and-Performance-Committee-minutes-30-August-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Finance-and-Performance/Finance-and-Performance-Committee-4-December-2024/Finance-and-Performance-Committee-Agenda-4-December-2024

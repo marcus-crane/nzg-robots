@@ -176,6 +176,7 @@ Disallow: /Community/Youth/yEPHorowhenua/2020-Youth-Empowerment-Project-ÿEP/New
 Disallow: /Community/Youth/yEPHorowhenua/2020-Youth-Empowerment-Project-ÿEP/Youth-Empowerment-Project-Image-Gallery-2020
 Disallow: /Community/Youth/yEPHorowhenua/Youth-Empowerment-Project-Image-Gallery-2020
 Disallow: /Community/Youth/ÿEPHorowhenua/Youth-Empowerment-Project-Image-Gallery-2020
+Disallow: /CommunityPlaces/Ceremonies-Scholarships/Civic-Awards/Sucessful-Nomination-Civic-Awards
 Disallow: /CommunityPlaces/Ceremonies-Scholarships/Civic-Awards/Sucessful-Nomination-Civic-Honours-Awards
 Disallow: /CommunityPlaces/Ceremonies-Scholarships/Civic-Honours-Awards/Copy-of-Sucessfull-Nomination-Civic-Honours-Awards-1
 Disallow: /CommunityPlaces/Ceremonies-Scholarships/Civic-Honours-Awards/Copy-of-Sucessful-Nomination-Civic-Honours-Awards-1
