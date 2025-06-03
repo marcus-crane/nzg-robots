@@ -74,6 +74,7 @@ Disallow: /Council/About-our-Council/Council-Enforcement-Officers-Building-Team
 Disallow: /Council/About-our-Council/Mayor-and-Councillors/Elected-Officials/*
 Disallow: /Council/About-our-Council/Warranted-Officers-Building-Team
 Disallow: /Council/About-our-Council/Warranted-Officers-Infrastructure-and-Network-Management-Team
+Disallow: /Council/About-our-Council/Warranted-Officers-Network-Team
 Disallow: /Council/About-our-Council/Warranted-Officers-Planning-Team
 Disallow: /Council/About-our-Council/Warranted-Officers-Regulatory-Team
 Disallow: /Council/About-our-Council/Warranted-Officers-Roger-Cook
@@ -246,6 +247,7 @@ Disallow: /Home/Slideshow/Nesting-gulls
 Disallow: /Home/Slideshow/Prepare-for-Covid-19
 Disallow: /Home/Slideshow/Proposed-District-Plan
 Disallow: /Home/Slideshow/Report-an-issue
+Disallow: /Home/Slideshow/Residents-survey
 Disallow: /Home/Slideshow/ROPO-slide
 Disallow: /Home/Slideshow/Snip-n-Chip
 Disallow: /Home/Slideshow/soup-sipper

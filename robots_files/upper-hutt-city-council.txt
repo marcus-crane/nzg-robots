@@ -413,6 +413,8 @@ Disallow: /COVID-TEMP-Announcements/Digital-noticeboards
 Disallow: /COVID-TEMP-Announcements/Dog-registration-update
 Disallow: /COVID-TEMP-Announcements/Heads-up-New-look-homepage
 Disallow: /COVID-TEMP-Announcements/Matariki-collections/New-page
+Disallow: /COVID-TEMP-Announcements/MPI-Food-Levy
+Disallow: /COVID-TEMP-Announcements/New-page
 Disallow: /COVID-TEMP-Announcements/Rating-information-database
 Disallow: /COVID-TEMP-Announcements/Rating-Information-Database-RID
 Disallow: /COVID-TEMP-Announcements/Representation-Review-2024
