@@ -571,6 +571,7 @@ Disallow: /Home/In-Focus/Beechwood-Lane-Bridge
 Disallow: /Home/In-Focus/Christmas
 Disallow: /Home/In-Focus/Christmas-in-Upper-Hutt
 Disallow: /Home/In-Focus/Composting-Month
+Disallow: /Home/In-Focus/Copy-of-History-1
 Disallow: /Home/In-Focus/History
 Disallow: /Home/In-Focus/History-of-Upper-Hutt/Copy-of-Ki-Uta-app-1
 Disallow: /Home/In-Focus/History-of-Upper-Hutt/Long-term-plan
@@ -590,6 +591,7 @@ Disallow: /Home/In-Focus/Upper-Hutt-Arts-and-Culture
 Disallow: /Home/In-Focus/Upper-Hutt-Multicultural-Week-2024
 Disallow: /Home/In-Focus/Welcoming-Communities
 Disallow: /Home/In-Focus/Welcoming-Week
+Disallow: /Home/In-Focus/Winter-Ready-Warmer-Kiwi-Homes
 Disallow: /Home/In-Focus/Youth-Week
 Disallow: /Home/In-Focus-Featured-Content/*
 Disallow: /Home/In-Focus-Featured-Content/New-page-1
@@ -864,6 +866,7 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-3-May-2023/Council-Agenda-3-May-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-3-May-2023/Council-Minutes-3-May-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-4-June-2025/Council-Agenda-4-June-2025
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-4-June-2025/Late-agenda-item-Extraordinary-Business-–-Proposed-use-of-the-land-adjacent-to-Maidstone-Park-for-Upper-Hutt-Bowling-Club
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-4-June-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-5-June-2024/Council-Agenda-5-June-2024
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-5-June-2024/Council-Minutes-5-June-2024
