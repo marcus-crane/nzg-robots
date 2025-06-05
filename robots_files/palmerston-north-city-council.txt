@@ -164,7 +164,6 @@ Disallow: /Home/Slider/Get-tickets-for-Breaking-Boundaries-in-Sports
 Disallow: /Home/Slider/Have-your-say
 Disallow: /Home/Slider/Have-your-say-on-our-Long-Term-Plan
 Disallow: /Home/Slider/New-issue-of-Palmy-Proud-out-now
-Disallow: /Home/Slider/New-page
 Disallow: /Home/Slider/Nominations-open-for-Civic-Honours-Awards
 Disallow: /Home/Slider/palmy-ten-7
 Disallow: /Home/Slider/Proposed-annual-budget
@@ -200,7 +199,6 @@ Disallow: /Image-Galleries/SMP-Te-Wanaka-Road
 Disallow: /Image-Galleries/SMP-turitea
 Disallow: /Image-Galleries/SMP-valley-views
 Disallow: /Image-Galleries/WMMP-2024
-Disallow: /International-relations-wireframe
 Disallow: /International-relations-wireframe/Sister-cities/Sister-cities/*
 Disallow: /Long-term-plan/Key-topics-well-be-asking-for-feedback-on
 Disallow: /Long-term-plan/The-planning-process
@@ -216,7 +214,6 @@ Disallow: /LTP/The-planning-process
 Disallow: /LTP/What-were-asking-you-about/Rates-review/About-the-rates-review
 Disallow: /LTP/What-were-asking-you-about/Rates-review/Background-and-review-process
 Disallow: /LTP/What-were-asking-you-about/Rates-review/Rates-system-options
-Disallow: /New-page
 Disallow: /News-Events/Events/Community-events-survey
 Disallow: /News-Events/Events/cross-events-tab-page
 Disallow: /News-Events/Events/Drop-in-sessions-Featherston-Street-safety-upgrades/Central-Energy-Trust-Arena-drop-in-session
@@ -286,6 +283,7 @@ Disallow: /Online-forms/New-Years-Eve-2023-performance-application
 Disallow: /Online-forms/New-Years-Eve-2023-stallfood-truck-application
 Disallow: /Online-forms/New-Years-Eve-in-The-Square-performance-application
 Disallow: /Online-forms/New-Years-Eve-in-The-Square-stallfood-truck-application
+Disallow: /Online-forms/Puanga-Art-Design-Competition-Terms-and-Conditions
 Disallow: /Online-forms/Puanga-Festival-2023-food-and-retail-stall-application
 Disallow: /Online-forms/Puanga-Festival-food-and-retail-stall-application
 Disallow: /Online-forms/Success
@@ -478,6 +476,7 @@ Disallow: /Participate-Palmy/Elections/Pōti-Kāwanatanga-ā-Rohe-2022
 Disallow: /Participate-Palmy/Elections/voting-booth-locations-2022-local-election/*
 Disallow: /Participate-Palmy/Have-your-say/Aokautere-urban-growth/Plan-Change-G-timeline/*
 Disallow: /Participate-Palmy/Have-your-say/Closed-consultations/*
+Disallow: /Participate-Palmy/Have-your-say/Creating-a-community-plan-for-Bunnythorpe/bunnythorpe-survey
 Disallow: /Participate-Palmy/Have-your-say/Draft-Animals-and-Bees-Bylaw-2024/Timeline/*
 Disallow: /Participate-Palmy/Have-your-say/Featherston-Street-safety-upgrades-feedback/Timeline/Copy-of-Phase-2-1
 Disallow: /Participate-Palmy/Have-your-say/Featherston-Street-safety-upgrades-feedback/Timeline/Phase-2
@@ -1018,6 +1017,7 @@ Disallow: /Services/Transport-roading/Roads-and-footpaths/Roadworks-and-road-clo
 Disallow: /Services/Transport-roading/Roads-and-footpaths/Roadworks-and-road-closures/Kairanga-Bunnythorpe-Road-wastewater-upgrade
 Disallow: /Services/Transport-roading/Roads-and-footpaths/Roadworks-and-road-closures/Kelvin-GroveHenaghans-Road-intersection-upgrade
 Disallow: /Services/Transport-roading/Roads-and-footpaths/Roadworks-and-road-closures/New-page
+Disallow: /Services/Transport-roading/Roads-and-footpaths/Roadworks-and-road-closures/Pioneer-Highway-and-Botanical-Road-repairs
 Disallow: /Services/Transport-roading/Roads-and-footpaths/Roadworks-and-road-closures/Railway-Road-full-road-closure
 Disallow: /Services/Transport-roading/Roads-and-footpaths/Roadworks-and-road-closures/Railway-Road-rebuild
 Disallow: /Services/Transport-roading/Roads-and-footpaths/Roadworks-and-road-closures/Railway-Road-watermain-upgrade

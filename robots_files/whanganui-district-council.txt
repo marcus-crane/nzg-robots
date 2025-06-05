@@ -2760,10 +2760,14 @@ Disallow: /Your-Council/Have-Your-Say/Consultations/Finance-Rates-Remission-and-
 Disallow: /Your-Council/Have-Your-Say/Consultations/Finance-Rates-Remission-and-Postponement-policies-consultation/Timeline
 Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Discussions
 Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Latest-Updates
-Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Timeline
+Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Timeline/*
+Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Timeline/Community-engagement-event
+Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Timeline/New-page
 Disallow: /Your-Council/Have-Your-Say/Consultations/Future-of-125-Grey-Street/Discussions
 Disallow: /Your-Council/Have-Your-Say/Consultations/Future-of-125-Grey-Street/Latest-Updates
-Disallow: /Your-Council/Have-Your-Say/Consultations/Future-of-125-Grey-Street/Timeline
+Disallow: /Your-Council/Have-Your-Say/Consultations/Future-of-125-Grey-Street/Timeline/*
+Disallow: /Your-Council/Have-Your-Say/Consultations/Future-of-125-Grey-Street/Timeline/Drop-in-session
+Disallow: /Your-Council/Have-Your-Say/Consultations/Future-of-125-Grey-Street/Timeline/New-page
 Disallow: /Your-Council/Have-Your-Say/Consultations/Have-your-say-working-together-post-settlement/Discussions
 Disallow: /Your-Council/Have-Your-Say/Consultations/Have-your-say-working-together-post-settlement/Latest-Updates
 Disallow: /Your-Council/Have-Your-Say/Consultations/Have-your-say-working-together-post-settlement/Timeline/*

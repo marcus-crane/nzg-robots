@@ -638,6 +638,7 @@ Disallow: /Home/Emergency-Announcements/Weather-event-8-April-2025
 Disallow: /Home/New-page/*
 Disallow: /Home/New-Resource-Consents-DS/*
 Disallow: /Home/Tabs/Do-It-Online/Antenno
+Disallow: /Home/Tabs/Do-It-Online/Levin-Town-Centre-Transformation
 Disallow: /Home/Tabs/Do-It-Online/New-page
 Disallow: /Home/test/*
 Disallow: /Library/Background-Images

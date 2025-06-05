@@ -1633,6 +1633,14 @@ Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Pentla
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Pentland-Seaview-road-closure-20250113/Seaview-Road-closure
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-Closures/Quarter-Mile-Sprint-20221023/Doctors-Hill-Road-Waipu
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-Closures/Quarter-Mile-Sprint-20221023/Paiawa-Road-Waiotira
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Reseal-night-works-20250602/Fairway-Dr-and-Te-Puia-St-roundabout-asphalt-reseal-works
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Reseal-night-works-20250602/Herekino-St-Port-Rd-and-Reyburn-St-roundabout-asphalt-reseal-works
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Reseal-night-works-20250602/Puna-Rere-Dr-asphalt-reseal-works
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Reseal-night-works-20250602/Woods-Rd-asphalt-reseal-works
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Reseal-night-works-20250607/Fairway-Dr-and-Te-Puia-St-roundabout-asphalt-reseal-works
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Reseal-night-works-20250607/Herekino-St-Port-Rd-and-Reyburn-St-roundabout-asphalt-reseal-works
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Reseal-night-works-20250607/Puna-Rere-Dr-asphalt-reseal-works
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Reseal-night-works-20250607/Woods-Rd-asphalt-reseal-works
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-Closures/Rev-Up-Road-closure-20210417/*
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-Closures/Ruakaka-Christmas-Parade-20231209/Peter-Snell-Road
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-Closures/Ruakaka-Christmas-Parade-20231209/Takutai-Place
