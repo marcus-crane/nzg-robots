@@ -1,4 +1,3 @@
-Crawl-delay: 10
 # START YOAST BLOCK
 # ---------------------------
 User-agent: *

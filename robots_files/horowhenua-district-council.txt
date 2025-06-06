@@ -273,6 +273,7 @@ Disallow: /Council/Documents/Fees-and-Charges/Fees
 Disallow: /Council/Documents/Fees-and-Charges/Fees-and-Charges-for-20222023
 Disallow: /Council/Documents/Fees-and-Charges/Fees-and-Charges-for-20232024
 Disallow: /Council/Documents/Fees-and-Charges/Fees-and-Charges-for-20242025
+Disallow: /Council/Documents/Fees-and-Charges/Fees-and-Charges-for-20252026
 Disallow: /Council/Documents/Fees-and-Charges/New-page
 Disallow: /Council/Have-Your-Say/Waitārere-Beach-Community-Plan/Timeline/Analysis-of-feedback
 Disallow: /Council/Have-Your-Say/Waitarere-Beach-Community-Plan/Timeline/Copy-of-Drop-In-Session-Waitarere-Beach-Community-Plan-1
