@@ -91,10 +91,10 @@ Disallow: /Community/Sustainable-living/httpsvimeo.comthewaygroupreview364701303
 Disallow: /Community/Sustainable-living/Sustainable-business-practices-video
 Disallow: /Community/Sustainable-living/Sustainable-business-practices-video-clip
 Disallow: /Community/Sustainable-living/Video-clip-Upper-Hutt-sustainable-business-practices
-Disallow: /Community/the-upper-hutt-guide
 Disallow: /Community/Upper-Hutt-Arts-and-Culture/AC-Advisor
 Disallow: /Community/Upper-Hutt-Arts-and-Culture/Community-Arts-and-Culture-Advisor
 Disallow: /Community/Upper-Hutt-Arts-and-Culture/Copy-of-AC-Advisor-1
+Disallow: /Contact-us/Contact-Mayor-and-Councillors
 Disallow: /Contact-us/Copy-of-Stay-connected-1
 Disallow: /Contact-us/Do-it-online/*
 Disallow: /Contact-us/Do-it-online/General-Enquiry-or-Issue
@@ -108,7 +108,7 @@ Disallow: /Contact-us/Do-it-online/Street-lights
 Disallow: /Contact-us/Do-it-online/Street-stall-food-truck-appeal-raffle-and-busking-application
 Disallow: /Contact-us/Get-in-touch/Civic-Building
 Disallow: /Contact-us/Get-in-touch/New-page
-Disallow: /Contact-us/Mayor-and-Councillor
+Disallow: /Contact-us/Mayor-and-Councillors
 Disallow: /Contact-us/New-page/*
 Disallow: /Contact-us/Report-and-request/*
 Disallow: /Contact-us/Report-and-request/General-Enquiry-or-Issue
@@ -414,7 +414,6 @@ Disallow: /COVID-TEMP-Announcements/Dog-registration-update
 Disallow: /COVID-TEMP-Announcements/Heads-up-New-look-homepage
 Disallow: /COVID-TEMP-Announcements/Matariki-collections/New-page
 Disallow: /COVID-TEMP-Announcements/MPI-Food-Levy
-Disallow: /COVID-TEMP-Announcements/New-page
 Disallow: /COVID-TEMP-Announcements/Rating-information-database
 Disallow: /COVID-TEMP-Announcements/Rating-Information-Database-RID
 Disallow: /COVID-TEMP-Announcements/Representation-Review-2024
@@ -521,13 +520,13 @@ Disallow: /Home/Announcements/Cyclone-Gabrielle—ways-to-help
 Disallow: /Home/Announcements/Impacts-of-weather-event
 Disallow: /Home/Announcements/Long-Term-Plan-consultation
 Disallow: /Home/Announcements/Moving-back-to-Civic
+Disallow: /Home/Announcements/MPI-Food-Levy
 Disallow: /Home/Announcements/New-page
 Disallow: /Home/Announcements/Rates-reminder
 Disallow: /Home/Announcements/Sprinkler-ban-now-in-place
 Disallow: /Home/Announcements/Weather-Warning
 Disallow: /Home/Community/Grants-and-funding/Economic-grants-and-incentives
 Disallow: /Home/Community/People-and-programmes/Mesa-Youth-Ambassadors/Mesa-Youth-Ambassadors-Exchange-photos
-Disallow: /Home/Community/the-upper-hutt-guide
 Disallow: /Home/Community/Upper-Hutt-Arts-and-Culture/AC-Advisor
 Disallow: /Home/Engage-with-us/*
 Disallow: /Home/Engage-with-us/civic-award-nomination
@@ -593,7 +592,6 @@ Disallow: /Home/In-Focus/Welcoming-Communities
 Disallow: /Home/In-Focus/Welcoming-Week
 Disallow: /Home/In-Focus/Winter-Ready-Warmer-Kiwi-Homes
 Disallow: /Home/In-Focus/Youth-Week
-Disallow: /Home/In-Focus-Featured-Content/*
 Disallow: /Home/In-Focus-Featured-Content/New-page-1
 Disallow: /Home/In-Focus-Featured-Content/Welcoming-Communities
 Disallow: /Home/L1-MASTER-TEST-EDIT-PAGE

@@ -83,6 +83,7 @@ Disallow: /Community/Community-funding/Papakainga-Fund/Papakainga-fund-applicati
 Disallow: /Community/Community-funding/Partnership-Fund/Partnership-Fund-application-form
 Disallow: /Community/Community-funding/SC-Community-funding-enquiries
 Disallow: /Community/Community-funding/SC-Fund-Terms-and-conditions
+Disallow: /Community/Community-funding/SC-Log-into-SmartyGrants
 Disallow: /Community/Community-funding/SmartyGrants
 Disallow: /Community/Community-funding/Tangata-Whenua-Led-Climate-Planning-Fund/Climate-Planning-Fund-application
 Disallow: /Community/Community-funding/Waste-Minimisation-Fund/Waste-Min-application-form
@@ -1528,6 +1529,9 @@ Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Anzac-
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Anzac-Day-Road-Closure-20240425/Walton-Street-Robert-Street-intersection-Proposed-Closure
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Anzac-Day-Road-Closure-20240425/Walton-Street-Robert-Street-intersection-Temporary-Closure
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Anzac-Day-Road-Closure-20240425/Walton-Street-Temporary-Closure
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Bank-Street-Kamo-Road-roadworks-20250611/93-Kamo-Road
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Bank-Street-Kamo-Road-roadworks-20250611/Bank-St-and-Aubrey-St-intersection
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Bank-Street-Kamo-Road-roadworks-20250611/Bank-St-and-Mansfield-Terrace-intersection
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Cameron-James-Street-temporary-road-closure-20241025/Cameron-Street-road-closure-20241025
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Cameron-James-Street-temporary-road-closure-20241025/James-Street-road-closure-20241025
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/Christmas-Parade-20241130/Alexander-St-WCP
