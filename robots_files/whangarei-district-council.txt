@@ -800,8 +800,6 @@ Disallow: /library/interlibrary-loans
 Disallow: /library/interloans
 Disallow: /library/jigsaw-puzzles/*
 Disallow: /library/Learn/Background-Learn
-Disallow: /library/Learn/Classes-and-workshops/Library-services-classes
-Disallow: /library/Learn/Classes-and-workshops/Library-services-presentations
 Disallow: /library/Learn/Government-Documents
 Disallow: /library/Learn/Help/Help-browsers-and-apps
 Disallow: /library/Learn/Help/Help-search-the-catalogue
@@ -832,7 +830,6 @@ Disallow: /library/Learn/Using-the-library-catalogue/BookMyne
 Disallow: /library/Learn/Using-the-library-catalogue/Place-holds
 Disallow: /library/Learn/Using-the-library-catalogue/Searching-the-catalogue
 Disallow: /library/Library-craft-group
-Disallow: /library/Library-services-presentations
 Disallow: /library/Manage-subscriptions
 Disallow: /library/maori-battalion-pou/*
 Disallow: /library/Matapouri-Community-Library
@@ -849,7 +846,6 @@ Disallow: /library/Ngunguru-Community-Library
 Disallow: /library/Page-Not-Found
 Disallow: /library/preschool-funtimes-tikipunga
 Disallow: /library/preschool-funtimes-whangarei-central-library
-Disallow: /library/Presentations
 Disallow: /library/Ruakaka-Community-Library
 Disallow: /library/Sandbox/*
 Disallow: /library/Sandbox/Maori-Find-Replace-Test
@@ -1999,6 +1995,7 @@ Disallow: /Temporary-Announcements/Parihaka-Scenic-Reserve-track-closures-202407
 Disallow: /Temporary-Announcements/Pohe-Carpark-Closed
 Disallow: /Temporary-Announcements/Port-Road-temporary-road-layout
 Disallow: /Temporary-Announcements/Proposed-rates
+Disallow: /Temporary-Announcements/Rates-rebate-widened
 Disallow: /Temporary-Announcements/Rates-review-20241016
 Disallow: /Temporary-Announcements/ReachDeck-outage
 Disallow: /Temporary-Announcements/Recycling-changes-20240201

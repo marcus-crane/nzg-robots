@@ -108,6 +108,7 @@ Disallow: /Contact-us/Do-it-online/Street-lights
 Disallow: /Contact-us/Do-it-online/Street-stall-food-truck-appeal-raffle-and-busking-application
 Disallow: /Contact-us/Get-in-touch/Civic-Building
 Disallow: /Contact-us/Get-in-touch/New-page
+Disallow: /Contact-us/Mayor-and-Councillor
 Disallow: /Contact-us/Mayor-and-Councillors
 Disallow: /Contact-us/New-page/*
 Disallow: /Contact-us/Report-and-request/*
@@ -803,6 +804,8 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-13-December-2023/Council-Agenda-13-December-2023/*
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-13-December-2023/Council-Agenda-13-December-2023/Item-9-Attachment-3-to-replace-duplicated-document-in-Agenda
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-13-December-2023/Council-Minutes-13-December-2023
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-13-December-2023/New-page
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-13-December-2023/Released-to-Public-Road-Naming-Public-Roads-Wallaceville
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-14-June-2023/Council-Agenda-14-June-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-14-June-2023/Council-Minutes-14-June-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-19-June-2024/Council-Agenda-19-June-2024
@@ -1296,6 +1299,8 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Meeting-agendas-and-m
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Meeting-agendas-and-minutes/Council-meetings-calendar/Policy-Committee-20-October-2021/Policy-Committee-Agenda-20-October-2021
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Meeting-agendas-and-minutes/Council-meetings-calendar/Policy-Committee-20-October-2021/Policy-Committee-Minutes-20-October-2021
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Meeting-agendas-and-minutes/Council-meetings-calendar/Policy-Committee-2-December-2020/Naming-of-one-Private-Access-lot-within-a-Residential-Subdivision
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Meeting-agendas-and-minutes/Council-meetings-calendar/Policy-Committee-2-September-2020/New-page
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Meeting-agendas-and-minutes/Council-meetings-calendar/Policy-Committee-2-September-2020/Released-to-Public-Naming-of-one-private-road-for-an-Industrial-Estate-and-various-public-and-private-roads-within-Wallaceville-Estate
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Meeting-agendas-and-minutes/Council-meetings-calendar/Policy-Committee-Meeting-23-February-2022/Policy-Committee-Agenda-23-February-2022
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Meeting-agendas-and-minutes/Council-meetings-calendar/Policy-Committee-Meeting-23-February-2022/Policy-Committee-Minutes-23-February-2022
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Meeting-agendas-and-minutes/Council-meetings-calendar/Risk-and-Assurance-Committee-16-February-2022/Risk-and-Assurance-Committee-Agenda-16-February-2022

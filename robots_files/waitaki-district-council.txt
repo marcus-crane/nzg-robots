@@ -70,10 +70,13 @@ Disallow: /Announcements/Website-scheduled-maintenance-regular
 Disallow: /Anzac-Day-2024
 Disallow: /Anzac-Day-2025
 Disallow: /Council/About-our-Council/Copy-of-Warranted-Officers-Building-Team-1
+Disallow: /Council/About-our-Council/Copy-of-Warranted-Officers-Roger-Cook-1
 Disallow: /Council/About-our-Council/Council-Enforcement-Officers-Building-Team
 Disallow: /Council/About-our-Council/Mayor-and-Councillors/Elected-Officials/*
 Disallow: /Council/About-our-Council/Warranted-Officers-Building-Team
 Disallow: /Council/About-our-Council/Warranted-Officers-Infrastructure-and-Network-Management-Team
+Disallow: /Council/About-our-Council/Warranted-Officers-Locality
+Disallow: /Council/About-our-Council/Warranted-Officers-Locality-Team
 Disallow: /Council/About-our-Council/Warranted-Officers-Network-Team
 Disallow: /Council/About-our-Council/Warranted-Officers-Planning-Team
 Disallow: /Council/About-our-Council/Warranted-Officers-Regulatory-Team
@@ -400,6 +403,7 @@ Disallow: /Venues-and-facilities/Waitaki-Aquatic-Centre
 Disallow: /Venues-and-facilities/Waitaki-Museum-and-Archive
 Disallow: /Waitaki-Events/Listing-Guidelines
 Disallow: /WarrantedOfficers-Building
+Disallow: /WarrantedOfficers-Locality
 Disallow: /WarrantedOfficers-Network
 Disallow: /WarrantedOfficers-Planning
 Disallow: /WarrantedOfficers-Regulatory
