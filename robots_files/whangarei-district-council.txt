@@ -2218,6 +2218,7 @@ Disallow: /Whats-new/Have-your-say/Closed-Consultations/FDS-Consultation-2024/Ti
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/FDS-Consultation-2024/Timeline/Formal-submissions-close
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/FDS-Consultation-2024/Timeline/Formal-submissions-open
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/FDS-Consultation-2024/Timeline/New-page
+Disallow: /Whats-new/Have-your-say/Closed-Consultations/FDS-Consultation-2024/Timeline/NRC-adoption
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/FDS-Consultation-2024/Timeline/WDC-Adoption
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Fees-and-Charges-2023/Adoption
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Fees-and-Charges-2023/Consultation-Begins

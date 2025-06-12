@@ -1,7 +1,10 @@
 User-agent: *
 Disallow: /admin
 Disallow: /Security/
-# Sitemap: https://www.example.com/sitemap.xml
+Disallow: /_search/
+Disallow: /_visa-search/
+Disallow: /_list-collection-search/
+Sitemap: https://www.immigration.govt.nz/sitemap.xml
 
 User-agent: AhrefsBot
 Crawl-delay: 60

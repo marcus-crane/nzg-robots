@@ -727,6 +727,7 @@ Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minu
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-14-August-2024/New-page
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-16-April-2025/Final-Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-16-April-2025/New-page
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-16-April-2025/Signed-confirmed-minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-16-April-2025/Unconfirmed-minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-16-August-2023/Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-16-August-2023/Confirmed-Minutes
@@ -747,6 +748,7 @@ Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minu
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-26-February-2025/Confirmed-Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-26-February-2025/Final-Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-26-February-2025/New-page
+Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-26-February-2025/Signed-confirmed-minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-26-October-2022/Confirmed-Minutes
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-26-October-2022/Final-Agenda
 Disallow: /Your-Council/Council-and-Committee-Meetings/Meetings-Agendas-and-Minutes/All-meetings/Whanganui-Rural-Community-Board-26-October-2022/New-page
