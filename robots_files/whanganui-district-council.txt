@@ -137,6 +137,8 @@ Disallow: /Community-Culture/Housing/Council-activity-and-relationships
 Disallow: /Community-Culture/Housing/Social-Housing-council-activity-and-relationships
 Disallow: /Do-It-Online.../Holidays-Act-Remediation-Contact-Form
 Disallow: /Do-It-Online.../Whats-my-recycling-collection-day
+Disallow: /Do-It-Online/Holidays-Act-Remediation-Contact-Form
+Disallow: /Do-It-Online/Whats-my-recycling-collection-day
 Disallow: /Donate-now/*
 Disallow: /Glossary/*
 Disallow: /Home/Featured-Content/Annual-Plan-202324-and-fees-and-charges-consultation

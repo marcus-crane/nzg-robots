@@ -508,6 +508,7 @@ Disallow: /Home/Announcements/Akatārawa-Road-Slip-and-Power-Outages
 Disallow: /Home/Announcements/Akatarawa-Road-slip-update
 Disallow: /Home/Announcements/An-important-but-small-change-to-the-Upper-Hutt-Council-website
 Disallow: /Home/Announcements/AP-2025-26
+Disallow: /Home/Announcements/Copy-of-Local-Elections-1
 Disallow: /Home/Announcements/Copy-of-Sprinkler-ban-now-in-place-1
 Disallow: /Home/Announcements/Cyclone-Gabrielle—“adopting”-Napier-City-Council
 Disallow: /Home/Announcements/Cyclone-Gabrielle-–-Donate-to-Napier-relief-fund
@@ -523,6 +524,7 @@ Disallow: /Home/Announcements/Moving-back-to-Civic
 Disallow: /Home/Announcements/MPI-Food-Levy
 Disallow: /Home/Announcements/New-page
 Disallow: /Home/Announcements/Rates-reminder
+Disallow: /Home/Announcements/Run-for-Council
 Disallow: /Home/Announcements/Sprinkler-ban-now-in-place
 Disallow: /Home/Announcements/Weather-Warning
 Disallow: /Home/Community/Grants-and-funding/Economic-grants-and-incentives
@@ -869,6 +871,7 @@ Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-sched
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-3-May-2023/Council-Agenda-3-May-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-3-May-2023/Council-Minutes-3-May-2023
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-4-June-2025/Council-Agenda-4-June-2025
+Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-4-June-2025/Council-Minutes-4-June-2025
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-4-June-2025/Late-agenda-item-Extraordinary-Business-–-Proposed-use-of-the-land-adjacent-to-Maidstone-Park-for-Upper-Hutt-Bowling-Club
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-4-June-2025/New-page
 Disallow: /Home/Tabs/Council/Your-Council/Council-Meetings/Council-meeting-schedule/Council/Council-5-June-2024/Council-Agenda-5-June-2024
