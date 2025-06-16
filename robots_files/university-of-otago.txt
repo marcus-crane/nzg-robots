@@ -3,6 +3,8 @@ User-agent: *
 Disallow: /*?sq_content_src=
 
 # Disallow some specific paths
+Disallow: /about/support-and-sponsorship-grids
+Disallow: /about/support-and-sponsorship
 Disallow: /future-students/about-dunedin
 Disallow: /transform/about/cosc
 Disallow: /future-students/subjects/dclindent

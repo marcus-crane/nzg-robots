@@ -1559,6 +1559,15 @@ Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Cl
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Closure-20250615/Sime-Road-Closure-NCC-Event
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Closure-20250615/Springfield-Road-NCC-20250706
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Closure-20250615/Waiwarawara-Drive-NCC-20250713
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Closure-20250706/Doctors-Hill-Road-Closure-NCC-Event
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Closure-20250706/Kepa-Road-Closure-NCC-Event
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Closure-20250706/Paiawa-Road-NCC-Event
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Closure-20250706/Roosevelt-Road-NCC-20250713
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Closure-20250706/Rosythe-Road-NCC-20250615
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Closure-20250706/Ruarangi-Road-NCC-Event
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Closure-20250706/Sime-Road-Closure-NCC-Event
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Closure-20250706/Springfield-Road-NCC-20250706
+Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-closures/NCC-Closure-20250706/Waiwarawara-Drive-NCC-20250713
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-Closures/NCC-Road-Closure-2023/Coxhead-Road-NCC-Event
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-Closures/NCC-Road-Closure-2023/Springfield-Road-NCC-Event
 Disallow: /Services/Roads-and-Transportation/Roads/Roadworks-and-Closures/NCC-Road-Closure-2024/Copy-of-Coxhead-Road-NCC-Event-1

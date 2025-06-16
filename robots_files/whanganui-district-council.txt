@@ -16,6 +16,7 @@ Disallow: /Announcements/Customer-services-announcement
 Disallow: /Announcements/Cyclone-Gabrielle-donations
 Disallow: /Announcements/Holiday-opening-hours-for-council-services-and-facilities-20212022
 Disallow: /Announcements/LIM-application-deadline-2022-23-holiday-period
+Disallow: /Announcements/Local-election-2025
 Disallow: /Announcements/New-page
 Disallow: /Announcements/New-page-1
 Disallow: /Announcements/Online-services-server-upgrade
@@ -2766,6 +2767,8 @@ Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/D
 Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Latest-Updates
 Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Timeline/*
 Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Timeline/Community-engagement-event
+Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Timeline/Community-engagement-event-Polar-Plunge
+Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Timeline/Copy-of-Community-engagement-event-1
 Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Timeline/New-page
 Disallow: /Your-Council/Have-Your-Say/Consultations/Future-of-125-Grey-Street/Discussions
 Disallow: /Your-Council/Have-Your-Say/Consultations/Future-of-125-Grey-Street/Latest-Updates
