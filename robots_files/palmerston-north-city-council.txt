@@ -170,6 +170,7 @@ Disallow: /Home/Slider/Proposed-annual-budget
 Disallow: /Home/Slider/Rates-review
 Disallow: /Home/Slider/Santas-on-his-way-to-Palmerston-North
 Disallow: /Home/Slider/splashpad-back
+Disallow: /Home/Slider/stand-for-council
 Disallow: /Home/Slider/the-Queen
 Disallow: /Home/Slider/We-welcome-your-feedback
 Disallow: /Home/Slider/What-to-do-after-a-flood

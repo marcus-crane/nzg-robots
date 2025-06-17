@@ -2720,6 +2720,12 @@ Disallow: /Your-Council/Have-Your-Say/Consultations/Dangerous-and-Insanitary-Bui
 Disallow: /Your-Council/Have-Your-Say/Consultations/Development-contributions-consultation/Discussions
 Disallow: /Your-Council/Have-Your-Say/Consultations/Development-contributions-consultation/Latest-Updates
 Disallow: /Your-Council/Have-Your-Say/Consultations/Development-contributions-consultation/Timeline
+Disallow: /Your-Council/Have-Your-Say/Consultations/Draft-Freedom-Camping-Bylaw-2025/Discussions
+Disallow: /Your-Council/Have-Your-Say/Consultations/Draft-Freedom-Camping-Bylaw-2025/Latest-Updates
+Disallow: /Your-Council/Have-Your-Say/Consultations/Draft-Freedom-Camping-Bylaw-2025/Timeline/*
+Disallow: /Your-Council/Have-Your-Say/Consultations/Draft-Freedom-Camping-Bylaw-2025/Timeline/Community-engagement-event
+Disallow: /Your-Council/Have-Your-Say/Consultations/Draft-Freedom-Camping-Bylaw-2025/Timeline/Community-engagement-event-Davis-Library
+Disallow: /Your-Council/Have-Your-Say/Consultations/Draft-Freedom-Camping-Bylaw-2025/Timeline/Community-engagement-event-Polar-Plunge
 Disallow: /Your-Council/Have-Your-Say/Consultations/Draft-Heritage-Strategy/Timeline/Community-Draft-Heritage-Strategy-Workshop
 Disallow: /Your-Council/Have-Your-Say/Consultations/Draft-Heritage-Strategy/Timeline/New-page
 Disallow: /Your-Council/Have-Your-Say/Consultations/Draft-Heritage-Strategy/Timeline/Riverside-Market-Consultation-Stall
@@ -2767,8 +2773,10 @@ Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/D
 Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Latest-Updates
 Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Timeline/*
 Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Timeline/Community-engagement-event
+Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Timeline/Community-engagement-event-Davis-Library
 Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Timeline/Community-engagement-event-Polar-Plunge
 Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Timeline/Copy-of-Community-engagement-event-1
+Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Timeline/Copy-of-Community-engagement-event-Polar-Plunge-1
 Disallow: /Your-Council/Have-Your-Say/Consultations/Freedom-Camping-Bylaw-2025/Timeline/New-page
 Disallow: /Your-Council/Have-Your-Say/Consultations/Future-of-125-Grey-Street/Discussions
 Disallow: /Your-Council/Have-Your-Say/Consultations/Future-of-125-Grey-Street/Latest-Updates

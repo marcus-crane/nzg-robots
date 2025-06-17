@@ -552,6 +552,7 @@ Disallow: /Home/Featured-Content/Copy-of-Dogs-Summer-1
 Disallow: /Home/Featured-Content/Copy-of-Hot-Grill-Summer-1
 Disallow: /Home/Featured-Content/Copy-of-Regional-Recovery-Plan-1
 Disallow: /Home/Featured-Content/Copy-of-Speed-Management-Plan-1
+Disallow: /Home/Featured-Content/Creative-communities
 Disallow: /Home/Featured-Content/Cyclist-numbers-rising
 Disallow: /Home/Featured-Content/Cyclone-Gabrielle-Recovery-Plan
 Disallow: /Home/Featured-Content/Dam-levels
