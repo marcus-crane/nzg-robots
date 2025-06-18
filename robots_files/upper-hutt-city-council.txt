@@ -630,6 +630,7 @@ Disallow: /Council/Plans-policies-bylaws-and-reports/Copy-of-Our-Long-Term-Plan-
 Disallow: /Council/Plans-policies-bylaws-and-reports/Copy-of-Our-Long-Term-Plan-1/Our-vision-and-community-outcomes
 Disallow: /Council/Plans-policies-bylaws-and-reports/Copy-of-Our-Long-Term-Plan-1/Responses-to-the-Long-Term-Plan-LTP-2024-–-2034-Consultation
 Disallow: /Council/Public-Notices/Alcohol-Licenses-Public-Notices/Alcohol-Application-Closed
+Disallow: /Council/Rates/Rating-Information-Database-RID
 Disallow: /Council/Sport-and-recreation/Activation/Bike-Recycling-Project/Bike-Recycling-Project
 Disallow: /Council/Sport-and-recreation/Activation/The-Gas-Hubs-Parks-Places
 Disallow: /Council/Your-Council/About-Your-Council/Local-Elections/Candidate-information/Candidate-information-easy-read

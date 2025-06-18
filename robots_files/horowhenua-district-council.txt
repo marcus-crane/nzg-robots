@@ -1156,6 +1156,10 @@ Disallow: /News-Events/Events/Event-Calendar/Horowhenua-Vibez/Horowhenua-Vibez-2
 Disallow: /News-Events/Events/Event-Calendar/Horowhenua-Vibez/Horowhenua-Vibez-28-Feb-24
 Disallow: /News-Events/Events/Event-Calendar/Horowhenua-Vibez/Horowhenua-Vibez-31-Jan-24
 Disallow: /News-Events/Events/Event-Calendar/Horowhenua-Vibez/New-page
+Disallow: /News-Events/Events/Event-Calendar/Inflatable-Kingdom-Shannon/Copy-of-Sensory-session-1
+Disallow: /News-Events/Events/Event-Calendar/Inflatable-Kingdom-Shannon/General-session
+Disallow: /News-Events/Events/Event-Calendar/Inflatable-Kingdom-Shannon/New-page
+Disallow: /News-Events/Events/Event-Calendar/Inflatable-Kingdom-Shannon/Sensory-session
 Disallow: /News-Events/Events/Event-Calendar/Levin-Table-Tennis/Monday-session
 Disallow: /News-Events/Events/Event-Calendar/Levin-Table-Tennis/New-page
 Disallow: /News-Events/Events/Event-Calendar/Levin-Table-Tennis/Thursday-session
