@@ -475,6 +475,11 @@ Disallow: /Events/Whats-On/Matariki-Fireworks-Movie-20210703
 Disallow: /Events/Whats-On/Matariki-Planting-AH-Reed-2021
 Disallow: /Events/Whats-On/Matariki-Preschool-Funtimes-2021
 Disallow: /Events/Whats-On/Matariki-Whanau-Day
+Disallow: /Events/Whats-On/Meet-the-Candidates/Kamo
+Disallow: /Events/Whats-On/Meet-the-Candidates/Ruakaka
+Disallow: /Events/Whats-On/Meet-the-Candidates/Tutukaka
+Disallow: /Events/Whats-On/Meet-the-Candidates/Waipu
+Disallow: /Events/Whats-On/Meet-the-Candidates/Whananaki
 Disallow: /Events/Whats-On/Nga-Ika-Matariki-20210703
 Disallow: /Events/Whats-On/Ngunguru-seawall-dropin-20220802/Ngunguru-sports-complex-20220802
 Disallow: /Events/Whats-On/Ngunguru-seawall-dropin-20220802/Tutukaka-marina-20220813
@@ -2165,7 +2170,6 @@ Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2025/Timelin
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2025/Timeline/Adoption
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2025/Timeline/Consultation-closes
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2025/Timeline/Consultation-opens
-Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2025/Timeline/Copy-of-Adoption-1
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2025/Timeline/Deliberations
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2025/Timeline/Drop-in-Hikurangi
 Disallow: /Whats-new/Have-your-say/Closed-Consultations/Annual-Plan-2025/Timeline/Drop-in-Ruakaka

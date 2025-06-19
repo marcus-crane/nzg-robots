@@ -29,6 +29,7 @@ Disallow: /matai-haora-centre-for-redox-biology-and-medicine/staff/dr-louisa-ash
 Disallow: /geology/staff/academic
 Disallow: /geology/staff/general
 Disallow: /graduate-research/study/phddoctoral
+Disallow: /healthsciences/expertise/profile?id=586
 Disallow: /healthsciences/news/health-sciences-external-engagement
 Disallow: /resources/@public/pdfs/interprofessional-education-in-the-division-of-health-sciences-a-strategic-plan-2016-2019-234601.pdf
 Disallow: /healthsciences/students/professional/dentistry-interview-instructions

@@ -61,7 +61,9 @@ Disallow: /About-Waitaki-New/ED-site-background/ED-site-banner/*
 Disallow: /About-Waitaki-New/ED-site-background/New-page/*
 Disallow: /About-Waitaki-New/Exploring-Waitaki/Art-Culture-and-Outdoors/ED-site-banner/*
 Disallow: /Announcements/Conserve-Water-Notice
+Disallow: /Announcements/Copy-of-Website-maintenance-1
 Disallow: /Announcements/Copy-of-Website-scheduled-maintenance-1
+Disallow: /Announcements/GIS-maintenance
 Disallow: /Announcements/Water-Notice
 Disallow: /Announcements/Water-Shutdown-Notice
 Disallow: /Announcements/Website-maintenance
