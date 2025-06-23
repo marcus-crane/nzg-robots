@@ -21,6 +21,7 @@ Disallow:/*?a=*
 Disallow:/enquiry
 Disallow:/customise-this-page
 Disallow:/work
+Disallow:/news/around-aut-news/commitment-to-community-causes
 Disallow:/academic-staff-list
 Disallow:/tool
 Disallow:/academic-staff-old

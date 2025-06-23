@@ -106,7 +106,6 @@ Disallow: /Contact-us/Do-it-online/Request-parks-an-reserves-maintenance
 Disallow: /Contact-us/Do-it-online/Street-lights
 Disallow: /Contact-us/Do-it-online/Street-stall-food-truck-appeal-raffle-and-busking-application
 Disallow: /Contact-us/Get-in-touch/Civic-Building
-Disallow: /Contact-us/Get-in-touch/New-page
 Disallow: /Contact-us/Mayor-and-Councillor
 Disallow: /Contact-us/Mayor-and-Councillors
 Disallow: /Contact-us/New-page/*
@@ -265,6 +264,8 @@ Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-8-M
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-8-May-2024/Council-Minutes-8-May-2024
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-8-May-2024/Document-to-be-tabled-Item-12-Attachment-1-Audit-Plan
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-8-May-2024/Document-to-be-tabled-Item-16.3-Minutes-of-the-Finance-Committee-1-May-2024
+Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-8-May-2024/New-page
+Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-8-May-2024/Released-to-Public-Public-and-Private-Road-Naming
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-Wednesday-6-November-2024/Council-Agenda-Wednesday-6-November-2024
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Emergency-Council-30-August-2023/Emergency-Council-Agenda-30-August-2023
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Emergency-Council-30-August-2023/Emergency-Council-Minutes-30-August-2023
@@ -486,6 +487,8 @@ Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/2023/Cycle-4/*
 Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/2023/Cycle-5
 Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/2023/Cycle-6
 Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/2023/Cycle-7
+Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/City-Development-Committee-22-May-2019/City-Development-Committee-Agenda-22-May-2019
+Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/City-Development-Committee-22-May-2019/City-Development-Committee-Minutes-22-May-2019
 Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Council-6-April-2022/Council-Agenda-6-April-2022
 Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Council-6-April-2022/Council-Minutes-6-April-2022
 Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Council-6-November-2024/Council-Agenda-6-November-2024
@@ -566,6 +569,8 @@ Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Council-meetings
 Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Council-meetings-calendar/Extraordinary-Council-Meeting-6-November-2019/Minutes-Extraordinary-Council-Meeting-6-November-2019
 Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Council-meetings-calendar/Finance-and-Performance-Committee-25-May-2022/Finance-and-Performance-Agenda-25-May-2022
 Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Council-meetings-calendar/Finance-and-Performance-Committee-25-May-2022/Finance-and-Performance-minutes-25-May-2022
+Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Council-meetings-calendar/Finance-and-Performance-Committee-25-May-2022/New-page
+Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Council-meetings-calendar/Finance-and-Performance-Committee-25-May-2022/Release-to-public-Private-and-Public-Road-Naming
 Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Council-meetings-calendar/Finance-and-Performance-Committee-6-April-2022/Finance-and-Performance-Committee-Agenda-6-April-2022
 Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Council-meetings-calendar/Finance-and-Performance-Committee-6-April-2022/Finance-and-Performance-Committee-Minutes-6-April-2022
 Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Council-meetings-calendar/Finance-and-Performance-Committee-Meeting-13-October-2021/Agenda-Finance-and-Performance-Committee-Meeting-13-October-2021
@@ -610,6 +615,9 @@ Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Hutt-Valley-Serv
 Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Hutt-Valley-Services-Joint-Committee-Meeting-23-Nov-2018/Hutt-Valley-Services-Joint-Committee-Minutes-23-November-2018
 Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Ordinary-Council-Meeting-15-August-2018/Council-Agenda-15-August-2018
 Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Ordinary-Council-Meeting-15-August-2018/Council-Minutes-15-August-2018
+Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Ordinary-Council-Meeting-4-July-2018/New-page
+Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Ordinary-Council-Meeting-4-July-2018/Released-for-public-Road-Naming-Wallaceville
+Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Ordinary-Council-Meeting-4-July-2018/Released-to-public-Road-Naming-Wallaceville
 Disallow: /Council/Council-Meetings/Meeting-agendas-and-minutes/Policy-Committee-Meeting-1-August-2018/*
 Disallow: /Council/Let’s-KōreroHave-your-say/Gambling-Venues-Policy-review
 Disallow: /Council/Let’s-KōreroHave-your-say/Water-supply-bylaw-review/*
@@ -1389,6 +1397,7 @@ Disallow: /COVID-TEMP-Announcements/Dog-registration-update
 Disallow: /COVID-TEMP-Announcements/Heads-up-New-look-homepage
 Disallow: /COVID-TEMP-Announcements/Matariki-collections/New-page
 Disallow: /COVID-TEMP-Announcements/MPI-Food-Levy
+Disallow: /COVID-TEMP-Announcements/Rates-rebates-changes
 Disallow: /COVID-TEMP-Announcements/Rating-information-database
 Disallow: /COVID-TEMP-Announcements/Rating-Information-Database-RID
 Disallow: /COVID-TEMP-Announcements/Representation-Review-2024
@@ -1502,6 +1511,7 @@ Disallow: /Home/Announcements/New-page
 Disallow: /Home/Announcements/Rates-reminder
 Disallow: /Home/Announcements/Run-for-Council
 Disallow: /Home/Announcements/Sprinkler-ban-now-in-place
+Disallow: /Home/Announcements/Urgent-rates-changes
 Disallow: /Home/Announcements/Weather-Warning
 Disallow: /Home/Community/Grants-and-funding/Economic-grants-and-incentives
 Disallow: /Home/Community/People-and-programmes/Mesa-Youth-Ambassadors/Mesa-Youth-Ambassadors-Exchange-photos
@@ -1564,6 +1574,7 @@ Disallow: /Home/In-Focus/Pride-2024/Copy-of-Ki-Uta-app-1
 Disallow: /Home/In-Focus/Pride-2024/Ki-Uta-app
 Disallow: /Home/In-Focus/Teens-Resources
 Disallow: /Home/In-Focus/The-Gardians
+Disallow: /Home/In-Focus/U-PLAY-Winter-2025
 Disallow: /Home/In-Focus/Upper-Hutt-Arts-and-Culture
 Disallow: /Home/In-Focus/Upper-Hutt-Multicultural-Week-2024
 Disallow: /Home/In-Focus/Welcoming-Communities
