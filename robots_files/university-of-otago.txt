@@ -47,8 +47,6 @@ Disallow: /healthsciences/students/professional/congratulations
 Disallow: /transform/healthsciences/students/professional/interview-information-for-medicine-alternative-category-applicants
 Disallow: /transform/healthsciences/students/professional/dentistry-interview-instructions2
 Disallow: /law/research/emergingtechnologies/about-us-mo-matou-ra
-Disallow: /maori/signage-requests/login.html
-Disallow: /maori/signage-requests/
 Disallow: /maoricentre/services/mentoring
 Disallow: /maoricentre/about/staff
 Disallow: /nclr/accessibility

@@ -32,7 +32,6 @@ Disallow: /Announcements/COVID-19-impact-on-services
 Disallow: /Announcements/Current-Water-restriction-level
 Disallow: /Announcements/Cyclone-Gabrielle-MetService-updates
 Disallow: /Announcements/Digital-noticeboards
-Disallow: /Announcements/Dog-registration-update
 Disallow: /Announcements/Heads-up-New-look-homepage
 Disallow: /Announcements/Intensification-Planning-Instrument-IPI-hearings-Live-Stream
 Disallow: /Announcements/Liquor-license-Christmas
@@ -1393,7 +1392,7 @@ Disallow: /COVID-TEMP-Announcements/Consultation-on-our-Long-Term-Plan-2024-–-
 Disallow: /COVID-TEMP-Announcements/COVID-19-impact-on-services
 Disallow: /COVID-TEMP-Announcements/Current-Water-restriction-level
 Disallow: /COVID-TEMP-Announcements/Digital-noticeboards
-Disallow: /COVID-TEMP-Announcements/Dog-registration-update
+Disallow: /COVID-TEMP-Announcements/dog-registration
 Disallow: /COVID-TEMP-Announcements/Heads-up-New-look-homepage
 Disallow: /COVID-TEMP-Announcements/Matariki-collections/New-page
 Disallow: /COVID-TEMP-Announcements/MPI-Food-Levy
@@ -1502,11 +1501,11 @@ Disallow: /Home/Announcements/Cyclone-Gabrielle—how-you-can-help
 Disallow: /Home/Announcements/Cyclone-Gabrielle-MetService-updates
 Disallow: /Home/Announcements/Cyclone-Gabrielle—Upper-Hutt-City-Council-“adopts”-Napier-City-Council
 Disallow: /Home/Announcements/Cyclone-Gabrielle—ways-to-help
+Disallow: /Home/Announcements/Dog-Registration
 Disallow: /Home/Announcements/Impacts-of-weather-event
 Disallow: /Home/Announcements/Local-Elections
 Disallow: /Home/Announcements/Long-Term-Plan-consultation
 Disallow: /Home/Announcements/Moving-back-to-Civic
-Disallow: /Home/Announcements/MPI-Food-Levy
 Disallow: /Home/Announcements/New-page
 Disallow: /Home/Announcements/Rates-reminder
 Disallow: /Home/Announcements/Run-for-Council

@@ -280,7 +280,6 @@ Disallow: /Online-forms/Festival-of-Cultures-application-form
 Disallow: /Online-forms/holi-applications
 Disallow: /Online-forms/Lunar-New-Year-2023-application-page
 Disallow: /Online-forms/Lunar-New-Year-application-page
-Disallow: /Online-forms/New-page
 Disallow: /Online-forms/New-Years-Eve-2023-performance-application
 Disallow: /Online-forms/New-Years-Eve-2023-stallfood-truck-application
 Disallow: /Online-forms/New-Years-Eve-in-The-Square-performance-application

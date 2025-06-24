@@ -4,7 +4,9 @@ Disallow: /404-page-not-found
 Disallow: /About-Waitaki/About-Waitaki-Top-Tasks/*
 Disallow: /About-Waitaki/About-Waitaki-Top-Tasks/Alps-2-Ocean-Trail
 Disallow: /About-Waitaki/About-Waitaki-Top-Tasks/Camping
+Disallow: /About-Waitaki/About-Waitaki-Top-Tasks/Copy-of-Grants-and-funding-1
 Disallow: /About-Waitaki/About-Waitaki-Top-Tasks/Freedom-Camping
+Disallow: /About-Waitaki/About-Waitaki-Top-Tasks/GrantGuru
 Disallow: /About-Waitaki/About-Waitaki-Top-Tasks/Grants-and-funding
 Disallow: /About-Waitaki/About-Waitaki-Top-Tasks/Maps
 Disallow: /About-Waitaki/About-Waitaki-Top-Tasks/Stronger-Waitaki

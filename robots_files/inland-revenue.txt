@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /
 Disallow: /temp
 Disallow: /sitecore
 Disallow: /app_data
