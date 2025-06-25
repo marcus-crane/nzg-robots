@@ -190,6 +190,8 @@ Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/CANCELLED-C
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-11-December-2024/Council-Agenda-11-December-2024
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-11-December-2024/Council-Minutes-11-December-2024
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-11-June-2025/Council-Agenda-11-June-2025
+Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-11-June-2025/Council-Minutes-11-June-2025
+Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-11-June-2025/New-page
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-12-March-2025/Council-Agenda-12-March-2025
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-12-March-2025/Council-Minutes-12-March-2025
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-13-and-14-May-2024/Council-Agenda-13-and-14-May-2024
@@ -240,6 +242,8 @@ Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-April-2025/Council-Minutes-30-April-2025
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-July-2024/Council-Agenda-30-July-2024
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-July-2024/Council-minutes-30-July-2024
+Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-June-2025/Council-Agenda-30-June-2025
+Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-June-2025/New-page
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-October-2024/Council-Agenda-30-October-2024
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-October-2024/Council-Minutes-30-October-2024
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-October-2024/Supplementary-Agenda-Item-4-Attachment-1-and-2-and-Item-5
