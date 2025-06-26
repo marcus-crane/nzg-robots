@@ -323,6 +323,7 @@ Disallow: /Participate-Palmy/Council-meetings/All-meetings/11-December-2024-Coun
 Disallow: /Participate-Palmy/Council-meetings/All-meetings/11-October-2023-Extraordinary-Economic-Growth-Committee-Meeting
 Disallow: /Participate-Palmy/Council-meetings/All-meetings/11-October-2023-Extraordinary-Strategy-Finance-Committee-Meeting
 Disallow: /Participate-Palmy/Council-meetings/All-meetings/12-February-2025-Council-Meeting
+Disallow: /Participate-Palmy/Council-meetings/All-meetings/13-August-2025-Extraordinary-Council-Meeting
 Disallow: /Participate-Palmy/Council-meetings/All-meetings/13-December-2023-Extraordinary-Council-Meeting
 Disallow: /Participate-Palmy/Council-meetings/All-meetings/14-February-2024-Council-Meeting
 Disallow: /Participate-Palmy/Council-meetings/All-meetings/14-June-2023-Council-Meeting-Annual-Budget-202324
