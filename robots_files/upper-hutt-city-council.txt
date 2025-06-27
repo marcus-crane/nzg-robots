@@ -169,6 +169,8 @@ Disallow: /Council/Council-Meetings/Council-meeting-schedule/City-Services-Commi
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-27-March-2024/City-Services-Committee-Minutes-27-March-2024
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-29-March-2023/City-Services-Committee-Agenda-29-March-2023
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-29-March-2023/City-Services-Committee-Minutes-29-March-2023
+Disallow: /Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-2-July-2025/City-Services-Agenda-2-July-2025
+Disallow: /Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-2-July-2025/New-page
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-3-July-2024/City-Services-Committee-Agenda-3-July-2024
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-3-July-2024/City-Services-Committee-Minutes-3-July-2024
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-4-October-2023/City-Services-Committee-Agenda-4-October-2023
@@ -417,6 +419,8 @@ Disallow: /Council/Council-Meetings/Council-meeting-schedule/Workshop/Workshop-1
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Workshop/Workshop-14-November-2024/Workshop-Agenda-14-November-2024
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Workshop/Workshop-17-October-2024/Workshop-agenda-17-October-2024
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Workshop/Workshop-18-June-2024/Workshop-material
+Disallow: /Council/Council-Meetings/Council-meeting-schedule/Workshop/Workshop-19-June-2025/New-page
+Disallow: /Council/Council-Meetings/Council-meeting-schedule/Workshop/Workshop-19-June-2025/Workshop-Agenda-19-June-2025
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Workshop/Workshop-22-May-2024/Workshop-material
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Workshop/Workshop-25-February-2025/Workshop-Agenda-25-February-2025
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Workshop/Workshop-27-May-2025/Workshop-Agenda-27-May-2025
@@ -639,6 +643,11 @@ Disallow: /Council/Plan-and-build/Building-ToolkitApplications/Water-Application
 Disallow: /Council/Plan-and-build/Planning-for-the-growth/Upper-Hutt-City-strategies
 Disallow: /Council/Plan-and-build/Seven-steps-towards-a-successful-build/Step-Four-Apply/Building-services-fees
 Disallow: /Council/Plan-and-build/Seven-steps-towards-a-successful-build/Step-One-Idea/Xplorer
+Disallow: /Council/Plans-and-strategies/Copy-of-Our-Long-Term-Plan-1/*
+Disallow: /Council/Plans-and-strategies/Copy-of-Our-Long-Term-Plan-1/Historic-plans-and-reports
+Disallow: /Council/Plans-and-strategies/Copy-of-Our-Long-Term-Plan-1/Long-Term-Plan-LTP-2024-–-2034
+Disallow: /Council/Plans-and-strategies/Copy-of-Our-Long-Term-Plan-1/Our-vision-and-community-outcomes
+Disallow: /Council/Plans-and-strategies/Copy-of-Our-Long-Term-Plan-1/Responses-to-the-Long-Term-Plan-LTP-2024-–-2034-Consultation
 Disallow: /Council/Plans-policies-bylaws-and-reports/Copy-of-Our-Long-Term-Plan-1/*
 Disallow: /Council/Plans-policies-bylaws-and-reports/Copy-of-Our-Long-Term-Plan-1/Historic-plans-and-reports
 Disallow: /Council/Plans-policies-bylaws-and-reports/Copy-of-Our-Long-Term-Plan-1/Long-Term-Plan-LTP-2024-–-2034

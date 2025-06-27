@@ -260,6 +260,7 @@ Disallow: /News-Events/Public-notices-redirect
 Disallow: /Online-forms/Anzac-Day-Civic-Commemoration-Service-registration-form
 Disallow: /Online-forms/apply-for-planter-boxes
 Disallow: /Online-forms/Barking-dog-survey
+Disallow: /Online-forms/Caccia-Birch-House-Giveaway
 Disallow: /Online-forms/Community-events-survey
 Disallow: /Online-forms/Copy-of-Explore-Esplanade-Day-2023-performance-application-1
 Disallow: /Online-forms/Copy-of-Explore-Esplanade-Day-2023-stallfood-truck-application-1
@@ -280,6 +281,7 @@ Disallow: /Online-forms/Festival-of-Cultures-application-form
 Disallow: /Online-forms/holi-applications
 Disallow: /Online-forms/Lunar-New-Year-2023-application-page
 Disallow: /Online-forms/Lunar-New-Year-application-page
+Disallow: /Online-forms/New-page
 Disallow: /Online-forms/New-Years-Eve-2023-performance-application
 Disallow: /Online-forms/New-Years-Eve-2023-stallfood-truck-application
 Disallow: /Online-forms/New-Years-Eve-in-The-Square-performance-application
