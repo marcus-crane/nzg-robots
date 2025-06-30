@@ -338,6 +338,7 @@ Disallow: /Events/Festivals/Event-Registration
 Disallow: /Events/Festivals/Motorsport-Festival
 Disallow: /Events/Festivals/Restaurant-registration
 Disallow: /Events/Festivals/Silver-Festival/Silver-Festival-2021
+Disallow: /Events/Forum-North/Book-Forum-North/Copy-of-Forum-North-collected-gallery-1
 Disallow: /Events/Forum-North/Book-Forum-North/Forum-North-collected-gallery
 Disallow: /Events/Forum-North/Book-Forum-North/Forum-North-mixed-gallery
 Disallow: /Events/Forum-North/Book-Forum-North/New-page
@@ -942,8 +943,10 @@ Disallow: /library/Visit/Locations/Locations-list/Mobile-BestStart-Kotaka-Height
 Disallow: /library/Visit/Locations/Locations-list/Mobile-BestStart-Pipiwai-Kindy
 Disallow: /library/Visit/Locations/Locations-list/Mobile-BestStart-Pipiwai-Road
 Disallow: /library/Visit/Locations/Locations-list/Mobile-BestStart-Pipiwai-Road-and-Kindy
+Disallow: /library/Visit/Locations/Locations-list/Mobile-Bream-Bay-Retirement-Village
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Bream-Bay-Village
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Busy-Bees
+Disallow: /library/Visit/Locations/Locations-list/Mobile-Busy-Bees-Ruakaka
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Christopher-Robin-Early-Childhood-Centre
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Cnr-Princes-Street-and-Mercer-Street
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Comrie-Park-Kindergarten
@@ -1017,6 +1020,7 @@ Disallow: /library/Visit/Locations/Locations-list/Mobile-Small-Poppies
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Small-Poppies-carpark
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Springfield-Domain
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Step-Ahead
+Disallow: /library/Visit/Locations/Locations-list/Mobile-Step-Ahead-Childcare
 Disallow: /library/Visit/Locations/Locations-list/Mobile-St-Johns-Childcare-Centre
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Stonehaven-Retirement-Village
 Disallow: /library/Visit/Locations/Locations-list/Mobile-Tauraroa-Community-Library
@@ -1403,6 +1407,18 @@ Disallow: /Rotating-banners/Walks/Otuihau-Whangārei-Falls
 Disallow: /Rotating-banners/Walks/Whale-Bay
 Disallow: /Sandbox/*
 Disallow: /Sandbox/Food-premises/Food-premises-fees
+Disallow: /Sandbox/Test-FN/Visit-Forum-North/Forum-North-banner/*
+Disallow: /Sandbox/Test-FN/Visit-Forum-North/Forum-North-banner/Capitaine-Bougainville-Theatre
+Disallow: /Sandbox/Test-FN/Visit-Forum-North/Forum-North-banner/Copy-of-Capitaine-Bougainville-Theatre-1
+Disallow: /Sandbox/Test-FN/Visit-Forum-North/Forum-North-banner/Copy-of-Exhibition-Hall-cocktail-layout-1
+Disallow: /Sandbox/Test-FN/Visit-Forum-North/Forum-North-banner/Copy-of-Exhibition-Hall-Devilskin-1
+Disallow: /Sandbox/Test-FN/Visit-Forum-North/Forum-North-banner/Copy-of-Exhibition-Hall-with-decorations-1
+Disallow: /Sandbox/Test-FN/Visit-Forum-North/Forum-North-banner/Exhibition-Hall-ball-event
+Disallow: /Sandbox/Test-FN/Visit-Forum-North/Forum-North-banner/Exhibition-Hall-cocktail-layout
+Disallow: /Sandbox/Test-FN/Visit-Forum-North/Forum-North-banner/Exhibition-Hall-Devilskin
+Disallow: /Sandbox/Test-FN/Visit-Forum-North/Forum-North-banner/Exhibition-Hall-with-decorations
+Disallow: /Sandbox/Test-FN/Visit-Forum-North/Forum-North-banner/Forum-North
+Disallow: /Sandbox/Test-FN/Visit-Forum-North/Forum-North-banner/Forum-North-concourse
 Disallow: /Services/Building/Building-Consents/AlphaOne-portal
 Disallow: /Services/Building/Building-Consents/Apply-for-BC-online
 Disallow: /Services/Building/Building-Consents/Apply-for-PIM
@@ -2013,6 +2029,7 @@ Disallow: /Temporary-Announcements/New-bin-collection-locations
 Disallow: /Temporary-Announcements/New-page
 Disallow: /Temporary-Announcements/Online-request-outage
 Disallow: /Temporary-Announcements/Parihaka-Scenic-Reserve-track-closures-20240731
+Disallow: /Temporary-Announcements/Partial-Shared-Path-temporary-closure
 Disallow: /Temporary-Announcements/Pohe-Carpark-Closed
 Disallow: /Temporary-Announcements/Port-Road-temporary-road-layout
 Disallow: /Temporary-Announcements/Proposed-rates
@@ -2024,6 +2041,7 @@ Disallow: /Temporary-Announcements/Refund-requests
 Disallow: /Temporary-Announcements/RMA-Building-Act-closedown
 Disallow: /Temporary-Announcements/Ruakaka-service-centre-closed
 Disallow: /Temporary-Announcements/Rubbish-collection
+Disallow: /Temporary-Announcements/Shared-Path-temporary-and-partial-closure
 Disallow: /Temporary-Announcements/Shared-Path-temporary-closure
 Disallow: /Temporary-Announcements/Te-Matau-a-Pohe-bridge-planned-closure
 Disallow: /Temporary-Announcements/Temporary-partial-closure-Reotahi-walkway

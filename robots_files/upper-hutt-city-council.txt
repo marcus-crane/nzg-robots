@@ -639,7 +639,6 @@ Disallow: /Council/Plan-and-build/Building-ToolkitApplications/Fees-and-Charges
 Disallow: /Council/Plan-and-build/Building-ToolkitApplications/Planning-Application-Forms-and-Guidance-Documents
 Disallow: /Council/Plan-and-build/Building-ToolkitApplications/Record-of-Title-for-Building-Consent-Resource-Consents-and-LIM
 Disallow: /Council/Plan-and-build/Building-ToolkitApplications/Territorial-Authority-Discretionary-Exemption-from-Building-Consent
-Disallow: /Council/Plan-and-build/Building-ToolkitApplications/Water-Application-Forms
 Disallow: /Council/Plan-and-build/Planning-for-the-growth/Upper-Hutt-City-strategies
 Disallow: /Council/Plan-and-build/Seven-steps-towards-a-successful-build/Step-Four-Apply/Building-services-fees
 Disallow: /Council/Plan-and-build/Seven-steps-towards-a-successful-build/Step-One-Idea/Xplorer
@@ -1729,7 +1728,6 @@ Disallow: /Home/Tabs/Council/Plan-and-build/Building-ToolkitApplications/Fees-an
 Disallow: /Home/Tabs/Council/Plan-and-build/Building-ToolkitApplications/Planning-Application-Forms-and-Guidance-Documents
 Disallow: /Home/Tabs/Council/Plan-and-build/Building-ToolkitApplications/Record-of-Title-for-Building-Consent-Resource-Consents-and-LIM
 Disallow: /Home/Tabs/Council/Plan-and-build/Building-ToolkitApplications/Territorial-Authority-Discretionary-Exemption-from-Building-Consent
-Disallow: /Home/Tabs/Council/Plan-and-build/Building-ToolkitApplications/Water-Application-Forms
 Disallow: /Home/Tabs/Council/Plan-and-build/Planning-for-the-growth/Upper-Hutt-City-strategies
 Disallow: /Home/Tabs/Council/Plan-and-build/Seven-steps-towards-a-successful-build/Step-Four-Apply/Building-services-fees
 Disallow: /Home/Tabs/Council/Plan-and-build/Seven-steps-towards-a-successful-build/Step-One-Idea/Xplorer
@@ -2527,7 +2525,6 @@ Disallow: /Home/Tabs/New-page/Plan-and-build/Building-Toolkit/Fees-and-Charges
 Disallow: /Home/Tabs/New-page/Plan-and-build/Building-Toolkit/Planning-Application-Forms-and-Guidance-Documents
 Disallow: /Home/Tabs/New-page/Plan-and-build/Building-Toolkit/Record-of-Title-for-Building-Consent-Resource-Consents-and-LIM
 Disallow: /Home/Tabs/New-page/Plan-and-build/Building-Toolkit/Territorial-Authority-Discretionary-Exemption-from-Building-Consent
-Disallow: /Home/Tabs/New-page/Plan-and-build/Building-Toolkit/Water-Application-Forms
 Disallow: /Home/Tabs/New-page/Plan-and-build/Planning-for-the-growth/Upper-Hutt-City-strategies
 Disallow: /Home/Tabs/New-page/Plan-and-build/Seven-steps-towards-a-successful-build/Step-Four-Apply/Building-services-fees
 Disallow: /Home/Tabs/New-page/Plan-and-build/Seven-steps-towards-a-successful-build/Step-One-Idea/Xplorer
@@ -2940,9 +2937,6 @@ Disallow: /Plan-and-build/Building-Toolkit/Fees-and-Charges
 Disallow: /Plan-and-build/Building-Toolkit/Planning-Application-Forms-and-Guidance-Documents
 Disallow: /Plan-and-build/Building-Toolkit/Record-of-Title-for-Building-Consent-Resource-Consents-and-LIM
 Disallow: /Plan-and-build/Building-Toolkit/Territorial-Authority-Discretionary-Exemption-from-Building-Consent
-Disallow: /Plan-and-build/Building-Toolkit/Water
-Disallow: /Plan-and-build/Building-Toolkit/Water-Application-Form
-Disallow: /Plan-and-build/Building-Toolkit/Water-Application-Forms
 Disallow: /Plan-and-build/Planning-for-the-growth/Upper-Hutt-City-strategies
 Disallow: /Plan-and-build/Step-Four-Apply/Building-services-fees
 Disallow: /Plan-and-build/Step-Four-Apply/Fees
@@ -2955,12 +2949,9 @@ Disallow: /Plan-and-build/Step-Three-Prepare/Building-Toolkit/Copy-of-Building-A
 Disallow: /Plan-and-build/Step-Three-Prepare/Building-Toolkit/Copy-of-Building-Guide-1
 Disallow: /Plan-and-build/Step-Three-Prepare/Building-Toolkit/Copy-of-Construction-Statements-1
 Disallow: /Plan-and-build/Step-Three-Prepare/Building-Toolkit/Copy-of-Fees-and-Charges-1
-Disallow: /Plan-and-build/Step-Three-Prepare/Building-Toolkit/Copy-of-Planning-Application-Forms-and-Guidance-Documents-1
 Disallow: /Plan-and-build/Step-Three-Prepare/Building-Toolkit/Copy-of-Record-of-Title-for-Building-Consent-Resource-Consents-and-LIM-1
-Disallow: /Plan-and-build/Step-Three-Prepare/Building-Toolkit/Copy-of-Water-1
 Disallow: /Plan-and-build/Step-Three-Prepare/Building-Toolkit/Fees-and-Charges
 Disallow: /Plan-and-build/Step-Three-Prepare/Building-Toolkit/Record-of-Title-for-Building-Consent-Resource-Consents-and-LIM
-Disallow: /Plan-and-build/Step-Three-Prepare/Building-Toolkit/Water
 Disallow: /Plan-and-build/Step-Two/Copy-of-Fees-1
 Disallow: /Plan-and-build/Step-Two/Fees
 Disallow: /Plan-and-build/Step-Two/Xplorer
@@ -3068,6 +3059,7 @@ Disallow: /Services/Emergency-management/COVID-19/Regional-coordination
 Disallow: /Services/Emergency-management/COVID-19/Test-image-resize
 Disallow: /Services/Emergency-management/COVID-19/Unite-against-COVID-19
 Disallow: /Services/Emergency-management/COVID19-Information-and-updates/COVID19-Regional-coordination
+Disallow: /Services/Emergency-management/New-page
 Disallow: /Services/Emergency-management/Rainwater-tanks
 Disallow: /Services/Emergency-management/Unite-against-COVID-19
 Disallow: /Services/Health-and-safety/Itinerant-Traders-No-Food
@@ -3075,6 +3067,14 @@ Disallow: /Services/Health-and-safety/Licences/Itinerant-Traders-No-Food
 Disallow: /Services/Health-and-safety/Liquor-licences/Itinerant-Traders-No-Food
 Disallow: /Services/Licences/Itinerant-Traders-No-Food
 Disallow: /Services/Pets-and-animals/Keeping-of-poultry-bees
+Disallow: /Services/Plan-and-build/Building-Toolkit/Building-Application-Form-Guides
+Disallow: /Services/Plan-and-build/Building-Toolkit/Building-Application-Forms
+Disallow: /Services/Plan-and-build/Building-Toolkit/Construction-Statements
+Disallow: /Services/Plan-and-build/Building-Toolkit/Fees-and-Charges
+Disallow: /Services/Plan-and-build/Building-Toolkit/Planning-Application-Forms-and-Guidance-Documents
+Disallow: /Services/Plan-and-build/Building-Toolkit/Record-of-Title-for-Building-Consent-Resource-Consents-and-LIM
+Disallow: /Services/Plan-and-build/Building-Toolkit/Territorial-Authority-Discretionary-Exemption-from-Building-Consent
+Disallow: /Services/Plan-and-build/Building-Toolkit/Water-Application-Forms
 Disallow: /Services/Plan-and-build/Building-ToolkitApplications/Building-Application-Form-Guides
 Disallow: /Services/Plan-and-build/Building-ToolkitApplications/Building-Application-Forms
 Disallow: /Services/Plan-and-build/Building-ToolkitApplications/Construction-Statements
@@ -3082,7 +3082,6 @@ Disallow: /Services/Plan-and-build/Building-ToolkitApplications/Fees-and-Charges
 Disallow: /Services/Plan-and-build/Building-ToolkitApplications/Planning-Application-Forms-and-Guidance-Documents
 Disallow: /Services/Plan-and-build/Building-ToolkitApplications/Record-of-Title-for-Building-Consent-Resource-Consents-and-LIM
 Disallow: /Services/Plan-and-build/Building-ToolkitApplications/Territorial-Authority-Discretionary-Exemption-from-Building-Consent
-Disallow: /Services/Plan-and-build/Building-ToolkitApplications/Water-Application-Forms
 Disallow: /Services/Plan-and-build/Planning-for-the-growth/Upper-Hutt-City-strategies
 Disallow: /Services/Plan-and-build/Seven-steps-towards-a-successful-build/Step-Four-Apply/Building-services-fees
 Disallow: /Services/Plan-and-build/Seven-steps-towards-a-successful-build/Step-One-Idea/Xplorer

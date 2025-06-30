@@ -125,9 +125,11 @@ Disallow: /Council-city/Regulations/Bylaws-[original]/*
 Disallow: /Council-city/What-were-doing/Ongoing-projects-and-programmes/Climate-calculator
 Disallow: /Glossary/*
 Disallow: /Home/Do-It-Online/*
+Disallow: /Home/Emergency-announcements/changed-to-General-and-hidden-Grounds-closed
 Disallow: /Home/Emergency-announcements/Changes-are-coming-to-kerbside-recycling-in-Palmy
 Disallow: /Home/Emergency-announcements/Copy-of-Discoloured-water-1
 Disallow: /Home/Emergency-announcements/Copy-of-Emergency-water-repair-1
+Disallow: /Home/Emergency-announcements/Copy-of-Grounds-closed-1
 Disallow: /Home/Emergency-announcements/Copy-of-Temporary-closure-1
 Disallow: /Home/Emergency-announcements/Customer-Service-Centre-closed
 Disallow: /Home/Emergency-announcements/Discoloured-water
@@ -135,6 +137,7 @@ Disallow: /Home/Emergency-announcements/Emergency-water-repair
 Disallow: /Home/Emergency-announcements/Emergency-water-repair-in-Ashhurst
 Disallow: /Home/Emergency-announcements/Emergency-water-shutdown-Ashhurst
 Disallow: /Home/Emergency-announcements/Glass-recycling-postponed
+Disallow: /Home/Emergency-announcements/Grounds-closed
 Disallow: /Home/Emergency-announcements/Grounds-open
 Disallow: /Home/Emergency-announcements/Grounds-remain-closed
 Disallow: /Home/Emergency-announcements/kerbside-recycling-in-Palmy

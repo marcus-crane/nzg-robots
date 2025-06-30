@@ -118,8 +118,10 @@ Disallow: /Council/Consultation/proposed-district-plan/district-plan-review-arch
 Disallow: /Council/Consultation/proposed-district-plan/district-plan-review-archive/Proposed-District-Plan
 Disallow: /Council/Council-Controlled-Organisations/Omarama-Airfield
 Disallow: /Council/Council-Controlled-Organisations-back-up
+Disallow: /Council/Council-Meetings/Meeting-Agendas
+Disallow: /Council/Council-Meetings/Meeting-Agendas-and-Minutes
 Disallow: /Council/Council-Meetings/Meeting-Calendar-New
-Disallow: /Council/Council-Meetings/New-page
+Disallow: /Council/Council-Meetings/Meeting-Calendarr
 Disallow: /Council/Council-Top-Tasks/Contact-a-Councillor
 Disallow: /Council/Council-Top-Tasks/Council-Meetings
 Disallow: /Council/Council-Top-Tasks/Have-your-say
