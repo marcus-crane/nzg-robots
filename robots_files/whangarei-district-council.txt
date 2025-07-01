@@ -604,6 +604,7 @@ Disallow: /Home/Featured-Content/Sign-up-for-our-newsletters
 Disallow: /Home/Featured-Content/Silver-Festival
 Disallow: /Home/Featured-Content/Speed-Management-Plan
 Disallow: /Home/Featured-Content/Statutory-closedown
+Disallow: /Home/Featured-Content/T2-transit-lane-opens
 Disallow: /Home/Featured-Content/Tsunami-Siren
 Disallow: /Home/Featured-Content/Wahine-Toa
 Disallow: /Home/Featured-Content/Website-feedback
