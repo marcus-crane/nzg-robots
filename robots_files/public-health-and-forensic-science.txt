@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /umbraco
+Sitemap: https://www.esr.cri.nz/sitemap.xml
+
