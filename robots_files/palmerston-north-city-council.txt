@@ -123,6 +123,8 @@ Disallow: /Council-city/Regulations/Alcohol-licensing
 Disallow: /Council-city/Regulations/Bylaws/*
 Disallow: /Council-city/Regulations/Bylaws-[original]/*
 Disallow: /Council-city/What-were-doing/Ongoing-projects-and-programmes/Climate-calculator
+Disallow: /Elections/For-voters-EN/Your-candidates/*
+Disallow: /Elections/Your-candidates/*
 Disallow: /Glossary/*
 Disallow: /Home/Do-It-Online/*
 Disallow: /Home/Emergency-announcements/changed-to-General-and-hidden-Grounds-closed
