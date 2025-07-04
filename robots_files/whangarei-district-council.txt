@@ -1971,6 +1971,7 @@ Disallow: /Temporary-Announcements/AP-Consultation
 Disallow: /Temporary-Announcements/Botanica
 Disallow: /Temporary-Announcements/Botanica-closed
 Disallow: /Temporary-Announcements/Brynderwyns-repairs-delayed
+Disallow: /Temporary-Announcements/Building-consent-calculator
 Disallow: /Temporary-Announcements/Candidates-Information-Evening
 Disallow: /Temporary-Announcements/Canopy-Walkway-temporary-closure
 Disallow: /Temporary-Announcements/Changes-to-community-funding
@@ -1982,6 +1983,7 @@ Disallow: /Temporary-Announcements/Contractors-on-break
 Disallow: /Temporary-Announcements/Copy-of-AP-Consultation-1
 Disallow: /Temporary-Announcements/Copy-of-Contractors-on-break-1
 Disallow: /Temporary-Announcements/Copy-of-Customer-services-hours-1
+Disallow: /Temporary-Announcements/Copy-of-Database-outage-1
 Disallow: /Temporary-Announcements/Copy-of-Weed-spraying-1
 Disallow: /Temporary-Announcements/Customer-services-hours
 Disallow: /Temporary-Announcements/Cyclone-Inspections

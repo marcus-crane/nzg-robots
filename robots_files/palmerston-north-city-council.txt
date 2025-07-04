@@ -123,7 +123,10 @@ Disallow: /Council-city/Regulations/Alcohol-licensing
 Disallow: /Council-city/Regulations/Bylaws/*
 Disallow: /Council-city/Regulations/Bylaws-[original]/*
 Disallow: /Council-city/What-were-doing/Ongoing-projects-and-programmes/Climate-calculator
+Disallow: /Elections/Copy-of-local-elections-FAQs-backcup
 Disallow: /Elections/For-voters-EN/Your-candidates/*
+Disallow: /Elections/Key-dates-for-local-elections/Election-timeline/*
+Disallow: /Elections/voting-booth-locations-2022-local-election/*
 Disallow: /Elections/Your-candidates/*
 Disallow: /Glossary/*
 Disallow: /Home/Do-It-Online/*

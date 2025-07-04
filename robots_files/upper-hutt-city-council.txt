@@ -394,6 +394,8 @@ Disallow: /Council/Council-Meetings/Council-meeting-schedule/Policy/Policy-Commi
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Policy/Policy-Committee-4-September-2024/Policy-Committee-Minutes-4-September-2024
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Policy/Policy-Committee-6-September-2023/Policy-Committee-Agenda-6-September-2023
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Policy/Policy-Committee-6-September-2023/Policy-Committee-Minutes-6-September-2023
+Disallow: /Council/Council-Meetings/Council-meeting-schedule/Policy/Policy-Committee-9-July-2025/New-page
+Disallow: /Council/Council-Meetings/Council-meeting-schedule/Policy/Policy-Committee-9-July-2025/Policy-Committee-Agenda-9-July-2025
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-14-February-2024/Risk-and-Assurance-Committee-Agenda-14-February-2024
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-14-February-2024/Risk-and-Assurance-Committee-Minutes-14-February-2024
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Risk-and-Assurance/Risk-and-Assurance-Committee-14-May-2025/Risk-and-Assurance-Committee-Agenda-14-May-2025
