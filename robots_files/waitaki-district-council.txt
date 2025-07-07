@@ -124,6 +124,7 @@ Disallow: /Council/Council-Meetings/Meeting-Calendar-New
 Disallow: /Council/Council-Meetings/Meeting-Calendarr
 Disallow: /Council/Council-Top-Tasks/Contact-a-Councillor
 Disallow: /Council/Council-Top-Tasks/Council-Meetings
+Disallow: /Council/Council-Top-Tasks/Elections
 Disallow: /Council/Council-Top-Tasks/Have-your-say
 Disallow: /Council/Council-Top-Tasks/Job-Vacancies
 Disallow: /Council/Council-Top-Tasks/Latest-News
