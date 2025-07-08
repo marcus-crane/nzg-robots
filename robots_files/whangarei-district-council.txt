@@ -2834,6 +2834,10 @@ Disallow: /Whats-new/Have-your-say/Current-Consultations/PC-General-Amendments/T
 Disallow: /Whats-new/Have-your-say/Current-Consultations/PC-General-Amendments/Timeline/Feedback-opens
 Disallow: /Whats-new/Have-your-say/Current-Consultations/PC-General-Amendments/Timeline/Formal-consultation
 Disallow: /Whats-new/Have-your-say/Current-Consultations/PC-General-Amendments/Timeline/Prepare-plan-change
+Disallow: /Whats-new/Have-your-say/Current-Consultations/PMP-Survey/PMP-survey-form
+Disallow: /Whats-new/Have-your-say/Current-Consultations/PMP-Survey/Timeline/*
+Disallow: /Whats-new/Have-your-say/Current-Consultations/PMP-Survey/Timeline/Survey-closes
+Disallow: /Whats-new/Have-your-say/Current-Consultations/PMP-Survey/Timeline/Survey-opens
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Portland-WWTP/Feedback-Closes
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Portland-WWTP/Feedback-Starts
 Disallow: /Whats-new/Have-your-say/Current-Consultations/Portland-WWTP/Portland-WWTP-Survey

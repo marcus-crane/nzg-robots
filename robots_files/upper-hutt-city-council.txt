@@ -175,6 +175,7 @@ Disallow: /Council/Council-Meetings/Council-meeting-schedule/City-Services-Commi
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-29-March-2023/City-Services-Committee-Agenda-29-March-2023
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-29-March-2023/City-Services-Committee-Minutes-29-March-2023
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-2-July-2025/City-Services-Agenda-2-July-2025
+Disallow: /Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-2-July-2025/City-Services-Minutes-2-July-2025
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-2-July-2025/New-page
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-3-July-2024/City-Services-Committee-Agenda-3-July-2024
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/City-Services-Committee/City-Services-Committee-3-July-2024/City-Services-Committee-Minutes-3-July-2024
@@ -254,6 +255,7 @@ Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-July-2024/Council-Agenda-30-July-2024
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-July-2024/Council-minutes-30-July-2024
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-June-2025/Council-Agenda-30-June-2025
+Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-June-2025/Council-Minutes-30-June-2025
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-June-2025/New-page
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-October-2024/Council-Agenda-30-October-2024
 Disallow: /Council/Council-Meetings/Council-meeting-schedule/Council/Council-30-October-2024/Council-Minutes-30-October-2024
